@@ -437,7 +437,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: Check the `docs/` directory
 - **Issues**: Submit bugs and feature requests via GitHub Issues
 - **Discussions**: Join community discussions on GitHub Discussions
-- **Email**: Contact maintainers for enterprise support
 
 ## 🎯 Roadmap
 
@@ -452,5 +451,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Performance optimization with query caching
 
 ---
-
-**Built with ❤️ for modern data engineering**
