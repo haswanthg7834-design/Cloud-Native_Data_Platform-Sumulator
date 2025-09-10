@@ -2,8 +2,6 @@
 
 A comprehensive, production-ready data platform demonstrating modern cloud-native architecture with data ingestion, transformation, analytics, and deployment capabilities.
 
-![Data Platform Architecture](architecture.png)
-
 ## 🚀 Features
 
 - **Data Ingestion**: Automated CSV and API data ingestion pipelines
