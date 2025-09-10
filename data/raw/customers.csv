@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,phone,registration_date,age,city,state,segment,is_active
+CUST_000001,Jane,Smith,customer1@email.com,+18479902459,2025-05-07,32,Chicago,TX,Bronze,True
+CUST_000002,John,Smith,customer2@email.com,+11402418010,2025-05-13,50,New York,FL,Platinum,True
+CUST_000003,David,Smith,customer3@email.com,+17110082321,2025-04-20,27,Houston,PA,Bronze,True
+CUST_000004,Jane,Garcia,customer4@email.com,+18934927891,2024-11-04,34,New York,GA,Bronze,False
+CUST_000005,Chris,Johnson,customer5@email.com,+17665963761,2024-10-23,57,Philadelphia,FL,Bronze,True
+CUST_000006,Sarah,Jones,customer6@email.com,+15231494220,2025-05-13,73,Los Angeles,OH,Gold,True
+CUST_000007,Emma,Williams,customer7@email.com,+16884882440,2025-05-25,60,Phoenix,TX,Silver,True
+CUST_000008,Sarah,Williams,customer8@email.com,+17280359794,2025-04-24,77,Houston,PA,Bronze,True
+CUST_000009,John,Garcia,customer9@email.com,+17017956955,2025-08-07,31,Philadelphia,FL,Platinum,True
+CUST_000010,Lisa,Williams,customer10@email.com,+12137651678,2025-05-06,65,Phoenix,OH,Platinum,True
+CUST_000011,Mike,Davis,customer11@email.com,+11470939445,2024-10-23,28,San Antonio,TX,Platinum,True
+CUST_000012,Lisa,Jones,customer12@email.com,+19639245200,2025-07-13,61,Phoenix,PA,Bronze,True
+CUST_000013,Mike,Davis,customer13@email.com,+18385972235,2024-12-27,66,Chicago,TX,Gold,False
+CUST_000014,Sarah,Williams,customer14@email.com,+14944899549,2024-11-07,38,San Diego,CA,Bronze,False
+CUST_000015,David,Brown,customer15@email.com,+11248786714,2024-11-23,78,Los Angeles,TX,Platinum,False
+CUST_000016,Mike,Williams,customer16@email.com,+18128575500,2024-12-02,28,Phoenix,OH,Silver,False
+CUST_000017,Sarah,Jones,customer17@email.com,+16898796145,2024-12-19,46,Los Angeles,FL,Silver,True
+CUST_000018,John,Brown,customer18@email.com,+13527331058,2025-09-06,22,New York,FL,Bronze,False
+CUST_000019,Emma,Johnson,customer19@email.com,+13208283728,2025-04-20,60,San Diego,FL,Silver,True
+CUST_000020,Lisa,Brown,customer20@email.com,+18664882079,2025-02-13,30,Los Angeles,TX,Platinum,True
+CUST_000021,Chris,Davis,customer21@email.com,+19822598054,2024-10-10,80,Los Angeles,CA,Platinum,True
+CUST_000022,Jane,Brown,customer22@email.com,+11822873088,2024-12-09,46,Chicago,OH,Silver,True
+CUST_000023,Sarah,Johnson,customer23@email.com,+13363629219,2025-08-15,59,New York,TX,Silver,True
+CUST_000024,Lisa,Davis,customer24@email.com,+11251837136,2025-02-27,18,San Antonio,IL,Platinum,True
+CUST_000025,Lisa,Williams,customer25@email.com,+16110572428,2025-05-21,79,New York,CA,Gold,True
+CUST_000026,Lisa,Williams,customer26@email.com,+13181106786,2025-06-06,22,Los Angeles,FL,Platinum,True
+CUST_000027,Sarah,Smith,customer27@email.com,+13660223333,2025-02-07,60,Philadelphia,IL,Silver,True
+CUST_000028,Emma,Brown,customer28@email.com,+16435772945,2025-07-04,60,Phoenix,GA,Gold,False
+CUST_000029,Jane,Smith,customer29@email.com,+15278201677,2025-08-03,52,Houston,IL,Silver,False
+CUST_000030,Jane,Brown,customer30@email.com,+16882074066,2025-06-21,46,Phoenix,CA,Gold,False
+CUST_000031,Jane,Williams,customer31@email.com,+12135872495,2025-07-17,65,Chicago,IL,Gold,True
+CUST_000032,Emma,Brown,customer32@email.com,+18958199946,2024-12-25,49,Phoenix,CA,Bronze,True
+CUST_000033,David,Smith,customer33@email.com,+15310195918,2025-07-05,58,Phoenix,NY,Platinum,True
+CUST_000034,Chris,Smith,customer34@email.com,+11480494664,2024-09-21,75,Chicago,CA,Gold,True
+CUST_000035,Mike,Miller,customer35@email.com,+11547374338,2025-04-05,41,New York,PA,Silver,True
+CUST_000036,Jane,Garcia,customer36@email.com,+14993808565,2025-06-18,80,Chicago,OH,Bronze,True
+CUST_000037,Emma,Miller,customer37@email.com,+14482141802,2025-04-26,28,Los Angeles,OH,Bronze,False
+CUST_000038,Sarah,Brown,customer38@email.com,+17271954644,2025-04-06,70,Houston,FL,Bronze,True
+CUST_000039,Chris,Garcia,customer39@email.com,+18616379926,2025-03-14,59,San Antonio,PA,Bronze,True
+CUST_000040,David,Williams,customer40@email.com,+19519284858,2025-08-21,24,San Antonio,PA,Gold,True
+CUST_000041,Jane,Miller,customer41@email.com,+16111349421,2025-08-18,63,San Antonio,CA,Silver,True
+CUST_000042,Jane,Garcia,customer42@email.com,+17971399399,2024-10-05,72,Los Angeles,IL,Gold,True
+CUST_000043,Emma,Miller,customer43@email.com,+18289454630,2024-11-30,26,Houston,OH,Platinum,True
+CUST_000044,Mike,Jones,customer44@email.com,+14580822352,2025-04-07,36,Houston,OH,Gold,True
+CUST_000045,Lisa,Brown,customer45@email.com,+17490442894,2025-06-15,60,Los Angeles,IL,Gold,True
+CUST_000046,Sarah,Jones,customer46@email.com,+11855256552,2025-08-28,20,Houston,GA,Bronze,True
+CUST_000047,Sarah,Miller,customer47@email.com,+17418301077,2025-05-08,27,New York,TX,Platinum,True
+CUST_000048,Lisa,Smith,customer48@email.com,+13394039673,2025-07-09,47,Chicago,GA,Gold,False
+CUST_000049,Lisa,Miller,customer49@email.com,+17648059419,2025-06-20,65,San Diego,GA,Gold,True
+CUST_000050,David,Davis,customer50@email.com,+13691864041,2025-04-22,46,Los Angeles,IL,Silver,True
+CUST_000051,Emma,Johnson,customer51@email.com,+11594312071,2025-05-14,42,Chicago,FL,Bronze,True
+CUST_000052,Emma,Davis,customer52@email.com,+12785736751,2025-05-27,71,San Antonio,OH,Bronze,False
+CUST_000053,Chris,Davis,customer53@email.com,+16805759868,2025-02-22,72,San Antonio,FL,Platinum,True
+CUST_000054,Chris,Davis,customer54@email.com,+15419627962,2025-03-21,60,San Antonio,NY,Platinum,False
+CUST_000055,John,Miller,customer55@email.com,+13847562279,2025-07-29,59,San Antonio,NY,Platinum,True
+CUST_000056,David,Miller,customer56@email.com,+12405969000,2025-01-20,38,Philadelphia,OH,Gold,True
+CUST_000057,Chris,Jones,customer57@email.com,+14585915088,2025-01-12,19,New York,PA,Silver,True
+CUST_000058,John,Smith,customer58@email.com,+15078551333,2025-05-30,71,New York,NY,Silver,True
+CUST_000059,Jane,Brown,customer59@email.com,+12584392711,2024-11-03,56,Los Angeles,NY,Gold,True
+CUST_000060,John,Jones,customer60@email.com,+16906898409,2025-05-31,22,Houston,TX,Gold,False
+CUST_000061,Jane,Smith,customer61@email.com,+12591589823,2024-12-24,59,Philadelphia,CA,Platinum,False
+CUST_000062,Jane,Miller,customer62@email.com,+19421518487,2024-10-19,75,San Diego,NY,Platinum,True
+CUST_000063,David,Davis,customer63@email.com,+17291584955,2024-11-10,35,Philadelphia,FL,Bronze,True
+CUST_000064,Lisa,Brown,customer64@email.com,+18518238399,2024-11-22,57,San Antonio,PA,Bronze,True
+CUST_000065,Emma,Williams,customer65@email.com,+13094011037,2025-03-12,69,Phoenix,PA,Gold,False
+CUST_000066,David,Smith,customer66@email.com,+11820581106,2025-05-09,64,San Antonio,GA,Silver,True
+CUST_000067,Lisa,Davis,customer67@email.com,+14405620755,2025-07-24,36,Houston,OH,Silver,True
+CUST_000068,Emma,Davis,customer68@email.com,+16771394050,2024-12-02,39,Philadelphia,GA,Gold,True
+CUST_000069,Sarah,Johnson,customer69@email.com,+14097892639,2025-04-01,25,Chicago,FL,Silver,True
+CUST_000070,David,Jones,customer70@email.com,+15211261115,2025-06-02,36,Houston,PA,Silver,True
+CUST_000071,Mike,Jones,customer71@email.com,+19824122054,2025-04-13,62,Chicago,GA,Bronze,False
+CUST_000072,David,Davis,customer72@email.com,+17351029162,2025-03-19,29,New York,IL,Platinum,True
+CUST_000073,Jane,Miller,customer73@email.com,+13112035409,2024-11-18,58,New York,NY,Silver,False
+CUST_000074,David,Johnson,customer74@email.com,+15268845844,2025-07-11,53,San Antonio,FL,Platinum,True
+CUST_000075,Lisa,Jones,customer75@email.com,+19547119184,2025-04-06,54,New York,TX,Silver,True
+CUST_000076,David,Johnson,customer76@email.com,+11674555072,2025-06-13,53,Los Angeles,NY,Bronze,True
+CUST_000077,Lisa,Jones,customer77@email.com,+11140187131,2025-04-15,63,Phoenix,GA,Bronze,True
+CUST_000078,David,Brown,customer78@email.com,+12825957977,2024-12-05,32,Chicago,IL,Silver,True
+CUST_000079,Mike,Jones,customer79@email.com,+19251459094,2025-01-28,25,San Diego,IL,Platinum,False
+CUST_000080,Lisa,Davis,customer80@email.com,+19935429720,2025-08-20,74,San Antonio,PA,Gold,True
+CUST_000081,Sarah,Smith,customer81@email.com,+14248149900,2025-01-12,51,San Diego,IL,Silver,False
+CUST_000082,Chris,Davis,customer82@email.com,+15162060546,2025-01-12,40,San Antonio,PA,Gold,True
+CUST_000083,Mike,Garcia,customer83@email.com,+17422990551,2024-10-05,78,San Antonio,CA,Platinum,True
+CUST_000084,David,Garcia,customer84@email.com,+18613035386,2024-12-20,70,New York,GA,Platinum,True
+CUST_000085,Emma,Davis,customer85@email.com,+17981077394,2025-08-14,31,Phoenix,NY,Gold,True
+CUST_000086,Lisa,Johnson,customer86@email.com,+14433026356,2024-09-11,28,Phoenix,CA,Platinum,True
+CUST_000087,Jane,Davis,customer87@email.com,+15067594934,2024-10-13,71,Chicago,GA,Gold,True
+CUST_000088,David,Miller,customer88@email.com,+18880079328,2025-01-11,33,San Diego,NY,Platinum,True
+CUST_000089,Mike,Johnson,customer89@email.com,+17077131430,2024-12-24,35,New York,IL,Gold,False
+CUST_000090,Lisa,Williams,customer90@email.com,+17375197714,2025-03-23,53,San Antonio,GA,Gold,False
+CUST_000091,Sarah,Miller,customer91@email.com,+18625905455,2025-08-18,38,San Diego,OH,Platinum,False
+CUST_000092,Mike,Davis,customer92@email.com,+15143889422,2025-07-07,50,Philadelphia,TX,Platinum,True
+CUST_000093,Lisa,Smith,customer93@email.com,+14102872611,2025-02-12,73,Chicago,TX,Platinum,True
+CUST_000094,David,Garcia,customer94@email.com,+17586857685,2025-03-31,58,San Diego,CA,Bronze,True
+CUST_000095,David,Brown,customer95@email.com,+14207337120,2025-01-30,80,Los Angeles,TX,Platinum,True
+CUST_000096,David,Smith,customer96@email.com,+15492496998,2025-08-12,36,Philadelphia,PA,Platinum,True
+CUST_000097,Chris,Williams,customer97@email.com,+11730074215,2025-07-31,57,San Antonio,FL,Platinum,False
+CUST_000098,Mike,Brown,customer98@email.com,+16385791669,2025-05-02,60,New York,GA,Gold,True
+CUST_000099,Mike,Johnson,customer99@email.com,+17818568548,2024-10-17,79,San Antonio,IL,Platinum,False
+CUST_000100,Sarah,Miller,customer100@email.com,+18960015186,2025-07-17,33,San Antonio,PA,Gold,False
+CUST_000101,David,Smith,customer101@email.com,+18122042835,2025-04-22,18,New York,GA,Gold,True
+CUST_000102,Sarah,Garcia,customer102@email.com,+15464285982,2025-01-27,20,Philadelphia,NY,Bronze,False
+CUST_000103,Emma,Miller,customer103@email.com,+11754368373,2025-07-04,68,Philadelphia,IL,Silver,True
+CUST_000104,Lisa,Jones,customer104@email.com,+15789617427,2025-08-02,27,Houston,OH,Gold,True
+CUST_000105,Chris,Smith,customer105@email.com,+15825776872,2025-03-05,61,Phoenix,OH,Gold,True
+CUST_000106,Sarah,Davis,customer106@email.com,+19697414638,2024-11-26,38,Houston,TX,Platinum,False
+CUST_000107,David,Miller,customer107@email.com,+11501119337,2025-08-17,78,New York,IL,Platinum,True
+CUST_000108,Sarah,Williams,customer108@email.com,+16964188417,2025-03-04,60,San Antonio,NY,Platinum,True
+CUST_000109,Lisa,Miller,customer109@email.com,+12201474778,2024-09-21,41,Houston,GA,Platinum,False
+CUST_000110,Emma,Johnson,customer110@email.com,+18064477344,2025-08-09,43,Phoenix,FL,Bronze,False
+CUST_000111,Lisa,Johnson,customer111@email.com,+13846570058,2024-10-16,58,New York,CA,Gold,True
+CUST_000112,Mike,Brown,customer112@email.com,+14735313433,2025-03-25,67,Chicago,CA,Gold,False
+CUST_000113,Mike,Williams,customer113@email.com,+17615175036,2025-06-12,25,New York,NY,Bronze,True
+CUST_000114,Sarah,Garcia,customer114@email.com,+11067779246,2025-04-27,21,Chicago,OH,Bronze,True
+CUST_000115,Lisa,Davis,customer115@email.com,+18636525027,2024-12-21,55,Los Angeles,GA,Silver,False
+CUST_000116,John,Jones,customer116@email.com,+15140460939,2025-08-09,48,San Antonio,OH,Bronze,True
+CUST_000117,Lisa,Johnson,customer117@email.com,+14862321353,2025-03-29,56,Chicago,TX,Silver,True
+CUST_000118,Emma,Miller,customer118@email.com,+17573691558,2025-01-20,50,San Antonio,TX,Bronze,False
+CUST_000119,Sarah,Miller,customer119@email.com,+16276339732,2025-03-20,70,San Diego,OH,Platinum,True
+CUST_000120,Emma,Miller,customer120@email.com,+16389710636,2025-06-23,61,San Diego,TX,Bronze,False
+CUST_000121,Jane,Miller,customer121@email.com,+18468071953,2025-07-05,53,New York,PA,Bronze,True
+CUST_000122,Chris,Smith,customer122@email.com,+19454207717,2024-11-06,37,Philadelphia,TX,Silver,True
+CUST_000123,Lisa,Brown,customer123@email.com,+14639017775,2025-03-14,72,Philadelphia,TX,Gold,True
+CUST_000124,Chris,Smith,customer124@email.com,+18273403366,2025-08-26,29,Phoenix,IL,Gold,True
+CUST_000125,Mike,Williams,customer125@email.com,+12721355673,2025-06-29,65,New York,TX,Silver,True
+CUST_000126,Lisa,Garcia,customer126@email.com,+15971034978,2025-04-03,64,Philadelphia,TX,Bronze,True
+CUST_000127,John,Johnson,customer127@email.com,+16463640105,2024-10-06,45,San Diego,GA,Platinum,True
+CUST_000128,Jane,Garcia,customer128@email.com,+12846465000,2025-04-17,61,San Diego,IL,Bronze,True
+CUST_000129,John,Smith,customer129@email.com,+16172957943,2025-05-24,67,Chicago,IL,Gold,True
+CUST_000130,John,Davis,customer130@email.com,+18503368512,2025-06-12,26,San Antonio,FL,Gold,True
+CUST_000131,John,Miller,customer131@email.com,+15375461598,2025-08-01,73,Philadelphia,OH,Platinum,True
+CUST_000132,Chris,Jones,customer132@email.com,+15789633176,2025-08-30,79,Philadelphia,NY,Platinum,False
+CUST_000133,Emma,Johnson,customer133@email.com,+11454678712,2025-01-29,55,San Antonio,TX,Platinum,False
+CUST_000134,Emma,Brown,customer134@email.com,+11722124509,2024-12-22,58,Los Angeles,FL,Gold,True
+CUST_000135,Mike,Brown,customer135@email.com,+11441542090,2025-05-01,30,Chicago,NY,Bronze,True
+CUST_000136,Lisa,Davis,customer136@email.com,+17977267911,2024-10-23,38,Chicago,GA,Bronze,True
+CUST_000137,David,Jones,customer137@email.com,+13540128512,2025-03-13,50,Los Angeles,IL,Platinum,True
+CUST_000138,John,Garcia,customer138@email.com,+18867077130,2025-08-01,59,Los Angeles,OH,Platinum,True
+CUST_000139,John,Davis,customer139@email.com,+16103449651,2024-11-04,48,Chicago,CA,Platinum,True
+CUST_000140,Emma,Johnson,customer140@email.com,+11741134891,2025-05-06,63,San Diego,GA,Silver,True
+CUST_000141,David,Miller,customer141@email.com,+13567900251,2024-10-21,59,Philadelphia,TX,Gold,True
+CUST_000142,Chris,Jones,customer142@email.com,+15940815822,2025-07-30,55,Chicago,PA,Gold,False
+CUST_000143,Chris,Williams,customer143@email.com,+15028688786,2025-04-04,53,San Antonio,PA,Silver,True
+CUST_000144,Jane,Miller,customer144@email.com,+17478908722,2025-08-31,41,Phoenix,NY,Silver,True
+CUST_000145,Lisa,Brown,customer145@email.com,+11590838716,2025-08-01,36,Los Angeles,CA,Gold,False
+CUST_000146,Mike,Miller,customer146@email.com,+11662510569,2025-06-09,71,Chicago,GA,Bronze,True
+CUST_000147,Sarah,Davis,customer147@email.com,+17917454662,2025-01-23,32,Houston,IL,Platinum,False
+CUST_000148,Sarah,Garcia,customer148@email.com,+17187318744,2025-04-18,67,San Antonio,OH,Silver,False
+CUST_000149,Mike,Jones,customer149@email.com,+19814045133,2025-01-06,73,Philadelphia,TX,Bronze,True
+CUST_000150,Mike,Jones,customer150@email.com,+13204833223,2025-01-29,23,Houston,GA,Gold,False
+CUST_000151,Chris,Smith,customer151@email.com,+12606152369,2025-02-24,23,Philadelphia,FL,Bronze,True
+CUST_000152,Jane,Garcia,customer152@email.com,+14398953973,2025-07-01,20,Phoenix,GA,Silver,True
+CUST_000153,Lisa,Davis,customer153@email.com,+13642900640,2025-07-31,19,Phoenix,FL,Silver,True
+CUST_000154,Chris,Johnson,customer154@email.com,+18628603366,2025-05-11,37,Los Angeles,CA,Silver,True
+CUST_000155,Lisa,Johnson,customer155@email.com,+19182543558,2024-11-08,52,New York,FL,Silver,True
+CUST_000156,John,Garcia,customer156@email.com,+12789144223,2024-10-04,60,Los Angeles,PA,Bronze,False
+CUST_000157,John,Miller,customer157@email.com,+19045897249,2025-08-18,58,San Antonio,PA,Gold,True
+CUST_000158,Emma,Johnson,customer158@email.com,+12480915452,2024-10-08,58,Los Angeles,PA,Silver,True
+CUST_000159,Emma,Williams,customer159@email.com,+18235656521,2024-09-18,48,Chicago,NY,Bronze,True
+CUST_000160,Lisa,Smith,customer160@email.com,+12260326267,2025-08-18,68,Houston,CA,Gold,False
+CUST_000161,Chris,Davis,customer161@email.com,+12087974350,2024-10-13,30,Phoenix,PA,Bronze,False
+CUST_000162,Emma,Jones,customer162@email.com,+16875597607,2025-02-17,65,San Diego,OH,Gold,False
+CUST_000163,Lisa,Davis,customer163@email.com,+19944748312,2025-02-04,23,San Antonio,NY,Gold,True
+CUST_000164,Jane,Garcia,customer164@email.com,+18133593748,2025-04-06,46,San Antonio,NY,Platinum,True
+CUST_000165,John,Garcia,customer165@email.com,+17163022531,2024-10-17,80,New York,TX,Platinum,True
+CUST_000166,Mike,Smith,customer166@email.com,+18650676663,2025-08-23,26,Los Angeles,FL,Gold,True
+CUST_000167,John,Williams,customer167@email.com,+18211516617,2025-03-04,41,San Diego,TX,Silver,True
+CUST_000168,Chris,Garcia,customer168@email.com,+18084809436,2025-05-05,79,Los Angeles,CA,Silver,True
+CUST_000169,Chris,Johnson,customer169@email.com,+12916728422,2024-10-31,36,San Diego,FL,Bronze,True
+CUST_000170,Jane,Davis,customer170@email.com,+18358867651,2025-07-27,69,Philadelphia,PA,Bronze,True
+CUST_000171,David,Jones,customer171@email.com,+14656572173,2024-09-10,63,Chicago,PA,Silver,True
+CUST_000172,Sarah,Williams,customer172@email.com,+13121808073,2025-03-09,53,Philadelphia,GA,Silver,True
+CUST_000173,Jane,Johnson,customer173@email.com,+16623360831,2025-01-07,51,San Antonio,OH,Bronze,True
+CUST_000174,Emma,Johnson,customer174@email.com,+17227593033,2024-09-26,51,Philadelphia,NY,Silver,True
+CUST_000175,Mike,Miller,customer175@email.com,+14728940550,2025-07-08,51,Chicago,IL,Silver,True
+CUST_000176,Sarah,Garcia,customer176@email.com,+15633668009,2025-06-01,58,Phoenix,NY,Gold,True
+CUST_000177,Jane,Williams,customer177@email.com,+13493857758,2025-06-14,60,Philadelphia,CA,Bronze,True
+CUST_000178,David,Brown,customer178@email.com,+13744446292,2024-12-29,74,Phoenix,IL,Platinum,True
+CUST_000179,Chris,Jones,customer179@email.com,+12947957237,2024-09-22,21,Chicago,GA,Platinum,True
+CUST_000180,Sarah,Garcia,customer180@email.com,+13605585995,2025-04-02,73,Philadelphia,PA,Platinum,True
+CUST_000181,Emma,Johnson,customer181@email.com,+12370592316,2025-01-14,25,Phoenix,GA,Silver,True
+CUST_000182,John,Jones,customer182@email.com,+19355364489,2024-10-29,44,Houston,NY,Gold,False
+CUST_000183,Emma,Brown,customer183@email.com,+14277581356,2024-12-28,50,San Diego,GA,Gold,True
+CUST_000184,Jane,Miller,customer184@email.com,+17465834732,2025-05-09,31,Philadelphia,CA,Bronze,True
+CUST_000185,Lisa,Jones,customer185@email.com,+13305069227,2025-07-16,45,Chicago,IL,Gold,True
+CUST_000186,Emma,Smith,customer186@email.com,+12720484983,2024-11-22,53,Houston,PA,Gold,True
+CUST_000187,Lisa,Jones,customer187@email.com,+13624410325,2025-07-06,80,Los Angeles,OH,Gold,True
+CUST_000188,Emma,Garcia,customer188@email.com,+14242550727,2025-05-31,56,San Antonio,CA,Bronze,True
+CUST_000189,Emma,Davis,customer189@email.com,+17525484303,2025-06-25,56,Chicago,PA,Gold,True
+CUST_000190,David,Garcia,customer190@email.com,+17712708591,2025-01-09,70,New York,PA,Gold,True
+CUST_000191,Chris,Jones,customer191@email.com,+19704383251,2025-01-10,34,Houston,CA,Platinum,True
+CUST_000192,Chris,Williams,customer192@email.com,+12040226318,2024-11-20,78,Los Angeles,FL,Bronze,True
+CUST_000193,Chris,Williams,customer193@email.com,+16170675398,2024-12-27,67,San Diego,CA,Silver,True
+CUST_000194,Emma,Davis,customer194@email.com,+17551874474,2025-04-02,79,Chicago,GA,Gold,True
+CUST_000195,David,Davis,customer195@email.com,+16353758928,2024-11-28,37,Houston,IL,Gold,True
+CUST_000196,Lisa,Garcia,customer196@email.com,+17355707297,2024-11-27,77,Phoenix,IL,Bronze,True
+CUST_000197,Chris,Miller,customer197@email.com,+18809871735,2025-06-27,36,New York,IL,Bronze,True
+CUST_000198,Lisa,Jones,customer198@email.com,+18504761698,2025-05-23,30,Phoenix,IL,Silver,True
+CUST_000199,Sarah,Brown,customer199@email.com,+19807970435,2024-12-12,32,Houston,CA,Bronze,True
+CUST_000200,Lisa,Johnson,customer200@email.com,+11590416424,2024-12-02,80,Chicago,OH,Platinum,True
+CUST_000201,Sarah,Jones,customer201@email.com,+16674372082,2024-10-14,21,Los Angeles,FL,Bronze,False
+CUST_000202,Mike,Miller,customer202@email.com,+14949801453,2025-02-18,68,San Diego,NY,Gold,False
+CUST_000203,John,Jones,customer203@email.com,+19516893896,2025-04-17,47,San Diego,NY,Platinum,True
+CUST_000204,Jane,Garcia,customer204@email.com,+11799718923,2025-03-21,68,Phoenix,FL,Silver,True
+CUST_000205,Chris,Miller,customer205@email.com,+17508080884,2025-07-27,43,Los Angeles,NY,Silver,True
+CUST_000206,Sarah,Smith,customer206@email.com,+16415031531,2025-05-12,46,Phoenix,PA,Gold,True
+CUST_000207,John,Jones,customer207@email.com,+18102515984,2024-09-20,33,New York,TX,Platinum,True
+CUST_000208,Chris,Jones,customer208@email.com,+13964774623,2024-10-17,76,Phoenix,PA,Silver,True
+CUST_000209,Mike,Davis,customer209@email.com,+15952894290,2024-11-03,41,San Antonio,GA,Silver,True
+CUST_000210,Jane,Davis,customer210@email.com,+12553854176,2024-11-25,25,New York,FL,Silver,True
+CUST_000211,Lisa,Johnson,customer211@email.com,+13921845810,2024-11-15,49,Los Angeles,GA,Bronze,True
+CUST_000212,Chris,Davis,customer212@email.com,+13421980125,2024-11-27,47,Phoenix,CA,Platinum,True
+CUST_000213,John,Brown,customer213@email.com,+13483827971,2025-08-17,45,Philadelphia,TX,Bronze,False
+CUST_000214,Jane,Davis,customer214@email.com,+15431267548,2025-02-12,29,Chicago,OH,Gold,False
+CUST_000215,Chris,Davis,customer215@email.com,+19189503254,2025-03-01,23,Chicago,PA,Bronze,True
+CUST_000216,Chris,Williams,customer216@email.com,+16576426590,2024-09-30,64,San Antonio,OH,Silver,True
+CUST_000217,Emma,Williams,customer217@email.com,+12183906581,2025-07-14,20,San Antonio,CA,Silver,True
+CUST_000218,Jane,Smith,customer218@email.com,+14746123831,2025-05-07,65,New York,OH,Platinum,True
+CUST_000219,Sarah,Smith,customer219@email.com,+19561946187,2025-05-13,70,Philadelphia,PA,Silver,True
+CUST_000220,Mike,Brown,customer220@email.com,+17071194857,2025-04-22,21,Chicago,OH,Platinum,True
+CUST_000221,Emma,Miller,customer221@email.com,+17083067988,2025-06-25,37,San Antonio,NY,Platinum,True
+CUST_000222,Sarah,Jones,customer222@email.com,+19837427517,2025-02-10,79,San Antonio,NY,Platinum,True
+CUST_000223,Sarah,Garcia,customer223@email.com,+13777580509,2025-01-22,72,Philadelphia,TX,Silver,True
+CUST_000224,Chris,Smith,customer224@email.com,+14752171298,2025-06-05,69,Houston,GA,Silver,False
+CUST_000225,Emma,Jones,customer225@email.com,+11065857791,2025-06-04,79,Los Angeles,GA,Silver,True
+CUST_000226,Sarah,Miller,customer226@email.com,+14930438209,2024-12-01,38,Phoenix,OH,Platinum,True
+CUST_000227,Emma,Jones,customer227@email.com,+16418365941,2024-12-21,74,San Diego,GA,Bronze,False
+CUST_000228,Lisa,Garcia,customer228@email.com,+14927019611,2025-03-04,38,San Antonio,CA,Silver,True
+CUST_000229,John,Jones,customer229@email.com,+18387395021,2025-04-11,27,Houston,PA,Silver,True
+CUST_000230,Sarah,Davis,customer230@email.com,+16744794855,2025-01-02,79,San Diego,GA,Silver,True
+CUST_000231,Emma,Williams,customer231@email.com,+17642365889,2025-06-07,76,New York,CA,Bronze,False
+CUST_000232,John,Smith,customer232@email.com,+12771211118,2024-10-22,32,Los Angeles,NY,Bronze,True
+CUST_000233,Lisa,Garcia,customer233@email.com,+19849565863,2024-10-18,60,San Diego,GA,Bronze,True
+CUST_000234,Chris,Smith,customer234@email.com,+19661772834,2025-04-22,52,Phoenix,CA,Platinum,False
+CUST_000235,Mike,Johnson,customer235@email.com,+14942989764,2024-12-15,27,Houston,FL,Gold,False
+CUST_000236,David,Miller,customer236@email.com,+15634352383,2025-02-14,47,Houston,FL,Gold,True
+CUST_000237,Jane,Smith,customer237@email.com,+15696548897,2025-02-27,42,San Diego,CA,Bronze,True
+CUST_000238,Jane,Davis,customer238@email.com,+18925631115,2024-10-14,68,Philadelphia,TX,Bronze,True
+CUST_000239,Lisa,Jones,customer239@email.com,+19909257076,2025-04-19,75,New York,NY,Gold,True
+CUST_000240,Sarah,Williams,customer240@email.com,+15625411308,2025-06-18,54,Houston,OH,Gold,True
+CUST_000241,Mike,Johnson,customer241@email.com,+19479654136,2025-08-13,24,San Antonio,FL,Bronze,True
+CUST_000242,Chris,Garcia,customer242@email.com,+19717175839,2025-04-23,68,San Diego,GA,Silver,True
+CUST_000243,Chris,Miller,customer243@email.com,+12632399901,2024-10-28,36,Houston,TX,Bronze,True
+CUST_000244,Chris,Williams,customer244@email.com,+18471762590,2025-03-31,41,Los Angeles,TX,Bronze,False
+CUST_000245,Lisa,Garcia,customer245@email.com,+18564925592,2025-07-19,26,Los Angeles,NY,Platinum,True
+CUST_000246,Chris,Johnson,customer246@email.com,+11112794026,2025-03-12,53,Los Angeles,PA,Platinum,True
+CUST_000247,Chris,Miller,customer247@email.com,+14346505855,2024-11-27,75,Houston,NY,Platinum,True
+CUST_000248,David,Jones,customer248@email.com,+16447765697,2025-06-27,22,Chicago,OH,Gold,True
+CUST_000249,Lisa,Johnson,customer249@email.com,+16845987005,2025-05-06,64,San Diego,FL,Platinum,True
+CUST_000250,David,Smith,customer250@email.com,+19370133032,2025-03-23,71,San Antonio,PA,Platinum,True
+CUST_000251,Mike,Jones,customer251@email.com,+16157617867,2025-04-02,29,San Antonio,PA,Gold,True
+CUST_000252,Lisa,Brown,customer252@email.com,+16694638039,2025-04-19,70,San Antonio,PA,Bronze,False
+CUST_000253,Sarah,Williams,customer253@email.com,+13362657890,2025-01-16,78,Houston,GA,Gold,False
+CUST_000254,Jane,Miller,customer254@email.com,+18185384294,2025-06-30,58,Phoenix,FL,Gold,True
+CUST_000255,Chris,Miller,customer255@email.com,+15612645121,2024-11-07,48,San Antonio,OH,Bronze,True
+CUST_000256,Emma,Johnson,customer256@email.com,+18149805821,2025-06-16,59,New York,OH,Gold,False
+CUST_000257,Chris,Johnson,customer257@email.com,+11045302356,2025-04-30,32,Houston,GA,Gold,True
+CUST_000258,Mike,Garcia,customer258@email.com,+15285100605,2025-01-05,24,Phoenix,OH,Bronze,True
+CUST_000259,Mike,Garcia,customer259@email.com,+16634526139,2025-01-19,68,Houston,GA,Gold,True
+CUST_000260,Lisa,Davis,customer260@email.com,+12369705770,2025-04-09,20,Los Angeles,CA,Gold,True
+CUST_000261,Mike,Brown,customer261@email.com,+13216176949,2024-12-01,28,Philadelphia,OH,Platinum,True
+CUST_000262,Chris,Williams,customer262@email.com,+18118083267,2025-02-19,19,Houston,GA,Platinum,True
+CUST_000263,Sarah,Brown,customer263@email.com,+14418828570,2024-11-18,24,Chicago,PA,Gold,True
+CUST_000264,Jane,Jones,customer264@email.com,+15785590330,2025-03-13,72,San Diego,NY,Gold,False
+CUST_000265,Jane,Williams,customer265@email.com,+12345122542,2025-05-10,37,Los Angeles,NY,Gold,True
+CUST_000266,Chris,Miller,customer266@email.com,+13561629386,2024-11-19,42,San Antonio,NY,Platinum,True
+CUST_000267,Mike,Williams,customer267@email.com,+17397963801,2025-06-30,29,Philadelphia,GA,Bronze,False
+CUST_000268,John,Davis,customer268@email.com,+11586412136,2025-02-25,79,San Diego,OH,Platinum,True
+CUST_000269,Lisa,Davis,customer269@email.com,+11718348264,2024-11-24,19,Houston,IL,Bronze,True
+CUST_000270,David,Williams,customer270@email.com,+18648220906,2024-11-24,65,San Diego,TX,Bronze,True
+CUST_000271,Emma,Smith,customer271@email.com,+12826025489,2024-10-10,66,Houston,IL,Bronze,True
+CUST_000272,Emma,Johnson,customer272@email.com,+15269015757,2025-05-11,31,Philadelphia,OH,Silver,True
+CUST_000273,Sarah,Brown,customer273@email.com,+14459340599,2024-11-22,40,Phoenix,NY,Gold,False
+CUST_000274,David,Jones,customer274@email.com,+17754847890,2024-12-20,75,Los Angeles,NY,Platinum,False
+CUST_000275,David,Williams,customer275@email.com,+11569902893,2025-06-27,63,Philadelphia,FL,Platinum,True
+CUST_000276,David,Miller,customer276@email.com,+16906320181,2025-08-02,58,Los Angeles,OH,Gold,True
+CUST_000277,Emma,Davis,customer277@email.com,+19376277483,2025-03-26,55,New York,TX,Platinum,True
+CUST_000278,Emma,Johnson,customer278@email.com,+12708176663,2025-02-02,70,Houston,GA,Gold,True
+CUST_000279,David,Garcia,customer279@email.com,+18956094389,2025-03-18,75,New York,CA,Bronze,True
+CUST_000280,Lisa,Smith,customer280@email.com,+14683585586,2025-01-27,47,New York,OH,Silver,False
+CUST_000281,Mike,Jones,customer281@email.com,+12176904638,2024-10-09,41,Phoenix,TX,Gold,True
+CUST_000282,Mike,Smith,customer282@email.com,+16300607425,2024-10-09,23,Los Angeles,CA,Silver,True
+CUST_000283,Mike,Brown,customer283@email.com,+12911547690,2025-09-05,62,Philadelphia,TX,Platinum,True
+CUST_000284,Lisa,Johnson,customer284@email.com,+16278286600,2025-07-26,64,Los Angeles,TX,Gold,True
+CUST_000285,David,Williams,customer285@email.com,+14755937285,2024-10-16,61,Chicago,TX,Bronze,True
+CUST_000286,Mike,Davis,customer286@email.com,+14213790202,2025-02-11,57,San Diego,FL,Bronze,False
+CUST_000287,Mike,Johnson,customer287@email.com,+16944371787,2025-02-02,38,Chicago,FL,Gold,True
+CUST_000288,Sarah,Jones,customer288@email.com,+13965572185,2024-10-07,74,Phoenix,FL,Silver,True
+CUST_000289,David,Smith,customer289@email.com,+16322929387,2025-02-24,25,Houston,GA,Bronze,True
+CUST_000290,John,Garcia,customer290@email.com,+19306142066,2025-07-04,42,San Antonio,PA,Silver,True
+CUST_000291,Jane,Smith,customer291@email.com,+13522707023,2025-09-02,34,Houston,CA,Bronze,False
+CUST_000292,Chris,Jones,customer292@email.com,+17079234115,2024-09-15,43,Los Angeles,NY,Gold,True
+CUST_000293,Jane,Brown,customer293@email.com,+16698349136,2024-11-13,58,Los Angeles,IL,Platinum,True
+CUST_000294,Sarah,Smith,customer294@email.com,+12050032570,2025-01-30,25,San Diego,CA,Gold,True
+CUST_000295,Mike,Johnson,customer295@email.com,+19644330231,2025-07-01,62,New York,NY,Platinum,False
+CUST_000296,David,Williams,customer296@email.com,+12597167064,2025-04-25,64,Los Angeles,CA,Gold,False
+CUST_000297,David,Johnson,customer297@email.com,+13695232998,2024-12-29,47,Philadelphia,CA,Platinum,False
+CUST_000298,Mike,Garcia,customer298@email.com,+15970608512,2025-07-19,75,Los Angeles,FL,Bronze,True
+CUST_000299,John,Brown,customer299@email.com,+15492456455,2025-03-07,42,Chicago,NY,Bronze,True
+CUST_000300,Chris,Brown,customer300@email.com,+12382129132,2025-02-08,76,Philadelphia,IL,Bronze,True
+CUST_000301,Jane,Smith,customer301@email.com,+11770278136,2024-12-19,80,New York,OH,Bronze,False
+CUST_000302,David,Jones,customer302@email.com,+12405746777,2024-11-30,47,New York,PA,Silver,True
+CUST_000303,David,Brown,customer303@email.com,+17287517250,2024-11-11,80,San Diego,FL,Silver,True
+CUST_000304,Chris,Smith,customer304@email.com,+14767539382,2025-03-22,18,San Antonio,IL,Bronze,True
+CUST_000305,Sarah,Miller,customer305@email.com,+15281907480,2024-09-10,35,Los Angeles,CA,Silver,False
+CUST_000306,Chris,Garcia,customer306@email.com,+14212203479,2024-11-16,24,Chicago,OH,Bronze,True
+CUST_000307,John,Miller,customer307@email.com,+11561387824,2025-04-13,34,Philadelphia,OH,Gold,True
+CUST_000308,David,Brown,customer308@email.com,+11870644102,2024-11-14,24,Chicago,TX,Silver,True
+CUST_000309,Emma,Miller,customer309@email.com,+14308571144,2025-01-21,37,San Diego,IL,Bronze,True
+CUST_000310,David,Smith,customer310@email.com,+18973921474,2025-06-26,23,Houston,PA,Platinum,True
+CUST_000311,David,Jones,customer311@email.com,+11746756255,2025-02-14,72,San Diego,FL,Bronze,True
+CUST_000312,Mike,Johnson,customer312@email.com,+11051354601,2025-05-19,26,Houston,OH,Gold,True
+CUST_000313,Jane,Jones,customer313@email.com,+11322067505,2025-08-07,30,San Diego,NY,Bronze,False
+CUST_000314,Emma,Johnson,customer314@email.com,+12979958124,2025-06-15,77,San Antonio,OH,Platinum,True
+CUST_000315,Chris,Williams,customer315@email.com,+12520174713,2025-06-06,35,Phoenix,GA,Silver,True
+CUST_000316,Sarah,Jones,customer316@email.com,+17437690455,2024-12-02,48,New York,TX,Gold,True
+CUST_000317,Chris,Brown,customer317@email.com,+18358870981,2025-01-07,52,San Diego,PA,Gold,True
+CUST_000318,Mike,Smith,customer318@email.com,+11940684569,2025-04-19,21,San Diego,PA,Silver,False
+CUST_000319,Jane,Brown,customer319@email.com,+13821211202,2025-04-26,52,New York,FL,Platinum,True
+CUST_000320,Mike,Williams,customer320@email.com,+13540741595,2024-09-14,62,Philadelphia,NY,Silver,False
+CUST_000321,Lisa,Jones,customer321@email.com,+16048977867,2025-08-21,23,New York,FL,Silver,True
+CUST_000322,Lisa,Smith,customer322@email.com,+13637688758,2025-07-05,39,Chicago,PA,Bronze,True
+CUST_000323,Mike,Johnson,customer323@email.com,+18991514523,2025-08-03,41,San Antonio,TX,Gold,True
+CUST_000324,Mike,Williams,customer324@email.com,+12362721798,2024-09-12,79,Philadelphia,FL,Silver,True
+CUST_000325,David,Williams,customer325@email.com,+17755273988,2024-11-23,20,Chicago,PA,Silver,True
+CUST_000326,Jane,Davis,customer326@email.com,+15899025962,2025-08-01,33,Philadelphia,PA,Silver,True
+CUST_000327,Jane,Garcia,customer327@email.com,+12918260963,2025-04-27,31,Houston,TX,Gold,True
+CUST_000328,Jane,Smith,customer328@email.com,+15501759051,2025-01-28,64,San Antonio,NY,Platinum,True
+CUST_000329,Chris,Garcia,customer329@email.com,+17640122370,2025-07-20,71,San Diego,FL,Silver,True
+CUST_000330,John,Jones,customer330@email.com,+15381201661,2025-04-29,78,Los Angeles,TX,Gold,True
+CUST_000331,Chris,Williams,customer331@email.com,+14143852021,2024-12-03,78,Los Angeles,PA,Platinum,True
+CUST_000332,Chris,Williams,customer332@email.com,+12864876473,2025-08-13,24,Philadelphia,FL,Silver,True
+CUST_000333,David,Jones,customer333@email.com,+12277326067,2025-07-22,21,San Antonio,GA,Silver,True
+CUST_000334,John,Miller,customer334@email.com,+15671328227,2024-10-06,58,San Diego,FL,Bronze,True
+CUST_000335,Mike,Jones,customer335@email.com,+15196430851,2025-01-10,72,Los Angeles,IL,Platinum,True
+CUST_000336,David,Johnson,customer336@email.com,+12664416298,2025-03-04,74,San Antonio,PA,Silver,True
+CUST_000337,David,Davis,customer337@email.com,+17292376027,2025-05-17,71,Phoenix,CA,Silver,True
+CUST_000338,Jane,Johnson,customer338@email.com,+18164611781,2024-12-06,44,Houston,CA,Platinum,False
+CUST_000339,Chris,Davis,customer339@email.com,+16307042062,2025-04-09,23,San Antonio,CA,Silver,True
+CUST_000340,Lisa,Williams,customer340@email.com,+11827752234,2025-08-19,45,Los Angeles,OH,Silver,False
+CUST_000341,Mike,Jones,customer341@email.com,+14467514661,2025-07-27,42,San Antonio,PA,Gold,True
+CUST_000342,John,Miller,customer342@email.com,+15778232041,2025-06-25,27,Los Angeles,TX,Bronze,True
+CUST_000343,Emma,Miller,customer343@email.com,+16429425484,2024-10-09,49,San Diego,CA,Silver,True
+CUST_000344,Mike,Miller,customer344@email.com,+15461537013,2025-03-24,62,Houston,CA,Platinum,False
+CUST_000345,Emma,Smith,customer345@email.com,+18703676933,2025-04-03,35,San Diego,TX,Silver,True
+CUST_000346,Lisa,Garcia,customer346@email.com,+13772636814,2025-06-05,46,Houston,OH,Platinum,True
+CUST_000347,Emma,Smith,customer347@email.com,+11682781467,2025-04-03,63,San Antonio,NY,Bronze,True
+CUST_000348,Sarah,Smith,customer348@email.com,+12071552532,2025-01-19,21,Philadelphia,FL,Gold,True
+CUST_000349,Lisa,Miller,customer349@email.com,+11131267917,2025-03-03,49,San Diego,NY,Platinum,True
+CUST_000350,Emma,Garcia,customer350@email.com,+19136780852,2024-09-22,23,Phoenix,CA,Platinum,True
+CUST_000351,Sarah,Brown,customer351@email.com,+13780475472,2024-09-28,31,Phoenix,OH,Bronze,False
+CUST_000352,John,Davis,customer352@email.com,+14914929023,2024-10-13,29,New York,FL,Gold,True
+CUST_000353,David,Jones,customer353@email.com,+16792661894,2025-05-03,31,San Diego,IL,Platinum,True
+CUST_000354,John,Garcia,customer354@email.com,+16509055260,2024-09-24,24,San Diego,TX,Gold,False
+CUST_000355,Emma,Jones,customer355@email.com,+12283298067,2025-06-25,51,Houston,CA,Platinum,True
+CUST_000356,Mike,Smith,customer356@email.com,+18109891300,2025-04-11,34,San Antonio,OH,Platinum,True
+CUST_000357,Sarah,Garcia,customer357@email.com,+18666074487,2024-10-01,40,Phoenix,NY,Silver,True
+CUST_000358,Lisa,Williams,customer358@email.com,+18477189726,2024-11-27,66,Chicago,PA,Bronze,True
+CUST_000359,Sarah,Jones,customer359@email.com,+19103931356,2025-03-03,34,Phoenix,GA,Bronze,True
+CUST_000360,Jane,Davis,customer360@email.com,+14820055862,2024-12-27,25,San Antonio,IL,Platinum,True
+CUST_000361,Mike,Williams,customer361@email.com,+15262101582,2025-03-18,44,San Diego,NY,Gold,False
+CUST_000362,Mike,Johnson,customer362@email.com,+17389111087,2024-10-21,29,Philadelphia,CA,Bronze,True
+CUST_000363,Sarah,Williams,customer363@email.com,+15975440949,2025-07-26,26,San Antonio,OH,Platinum,True
+CUST_000364,Lisa,Miller,customer364@email.com,+11020053819,2024-12-10,30,Philadelphia,CA,Gold,True
+CUST_000365,Sarah,Smith,customer365@email.com,+13906611156,2024-10-24,64,Houston,FL,Gold,True
+CUST_000366,Jane,Miller,customer366@email.com,+12314754322,2025-08-07,70,New York,IL,Gold,True
+CUST_000367,Emma,Miller,customer367@email.com,+15275521470,2025-03-18,75,San Diego,PA,Silver,True
+CUST_000368,Chris,Smith,customer368@email.com,+11981049082,2025-07-04,31,New York,NY,Bronze,True
+CUST_000369,John,Miller,customer369@email.com,+19798613995,2025-08-16,60,Los Angeles,CA,Bronze,True
+CUST_000370,Chris,Davis,customer370@email.com,+12633177480,2024-12-03,34,San Diego,NY,Silver,True
+CUST_000371,John,Jones,customer371@email.com,+17529678452,2024-10-26,56,Chicago,OH,Bronze,True
+CUST_000372,Jane,Jones,customer372@email.com,+15751366455,2025-05-31,56,Houston,IL,Silver,True
+CUST_000373,Chris,Jones,customer373@email.com,+11688799369,2024-12-03,49,Houston,GA,Gold,True
+CUST_000374,John,Johnson,customer374@email.com,+14895020135,2024-11-20,60,San Diego,NY,Bronze,True
+CUST_000375,Jane,Johnson,customer375@email.com,+19180965181,2024-10-15,32,San Diego,IL,Gold,True
+CUST_000376,Jane,Williams,customer376@email.com,+14754404646,2025-04-14,41,Philadelphia,OH,Bronze,True
+CUST_000377,John,Smith,customer377@email.com,+14659306670,2024-10-05,59,Chicago,PA,Gold,False
+CUST_000378,David,Johnson,customer378@email.com,+12471982906,2025-07-13,43,San Antonio,GA,Gold,False
+CUST_000379,Lisa,Miller,customer379@email.com,+14422700486,2025-07-14,26,New York,NY,Bronze,True
+CUST_000380,Lisa,Davis,customer380@email.com,+15856127658,2025-01-03,25,San Antonio,GA,Bronze,True
+CUST_000381,Emma,Smith,customer381@email.com,+13426709025,2024-10-02,73,Philadelphia,TX,Platinum,True
+CUST_000382,Sarah,Davis,customer382@email.com,+12653032484,2024-11-28,75,New York,CA,Silver,True
+CUST_000383,Lisa,Davis,customer383@email.com,+14734111722,2025-08-02,66,San Diego,PA,Silver,True
+CUST_000384,David,Smith,customer384@email.com,+13177244907,2024-12-02,59,San Antonio,OH,Silver,True
+CUST_000385,Lisa,Davis,customer385@email.com,+17435820151,2025-04-01,25,San Diego,CA,Bronze,True
+CUST_000386,John,Smith,customer386@email.com,+14547251133,2024-11-04,79,Phoenix,FL,Platinum,False
+CUST_000387,Emma,Smith,customer387@email.com,+14507221724,2025-01-20,39,San Diego,PA,Platinum,True
+CUST_000388,Sarah,Smith,customer388@email.com,+16761084958,2024-10-20,79,Phoenix,PA,Bronze,True
+CUST_000389,Mike,Davis,customer389@email.com,+18394040015,2025-07-17,34,Houston,FL,Bronze,False
+CUST_000390,Chris,Brown,customer390@email.com,+14356175095,2025-03-20,24,San Antonio,CA,Bronze,True
+CUST_000391,Lisa,Davis,customer391@email.com,+13142452709,2024-12-12,65,New York,OH,Platinum,False
+CUST_000392,Mike,Williams,customer392@email.com,+11551395583,2025-02-23,60,Philadelphia,OH,Platinum,False
+CUST_000393,Sarah,Jones,customer393@email.com,+16558433027,2025-07-03,26,San Antonio,IL,Gold,True
+CUST_000394,Sarah,Brown,customer394@email.com,+18363225516,2024-09-23,40,Chicago,NY,Gold,True
+CUST_000395,Emma,Davis,customer395@email.com,+18344925075,2024-09-29,65,Phoenix,OH,Bronze,True
+CUST_000396,John,Miller,customer396@email.com,+11624173500,2024-10-01,21,Houston,IL,Silver,False
+CUST_000397,David,Williams,customer397@email.com,+14605117440,2024-09-21,68,Phoenix,FL,Bronze,True
+CUST_000398,Lisa,Johnson,customer398@email.com,+12670255496,2024-12-22,68,Phoenix,CA,Platinum,True
+CUST_000399,Emma,Smith,customer399@email.com,+19645619869,2025-05-04,30,San Diego,FL,Gold,True
+CUST_000400,Sarah,Brown,customer400@email.com,+16558450990,2025-06-11,80,Los Angeles,NY,Silver,True
+CUST_000401,Jane,Miller,customer401@email.com,+15469489987,2025-04-20,53,Phoenix,NY,Silver,True
+CUST_000402,David,Smith,customer402@email.com,+16714723660,2024-09-11,77,Chicago,CA,Silver,False
+CUST_000403,John,Jones,customer403@email.com,+12537965898,2024-09-12,38,Houston,NY,Bronze,True
+CUST_000404,Mike,Miller,customer404@email.com,+12732663107,2025-03-15,32,Houston,PA,Gold,True
+CUST_000405,Sarah,Davis,customer405@email.com,+11037811610,2024-10-02,40,San Diego,FL,Silver,False
+CUST_000406,Emma,Miller,customer406@email.com,+15058691146,2025-02-24,34,Phoenix,CA,Gold,True
+CUST_000407,Lisa,Davis,customer407@email.com,+15483308751,2024-10-11,30,Philadelphia,TX,Bronze,True
+CUST_000408,John,Johnson,customer408@email.com,+18238760130,2025-07-18,31,San Antonio,TX,Silver,True
+CUST_000409,Emma,Smith,customer409@email.com,+11375899416,2025-08-13,29,Phoenix,TX,Silver,False
+CUST_000410,Chris,Miller,customer410@email.com,+17032058320,2025-04-01,19,San Antonio,TX,Bronze,True
+CUST_000411,Jane,Smith,customer411@email.com,+15606736607,2024-12-26,24,Phoenix,IL,Bronze,True
+CUST_000412,Lisa,Miller,customer412@email.com,+13837784389,2025-01-10,28,Houston,NY,Platinum,True
+CUST_000413,David,Williams,customer413@email.com,+18077851013,2025-09-04,53,Chicago,TX,Bronze,True
+CUST_000414,Chris,Johnson,customer414@email.com,+12308638549,2025-03-17,31,San Antonio,NY,Silver,True
+CUST_000415,David,Brown,customer415@email.com,+11492300084,2024-10-01,69,New York,GA,Bronze,True
+CUST_000416,Jane,Jones,customer416@email.com,+11421776124,2024-11-16,49,Philadelphia,PA,Silver,True
+CUST_000417,Sarah,Johnson,customer417@email.com,+16126037320,2025-01-04,46,Philadelphia,IL,Silver,True
+CUST_000418,Emma,Garcia,customer418@email.com,+19412376000,2025-06-15,18,Philadelphia,FL,Silver,True
+CUST_000419,Chris,Jones,customer419@email.com,+18903212516,2025-07-03,61,Philadelphia,GA,Platinum,True
+CUST_000420,David,Davis,customer420@email.com,+13369412470,2025-06-12,59,Los Angeles,IL,Silver,False
+CUST_000421,Sarah,Jones,customer421@email.com,+13691307645,2025-08-02,75,New York,CA,Platinum,True
+CUST_000422,Sarah,Smith,customer422@email.com,+17664045502,2024-12-05,75,San Diego,NY,Gold,True
+CUST_000423,David,Williams,customer423@email.com,+13192202822,2025-02-18,41,New York,FL,Silver,True
+CUST_000424,Mike,Davis,customer424@email.com,+11683855081,2024-11-24,78,Chicago,GA,Gold,True
+CUST_000425,Lisa,Brown,customer425@email.com,+15564953924,2025-03-04,32,New York,FL,Gold,True
+CUST_000426,Lisa,Smith,customer426@email.com,+18080359881,2025-07-19,63,Phoenix,IL,Silver,True
+CUST_000427,Chris,Garcia,customer427@email.com,+19924243978,2025-05-04,42,Houston,OH,Gold,False
+CUST_000428,Emma,Davis,customer428@email.com,+18699405145,2024-11-04,18,Chicago,GA,Silver,True
+CUST_000429,David,Brown,customer429@email.com,+11645277642,2025-06-21,41,Los Angeles,FL,Platinum,False
+CUST_000430,Jane,Davis,customer430@email.com,+18195055602,2025-01-07,31,Chicago,OH,Bronze,True
+CUST_000431,Mike,Williams,customer431@email.com,+13201784149,2024-11-20,27,New York,NY,Gold,False
+CUST_000432,Chris,Smith,customer432@email.com,+18822438146,2025-07-28,31,San Diego,GA,Platinum,True
+CUST_000433,Chris,Williams,customer433@email.com,+12136107759,2024-09-23,39,San Diego,TX,Silver,True
+CUST_000434,Mike,Johnson,customer434@email.com,+11071135963,2024-12-16,73,San Antonio,NY,Bronze,True
+CUST_000435,John,Johnson,customer435@email.com,+15695215151,2024-10-07,26,New York,OH,Platinum,True
+CUST_000436,John,Miller,customer436@email.com,+18740820392,2025-02-26,40,Los Angeles,OH,Silver,True
+CUST_000437,Sarah,Johnson,customer437@email.com,+17050091525,2025-06-05,18,New York,TX,Bronze,True
+CUST_000438,Sarah,Garcia,customer438@email.com,+17050943542,2025-07-17,27,San Antonio,IL,Gold,False
+CUST_000439,Chris,Garcia,customer439@email.com,+17922974797,2024-09-26,43,Houston,OH,Platinum,True
+CUST_000440,Lisa,Jones,customer440@email.com,+19540577974,2024-11-18,40,San Antonio,NY,Bronze,True
+CUST_000441,Lisa,Williams,customer441@email.com,+11430693397,2024-12-23,43,Philadelphia,CA,Silver,True
+CUST_000442,John,Johnson,customer442@email.com,+14535855298,2025-01-11,77,San Antonio,TX,Bronze,True
+CUST_000443,Emma,Johnson,customer443@email.com,+13615759047,2025-02-25,77,San Antonio,IL,Bronze,False
+CUST_000444,Mike,Davis,customer444@email.com,+12885370603,2025-05-29,72,Phoenix,FL,Bronze,True
+CUST_000445,Sarah,Williams,customer445@email.com,+13894912687,2025-03-09,33,New York,NY,Bronze,False
+CUST_000446,Chris,Garcia,customer446@email.com,+18171143901,2025-02-14,55,Houston,CA,Bronze,False
+CUST_000447,David,Garcia,customer447@email.com,+18797577040,2025-05-17,56,Houston,GA,Platinum,True
+CUST_000448,David,Williams,customer448@email.com,+19900829971,2025-04-12,39,Los Angeles,IL,Gold,True
+CUST_000449,Chris,Davis,customer449@email.com,+14306983924,2025-03-20,79,San Diego,GA,Bronze,True
+CUST_000450,David,Johnson,customer450@email.com,+14011528431,2025-04-01,44,Philadelphia,CA,Gold,True
+CUST_000451,Jane,Miller,customer451@email.com,+18821456242,2025-08-02,53,Chicago,GA,Gold,True
+CUST_000452,David,Williams,customer452@email.com,+14908108692,2024-12-28,65,Houston,FL,Silver,False
+CUST_000453,Sarah,Brown,customer453@email.com,+17951820749,2025-06-22,67,Los Angeles,TX,Bronze,True
+CUST_000454,Lisa,Smith,customer454@email.com,+17366396017,2024-10-27,38,San Diego,IL,Platinum,True
+CUST_000455,David,Miller,customer455@email.com,+13476758136,2025-08-13,51,San Antonio,GA,Bronze,True
+CUST_000456,Chris,Williams,customer456@email.com,+17520641417,2025-04-01,62,New York,CA,Silver,True
+CUST_000457,Jane,Garcia,customer457@email.com,+18996550604,2025-06-06,53,Phoenix,FL,Gold,True
+CUST_000458,Emma,Garcia,customer458@email.com,+16084870519,2025-02-04,31,San Antonio,PA,Gold,False
+CUST_000459,David,Davis,customer459@email.com,+12635881694,2025-06-27,69,Chicago,GA,Bronze,True
+CUST_000460,Lisa,Williams,customer460@email.com,+18389750357,2025-01-03,37,Phoenix,CA,Platinum,True
+CUST_000461,Mike,Smith,customer461@email.com,+16387133174,2024-10-22,24,San Diego,PA,Gold,True
+CUST_000462,David,Garcia,customer462@email.com,+15380159400,2025-07-09,40,Houston,NY,Gold,True
+CUST_000463,Lisa,Davis,customer463@email.com,+14820942294,2025-02-26,57,Phoenix,GA,Silver,False
+CUST_000464,Emma,Miller,customer464@email.com,+17750131975,2025-08-04,23,Chicago,PA,Silver,True
+CUST_000465,David,Jones,customer465@email.com,+16993434996,2025-01-25,67,Philadelphia,GA,Platinum,True
+CUST_000466,John,Williams,customer466@email.com,+14125758723,2024-10-06,34,Los Angeles,FL,Silver,True
+CUST_000467,Jane,Johnson,customer467@email.com,+11231178500,2025-02-18,51,Los Angeles,TX,Gold,True
+CUST_000468,Jane,Miller,customer468@email.com,+12328736852,2025-05-06,65,Phoenix,GA,Silver,True
+CUST_000469,Mike,Smith,customer469@email.com,+19740924080,2025-03-11,73,Philadelphia,GA,Platinum,False
+CUST_000470,David,Davis,customer470@email.com,+13316222488,2024-11-11,56,San Diego,OH,Gold,False
+CUST_000471,Lisa,Brown,customer471@email.com,+14456193555,2025-01-26,37,Philadelphia,OH,Gold,True
+CUST_000472,John,Smith,customer472@email.com,+15880373288,2025-04-16,48,New York,GA,Platinum,True
+CUST_000473,Chris,Jones,customer473@email.com,+13564111605,2025-09-06,53,Philadelphia,FL,Platinum,False
+CUST_000474,Chris,Miller,customer474@email.com,+12073295668,2024-10-14,42,San Antonio,FL,Gold,True
+CUST_000475,Sarah,Jones,customer475@email.com,+18768773991,2025-02-10,30,Los Angeles,NY,Silver,True
+CUST_000476,Lisa,Davis,customer476@email.com,+17969674420,2025-06-05,38,New York,NY,Bronze,False
+CUST_000477,John,Williams,customer477@email.com,+15176136758,2025-04-18,35,Chicago,GA,Bronze,True
+CUST_000478,Mike,Smith,customer478@email.com,+13119908041,2025-03-18,44,Phoenix,GA,Gold,True
+CUST_000479,John,Garcia,customer479@email.com,+11627442454,2025-04-26,67,San Antonio,TX,Platinum,True
+CUST_000480,David,Miller,customer480@email.com,+14557315473,2025-07-09,80,Houston,OH,Platinum,True
+CUST_000481,John,Brown,customer481@email.com,+14311402472,2024-12-17,60,Houston,GA,Platinum,True
+CUST_000482,David,Garcia,customer482@email.com,+14127754456,2024-12-02,51,Los Angeles,IL,Platinum,True
+CUST_000483,Sarah,Garcia,customer483@email.com,+14811867564,2024-10-03,31,Los Angeles,FL,Platinum,True
+CUST_000484,Mike,Jones,customer484@email.com,+13511253899,2025-02-19,68,Houston,CA,Bronze,True
+CUST_000485,Lisa,Williams,customer485@email.com,+11384313264,2025-06-21,49,Los Angeles,PA,Bronze,True
+CUST_000486,Mike,Johnson,customer486@email.com,+15835392115,2025-05-13,38,Philadelphia,GA,Silver,True
+CUST_000487,Chris,Garcia,customer487@email.com,+14111270714,2025-05-04,75,New York,GA,Platinum,True
+CUST_000488,Lisa,Brown,customer488@email.com,+13433965438,2024-12-05,40,Philadelphia,GA,Gold,False
+CUST_000489,Mike,Johnson,customer489@email.com,+13281217890,2025-01-22,36,Phoenix,PA,Platinum,True
+CUST_000490,Chris,Williams,customer490@email.com,+14792165664,2024-10-27,72,Philadelphia,FL,Gold,True
+CUST_000491,Chris,Brown,customer491@email.com,+13368536195,2024-10-31,36,Philadelphia,OH,Gold,True
+CUST_000492,Jane,Smith,customer492@email.com,+11557376230,2025-08-24,30,Los Angeles,GA,Silver,True
+CUST_000493,Chris,Davis,customer493@email.com,+12099247629,2025-03-06,32,Los Angeles,CA,Silver,True
+CUST_000494,Jane,Davis,customer494@email.com,+15555672620,2024-11-28,65,San Antonio,PA,Bronze,False
+CUST_000495,David,Smith,customer495@email.com,+14153795953,2025-04-07,22,Houston,TX,Bronze,True
+CUST_000496,Chris,Brown,customer496@email.com,+13821263164,2024-11-22,58,Chicago,OH,Bronze,True
+CUST_000497,Emma,Davis,customer497@email.com,+11447116404,2025-06-09,53,San Antonio,PA,Silver,True
+CUST_000498,Lisa,Garcia,customer498@email.com,+19171110739,2024-12-02,38,Philadelphia,OH,Platinum,False
+CUST_000499,Emma,Brown,customer499@email.com,+16213781637,2024-12-02,77,Phoenix,PA,Platinum,True
+CUST_000500,Chris,Smith,customer500@email.com,+14119491798,2025-04-17,56,New York,NY,Gold,True
+CUST_000501,Sarah,Brown,customer501@email.com,+18970258559,2025-08-29,67,Phoenix,NY,Bronze,True
+CUST_000502,Emma,Williams,customer502@email.com,+15889425970,2025-03-06,74,Houston,FL,Gold,False
+CUST_000503,Jane,Miller,customer503@email.com,+19921512797,2025-03-27,68,San Diego,NY,Platinum,False
+CUST_000504,Jane,Jones,customer504@email.com,+19750444358,2024-11-18,42,Los Angeles,CA,Gold,True
+CUST_000505,Chris,Miller,customer505@email.com,+14308800114,2024-10-10,72,New York,OH,Bronze,True
+CUST_000506,John,Garcia,customer506@email.com,+15937408591,2024-12-26,62,Houston,NY,Bronze,True
+CUST_000507,Chris,Davis,customer507@email.com,+11386903346,2025-01-31,36,San Antonio,NY,Silver,True
+CUST_000508,Lisa,Smith,customer508@email.com,+17649263948,2025-04-28,23,San Antonio,OH,Silver,True
+CUST_000509,Lisa,Brown,customer509@email.com,+17390314766,2024-10-11,54,Houston,FL,Silver,True
+CUST_000510,Chris,Garcia,customer510@email.com,+13473979489,2025-07-14,60,San Antonio,OH,Gold,True
+CUST_000511,Emma,Garcia,customer511@email.com,+12309186996,2025-03-14,57,San Diego,NY,Platinum,True
+CUST_000512,Sarah,Brown,customer512@email.com,+18238562767,2025-06-22,66,Los Angeles,TX,Bronze,True
+CUST_000513,Mike,Jones,customer513@email.com,+15353951329,2024-09-19,69,Los Angeles,IL,Platinum,True
+CUST_000514,Emma,Brown,customer514@email.com,+11909997553,2024-12-04,51,Phoenix,GA,Silver,True
+CUST_000515,John,Miller,customer515@email.com,+15481721096,2025-06-14,21,Phoenix,FL,Gold,True
+CUST_000516,John,Johnson,customer516@email.com,+18130076816,2025-07-16,19,Phoenix,OH,Silver,False
+CUST_000517,Jane,Garcia,customer517@email.com,+11378045890,2025-05-31,50,San Diego,CA,Bronze,True
+CUST_000518,David,Garcia,customer518@email.com,+17399212842,2025-06-21,19,Philadelphia,PA,Gold,True
+CUST_000519,Sarah,Jones,customer519@email.com,+14487053308,2024-10-24,34,San Antonio,CA,Gold,True
+CUST_000520,Emma,Miller,customer520@email.com,+13821500440,2025-07-27,64,San Antonio,FL,Platinum,True
+CUST_000521,Mike,Miller,customer521@email.com,+19463392724,2024-11-04,39,San Diego,NY,Silver,True
+CUST_000522,Sarah,Williams,customer522@email.com,+15875872347,2025-06-27,59,Chicago,PA,Bronze,True
+CUST_000523,Jane,Williams,customer523@email.com,+14778016973,2025-08-25,66,Philadelphia,OH,Platinum,True
+CUST_000524,David,Williams,customer524@email.com,+14346242886,2025-07-17,26,Chicago,CA,Gold,True
+CUST_000525,Sarah,Brown,customer525@email.com,+15406999328,2025-07-31,62,San Diego,NY,Platinum,True
+CUST_000526,Emma,Williams,customer526@email.com,+18954835349,2025-01-01,48,Chicago,NY,Silver,True
+CUST_000527,Chris,Smith,customer527@email.com,+19269680715,2025-02-10,32,Houston,FL,Bronze,True
+CUST_000528,Lisa,Davis,customer528@email.com,+18249315123,2025-01-18,74,Houston,OH,Platinum,True
+CUST_000529,Chris,Garcia,customer529@email.com,+19755342261,2025-07-16,46,San Diego,CA,Silver,True
+CUST_000530,Chris,Smith,customer530@email.com,+17690274631,2024-12-19,66,New York,FL,Gold,True
+CUST_000531,David,Jones,customer531@email.com,+12981470996,2025-02-05,36,New York,NY,Platinum,False
+CUST_000532,Lisa,Johnson,customer532@email.com,+11486068287,2024-11-14,78,Chicago,OH,Platinum,True
+CUST_000533,John,Williams,customer533@email.com,+14847409832,2025-01-20,23,Phoenix,PA,Silver,True
+CUST_000534,Jane,Johnson,customer534@email.com,+12558830012,2024-12-15,63,San Antonio,NY,Platinum,True
+CUST_000535,John,Williams,customer535@email.com,+19213063154,2024-11-24,73,Chicago,NY,Silver,True
+CUST_000536,John,Miller,customer536@email.com,+16618084394,2025-01-24,36,Chicago,TX,Silver,False
+CUST_000537,John,Jones,customer537@email.com,+15347399246,2024-12-29,72,San Diego,CA,Platinum,True
+CUST_000538,Lisa,Davis,customer538@email.com,+17056554007,2025-07-31,56,New York,FL,Gold,True
+CUST_000539,Sarah,Smith,customer539@email.com,+11793881710,2025-08-12,59,Philadelphia,CA,Silver,False
+CUST_000540,David,Garcia,customer540@email.com,+14953022176,2025-08-15,24,San Antonio,NY,Silver,True
+CUST_000541,Mike,Davis,customer541@email.com,+11153931824,2025-04-09,38,Philadelphia,OH,Bronze,True
+CUST_000542,Jane,Jones,customer542@email.com,+13022142957,2025-07-09,62,Phoenix,PA,Platinum,True
+CUST_000543,Sarah,Smith,customer543@email.com,+15239945630,2025-01-05,64,Phoenix,OH,Gold,True
+CUST_000544,Emma,Williams,customer544@email.com,+17432749100,2025-06-09,74,Houston,IL,Silver,True
+CUST_000545,John,Davis,customer545@email.com,+14642432004,2024-10-29,44,San Antonio,CA,Gold,True
+CUST_000546,Sarah,Smith,customer546@email.com,+13751434706,2024-09-21,36,Phoenix,TX,Gold,True
+CUST_000547,Emma,Smith,customer547@email.com,+16726406418,2025-02-19,64,New York,NY,Silver,True
+CUST_000548,Emma,Davis,customer548@email.com,+19229857657,2025-08-22,59,Chicago,GA,Silver,True
+CUST_000549,Emma,Davis,customer549@email.com,+14189376783,2024-12-17,37,Philadelphia,CA,Silver,True
+CUST_000550,Emma,Garcia,customer550@email.com,+15936227006,2025-08-25,39,San Antonio,NY,Platinum,True
+CUST_000551,Jane,Jones,customer551@email.com,+15430809445,2025-02-10,23,San Diego,FL,Gold,True
+CUST_000552,David,Brown,customer552@email.com,+17550256427,2025-06-12,25,Philadelphia,CA,Silver,False
+CUST_000553,Lisa,Smith,customer553@email.com,+18726754729,2024-12-27,27,Houston,PA,Platinum,True
+CUST_000554,David,Garcia,customer554@email.com,+14744348135,2024-12-19,61,Chicago,FL,Bronze,True
+CUST_000555,Jane,Smith,customer555@email.com,+19779041827,2024-11-09,73,Los Angeles,PA,Platinum,False
+CUST_000556,Jane,Jones,customer556@email.com,+19686486562,2025-04-03,58,Houston,PA,Silver,True
+CUST_000557,David,Garcia,customer557@email.com,+18614062614,2024-10-01,25,Phoenix,NY,Silver,True
+CUST_000558,John,Johnson,customer558@email.com,+16662849574,2025-06-29,78,Phoenix,FL,Silver,True
+CUST_000559,Emma,Davis,customer559@email.com,+11217867296,2025-08-26,48,New York,TX,Platinum,True
+CUST_000560,Chris,Miller,customer560@email.com,+18298719245,2024-10-29,40,Phoenix,PA,Silver,True
+CUST_000561,Jane,Davis,customer561@email.com,+13438636480,2025-07-24,70,San Diego,TX,Platinum,True
+CUST_000562,Lisa,Davis,customer562@email.com,+11961189885,2024-10-29,34,Philadelphia,OH,Silver,True
+CUST_000563,Emma,Garcia,customer563@email.com,+17241803245,2025-08-25,22,San Diego,TX,Gold,True
+CUST_000564,Mike,Jones,customer564@email.com,+18593250984,2024-11-04,54,Chicago,TX,Platinum,False
+CUST_000565,Jane,Garcia,customer565@email.com,+17274839226,2024-11-11,44,Houston,FL,Silver,False
+CUST_000566,Chris,Johnson,customer566@email.com,+12463356163,2024-09-19,55,San Antonio,OH,Gold,True
+CUST_000567,Sarah,Williams,customer567@email.com,+19924488511,2024-09-10,54,San Diego,TX,Platinum,True
+CUST_000568,Jane,Davis,customer568@email.com,+16051628882,2025-02-14,22,Los Angeles,OH,Gold,True
+CUST_000569,John,Johnson,customer569@email.com,+14478233603,2025-06-26,60,Chicago,GA,Gold,True
+CUST_000570,Lisa,Brown,customer570@email.com,+19063480483,2025-04-09,54,Phoenix,OH,Gold,False
+CUST_000571,John,Miller,customer571@email.com,+14640572126,2025-04-12,21,Philadelphia,CA,Bronze,True
+CUST_000572,Emma,Johnson,customer572@email.com,+18993998614,2025-08-25,33,San Antonio,OH,Gold,True
+CUST_000573,Chris,Miller,customer573@email.com,+16039758047,2025-06-30,30,San Antonio,PA,Platinum,True
+CUST_000574,Mike,Williams,customer574@email.com,+11049833464,2024-10-13,19,Chicago,GA,Platinum,False
+CUST_000575,Mike,Johnson,customer575@email.com,+18756460189,2025-01-19,75,San Antonio,NY,Platinum,True
+CUST_000576,Lisa,Miller,customer576@email.com,+12526032931,2025-06-06,45,New York,GA,Silver,True
+CUST_000577,David,Miller,customer577@email.com,+17770381816,2025-08-23,80,New York,GA,Gold,True
+CUST_000578,Lisa,Johnson,customer578@email.com,+18640187694,2025-01-14,51,Los Angeles,TX,Silver,True
+CUST_000579,Jane,Jones,customer579@email.com,+13632982968,2025-03-18,52,New York,GA,Platinum,True
+CUST_000580,Lisa,Garcia,customer580@email.com,+17103217717,2025-04-12,36,Chicago,CA,Gold,True
+CUST_000581,David,Smith,customer581@email.com,+17997790446,2024-11-17,28,New York,IL,Bronze,True
+CUST_000582,Jane,Williams,customer582@email.com,+13171518770,2025-04-20,34,Chicago,IL,Gold,False
+CUST_000583,John,Johnson,customer583@email.com,+13593393772,2024-11-11,65,Chicago,GA,Gold,False
+CUST_000584,David,Brown,customer584@email.com,+13082709180,2024-12-13,73,New York,PA,Bronze,False
+CUST_000585,Mike,Davis,customer585@email.com,+12645689727,2024-10-06,46,Chicago,FL,Gold,True
+CUST_000586,David,Johnson,customer586@email.com,+11225585432,2025-01-15,43,San Diego,IL,Platinum,True
+CUST_000587,Sarah,Miller,customer587@email.com,+16970307272,2025-04-28,27,San Antonio,CA,Gold,False
+CUST_000588,Lisa,Miller,customer588@email.com,+18209074298,2024-12-12,61,New York,TX,Gold,False
+CUST_000589,Chris,Jones,customer589@email.com,+16733641358,2025-04-26,69,Los Angeles,IL,Platinum,True
+CUST_000590,Sarah,Brown,customer590@email.com,+17528145504,2024-09-28,62,Chicago,PA,Bronze,True
+CUST_000591,Jane,Smith,customer591@email.com,+12766300020,2024-12-15,24,San Diego,PA,Silver,True
+CUST_000592,David,Brown,customer592@email.com,+11146208285,2024-10-27,23,New York,FL,Bronze,True
+CUST_000593,Jane,Johnson,customer593@email.com,+15852914708,2024-10-08,66,Chicago,TX,Silver,True
+CUST_000594,Lisa,Johnson,customer594@email.com,+18038508690,2025-04-21,67,San Antonio,PA,Gold,True
+CUST_000595,Jane,Jones,customer595@email.com,+14337644657,2025-02-26,42,Philadelphia,CA,Gold,False
+CUST_000596,David,Williams,customer596@email.com,+12892254518,2025-01-01,80,Houston,OH,Silver,True
+CUST_000597,Jane,Williams,customer597@email.com,+12852220019,2024-10-30,59,Los Angeles,GA,Gold,True
+CUST_000598,Jane,Johnson,customer598@email.com,+12915048861,2024-12-29,27,New York,CA,Platinum,True
+CUST_000599,Emma,Miller,customer599@email.com,+13468061102,2024-12-20,63,San Diego,GA,Platinum,True
+CUST_000600,Jane,Brown,customer600@email.com,+15309172294,2024-09-22,70,San Diego,TX,Gold,True
+CUST_000601,David,Miller,customer601@email.com,+19826993893,2024-10-13,23,Philadelphia,PA,Bronze,False
+CUST_000602,David,Brown,customer602@email.com,+16115319619,2024-09-18,42,Los Angeles,PA,Platinum,True
+CUST_000603,Lisa,Brown,customer603@email.com,+11601050402,2025-06-03,19,Houston,GA,Platinum,True
+CUST_000604,David,Davis,customer604@email.com,+15277072865,2025-08-22,39,New York,PA,Bronze,True
+CUST_000605,Sarah,Davis,customer605@email.com,+13304513663,2024-11-17,32,Los Angeles,CA,Silver,True
+CUST_000606,John,Davis,customer606@email.com,+13655887892,2025-05-08,62,Chicago,CA,Silver,True
+CUST_000607,David,Johnson,customer607@email.com,+13538508163,2025-07-17,25,San Diego,FL,Bronze,False
+CUST_000608,Chris,Garcia,customer608@email.com,+18208663809,2025-03-27,25,Chicago,PA,Silver,True
+CUST_000609,Mike,Garcia,customer609@email.com,+11271535964,2025-04-22,27,San Antonio,NY,Gold,True
+CUST_000610,Lisa,Brown,customer610@email.com,+11174800445,2025-07-20,68,San Antonio,NY,Bronze,False
+CUST_000611,Jane,Smith,customer611@email.com,+11031026838,2025-07-26,63,Phoenix,OH,Platinum,True
+CUST_000612,Sarah,Williams,customer612@email.com,+18042997784,2024-12-16,46,San Antonio,FL,Silver,True
+CUST_000613,John,Williams,customer613@email.com,+18375312491,2024-10-31,78,Los Angeles,IL,Gold,True
+CUST_000614,Sarah,Brown,customer614@email.com,+16236751117,2024-10-24,60,Houston,IL,Bronze,True
+CUST_000615,Mike,Davis,customer615@email.com,+13136809970,2025-06-20,60,New York,CA,Gold,True
+CUST_000616,Chris,Jones,customer616@email.com,+18552304952,2025-08-18,24,New York,NY,Silver,True
+CUST_000617,Lisa,Johnson,customer617@email.com,+17785025154,2025-02-07,30,Philadelphia,FL,Bronze,True
+CUST_000618,Jane,Brown,customer618@email.com,+18463570248,2025-05-30,42,Houston,TX,Platinum,True
+CUST_000619,John,Miller,customer619@email.com,+11622518030,2024-11-01,47,Chicago,OH,Gold,True
+CUST_000620,Sarah,Garcia,customer620@email.com,+19484947955,2025-05-29,39,Chicago,CA,Bronze,True
+CUST_000621,Jane,Davis,customer621@email.com,+17264548783,2025-06-14,66,Philadelphia,FL,Gold,True
+CUST_000622,Mike,Brown,customer622@email.com,+15666371719,2024-12-16,49,Houston,GA,Platinum,True
+CUST_000623,Chris,Brown,customer623@email.com,+16359395246,2025-01-30,55,Houston,NY,Bronze,True
+CUST_000624,John,Smith,customer624@email.com,+19552454578,2024-12-25,20,San Antonio,OH,Platinum,False
+CUST_000625,Jane,Davis,customer625@email.com,+13127233070,2025-07-29,53,New York,OH,Silver,True
+CUST_000626,David,Brown,customer626@email.com,+11389680278,2025-01-07,60,Phoenix,NY,Platinum,False
+CUST_000627,John,Davis,customer627@email.com,+18314908641,2025-06-07,68,Philadelphia,GA,Bronze,False
+CUST_000628,Jane,Miller,customer628@email.com,+15435473617,2025-02-03,66,Phoenix,FL,Bronze,True
+CUST_000629,Emma,Smith,customer629@email.com,+11221459606,2025-02-25,41,San Diego,CA,Gold,True
+CUST_000630,Jane,Brown,customer630@email.com,+12438512030,2024-12-07,25,San Diego,FL,Silver,True
+CUST_000631,David,Miller,customer631@email.com,+12190330168,2025-08-08,41,Philadelphia,GA,Platinum,True
+CUST_000632,Jane,Davis,customer632@email.com,+16550233140,2024-10-27,41,Los Angeles,FL,Platinum,True
+CUST_000633,Chris,Williams,customer633@email.com,+15108681386,2025-07-16,28,Phoenix,TX,Silver,True
+CUST_000634,Sarah,Smith,customer634@email.com,+16554120470,2024-09-25,52,Chicago,GA,Gold,True
+CUST_000635,John,Jones,customer635@email.com,+11812009356,2025-08-29,73,Houston,PA,Platinum,True
+CUST_000636,Emma,Davis,customer636@email.com,+17207328566,2025-04-07,54,Chicago,IL,Silver,True
+CUST_000637,Sarah,Davis,customer637@email.com,+14631453750,2025-06-26,40,Phoenix,GA,Silver,True
+CUST_000638,Mike,Jones,customer638@email.com,+14412168053,2025-06-19,33,Los Angeles,CA,Gold,True
+CUST_000639,Lisa,Jones,customer639@email.com,+12587729771,2025-05-27,53,New York,PA,Gold,True
+CUST_000640,Lisa,Williams,customer640@email.com,+17586946365,2025-07-09,76,New York,OH,Platinum,True
+CUST_000641,Lisa,Garcia,customer641@email.com,+11670243704,2024-12-04,80,Philadelphia,IL,Platinum,False
+CUST_000642,Mike,Davis,customer642@email.com,+11172146239,2024-09-27,53,Los Angeles,IL,Bronze,True
+CUST_000643,Sarah,Davis,customer643@email.com,+12534993610,2025-03-26,21,Houston,FL,Gold,True
+CUST_000644,Jane,Davis,customer644@email.com,+15112962480,2024-12-21,43,Houston,GA,Gold,True
+CUST_000645,John,Garcia,customer645@email.com,+12707498619,2025-02-03,41,San Antonio,PA,Bronze,True
+CUST_000646,Emma,Jones,customer646@email.com,+19493399299,2024-11-26,23,Houston,GA,Platinum,False
+CUST_000647,David,Williams,customer647@email.com,+19145099778,2025-06-30,71,Los Angeles,NY,Silver,True
+CUST_000648,Emma,Johnson,customer648@email.com,+12613930214,2025-09-06,44,Phoenix,OH,Silver,True
+CUST_000649,Mike,Brown,customer649@email.com,+16934654971,2024-11-30,49,New York,IL,Gold,True
+CUST_000650,Lisa,Brown,customer650@email.com,+11010508398,2025-04-28,37,San Diego,TX,Gold,True
+CUST_000651,Lisa,Brown,customer651@email.com,+11122159993,2025-04-21,49,Los Angeles,PA,Platinum,True
+CUST_000652,David,Davis,customer652@email.com,+14514489277,2025-03-02,50,New York,IL,Silver,True
+CUST_000653,Mike,Garcia,customer653@email.com,+13977628013,2025-03-11,28,New York,IL,Gold,True
+CUST_000654,Emma,Smith,customer654@email.com,+16539890206,2024-12-12,58,Los Angeles,FL,Silver,True
+CUST_000655,Mike,Garcia,customer655@email.com,+19042082047,2024-09-24,69,Phoenix,IL,Gold,True
+CUST_000656,Emma,Williams,customer656@email.com,+11055395069,2024-12-18,36,Philadelphia,GA,Platinum,True
+CUST_000657,Mike,Johnson,customer657@email.com,+11935771229,2024-12-26,32,Houston,TX,Platinum,True
+CUST_000658,Jane,Johnson,customer658@email.com,+14516911409,2025-09-01,48,Philadelphia,IL,Gold,True
+CUST_000659,Lisa,Garcia,customer659@email.com,+12308608938,2025-07-11,32,Chicago,NY,Silver,True
+CUST_000660,Sarah,Williams,customer660@email.com,+15213833526,2025-02-04,62,Los Angeles,TX,Bronze,True
+CUST_000661,Chris,Smith,customer661@email.com,+11843321095,2025-08-24,68,New York,GA,Bronze,False
+CUST_000662,John,Johnson,customer662@email.com,+13584676841,2024-11-13,75,Houston,NY,Gold,True
+CUST_000663,Mike,Jones,customer663@email.com,+16788913862,2025-06-19,72,Houston,TX,Bronze,False
+CUST_000664,John,Brown,customer664@email.com,+14074387556,2025-04-18,28,New York,TX,Silver,False
+CUST_000665,Lisa,Garcia,customer665@email.com,+16090076463,2024-09-30,79,Los Angeles,NY,Gold,False
+CUST_000666,Chris,Brown,customer666@email.com,+13208691233,2025-02-13,25,Philadelphia,TX,Platinum,True
+CUST_000667,Mike,Davis,customer667@email.com,+18568907829,2024-09-14,36,New York,TX,Gold,True
+CUST_000668,Chris,Jones,customer668@email.com,+18456812371,2024-09-23,80,San Diego,FL,Platinum,True
+CUST_000669,Chris,Brown,customer669@email.com,+14679815234,2025-01-09,78,Philadelphia,NY,Bronze,False
+CUST_000670,Lisa,Johnson,customer670@email.com,+16997362444,2024-12-16,60,Los Angeles,TX,Silver,True
+CUST_000671,Jane,Williams,customer671@email.com,+15572896413,2025-05-31,39,Houston,OH,Bronze,True
+CUST_000672,Chris,Davis,customer672@email.com,+17013965794,2025-01-09,60,San Antonio,GA,Gold,True
+CUST_000673,Lisa,Johnson,customer673@email.com,+15819769602,2025-01-02,49,Houston,NY,Bronze,True
+CUST_000674,John,Johnson,customer674@email.com,+16064177433,2024-11-04,61,Philadelphia,NY,Gold,True
+CUST_000675,Jane,Johnson,customer675@email.com,+13001548533,2025-04-12,60,San Diego,GA,Gold,True
+CUST_000676,John,Smith,customer676@email.com,+19550041076,2025-07-11,42,San Diego,PA,Platinum,True
+CUST_000677,John,Smith,customer677@email.com,+18642389509,2024-09-13,28,San Diego,OH,Silver,True
+CUST_000678,Chris,Davis,customer678@email.com,+14281402873,2024-11-22,61,San Diego,GA,Platinum,True
+CUST_000679,Mike,Smith,customer679@email.com,+16975952318,2024-12-30,55,San Antonio,PA,Gold,True
+CUST_000680,John,Smith,customer680@email.com,+16868686656,2024-11-15,19,Philadelphia,OH,Bronze,True
+CUST_000681,Emma,Miller,customer681@email.com,+12508689990,2024-10-06,33,Houston,FL,Gold,True
+CUST_000682,Jane,Jones,customer682@email.com,+15786617777,2025-06-15,19,Philadelphia,CA,Platinum,True
+CUST_000683,Chris,Miller,customer683@email.com,+12145119397,2024-09-18,48,New York,PA,Platinum,True
+CUST_000684,Emma,Johnson,customer684@email.com,+18766703461,2025-07-20,62,Houston,PA,Platinum,True
+CUST_000685,Emma,Williams,customer685@email.com,+17935632899,2025-03-07,80,San Antonio,FL,Platinum,True
+CUST_000686,Jane,Brown,customer686@email.com,+16529150040,2025-08-16,37,San Antonio,FL,Bronze,True
+CUST_000687,Jane,Garcia,customer687@email.com,+12174093450,2024-11-23,69,San Diego,OH,Silver,True
+CUST_000688,Jane,Jones,customer688@email.com,+16583066750,2024-10-05,52,Philadelphia,FL,Platinum,True
+CUST_000689,Lisa,Williams,customer689@email.com,+14783421979,2024-10-23,63,Chicago,GA,Silver,True
+CUST_000690,Lisa,Jones,customer690@email.com,+13691907159,2024-12-16,30,Philadelphia,GA,Silver,True
+CUST_000691,David,Miller,customer691@email.com,+17057021720,2025-08-08,58,Houston,OH,Gold,False
+CUST_000692,Mike,Jones,customer692@email.com,+16309137211,2025-05-10,25,Chicago,FL,Bronze,True
+CUST_000693,David,Davis,customer693@email.com,+19552538757,2025-02-05,59,New York,FL,Silver,True
+CUST_000694,John,Jones,customer694@email.com,+13365264764,2024-10-15,72,New York,GA,Bronze,True
+CUST_000695,Jane,Garcia,customer695@email.com,+17878818522,2025-08-08,75,San Antonio,PA,Bronze,True
+CUST_000696,Mike,Brown,customer696@email.com,+15006927241,2024-12-16,60,Phoenix,GA,Bronze,True
+CUST_000697,Jane,Garcia,customer697@email.com,+12816208531,2025-06-28,24,Chicago,FL,Gold,True
+CUST_000698,David,Smith,customer698@email.com,+15074682264,2025-03-31,52,San Antonio,GA,Silver,False
+CUST_000699,Mike,Garcia,customer699@email.com,+12323586087,2024-10-14,79,New York,CA,Silver,True
+CUST_000700,Chris,Jones,customer700@email.com,+18304093560,2024-09-24,25,Houston,GA,Platinum,True
+CUST_000701,Chris,Jones,customer701@email.com,+12292304779,2025-05-12,37,Houston,NY,Platinum,True
+CUST_000702,Chris,Smith,customer702@email.com,+17406767748,2025-02-10,77,Philadelphia,OH,Bronze,False
+CUST_000703,David,Johnson,customer703@email.com,+16806178791,2024-11-05,64,Philadelphia,GA,Bronze,True
+CUST_000704,Mike,Davis,customer704@email.com,+11584511650,2025-02-16,30,Phoenix,PA,Bronze,True
+CUST_000705,Sarah,Williams,customer705@email.com,+18240255629,2025-03-30,46,San Diego,NY,Gold,True
+CUST_000706,Emma,Jones,customer706@email.com,+11853254184,2025-02-09,41,Chicago,OH,Platinum,False
+CUST_000707,Sarah,Smith,customer707@email.com,+15072098082,2024-11-28,59,Houston,TX,Platinum,True
+CUST_000708,Mike,Smith,customer708@email.com,+12117369169,2025-07-26,79,Philadelphia,NY,Bronze,True
+CUST_000709,Chris,Davis,customer709@email.com,+13122353925,2025-05-18,63,Houston,FL,Gold,True
+CUST_000710,Lisa,Miller,customer710@email.com,+15854169162,2025-05-27,56,Houston,IL,Silver,True
+CUST_000711,Chris,Williams,customer711@email.com,+15418546900,2025-04-28,33,San Diego,FL,Gold,True
+CUST_000712,Lisa,Johnson,customer712@email.com,+15339292385,2025-07-03,73,Philadelphia,OH,Silver,True
+CUST_000713,Chris,Jones,customer713@email.com,+11313771499,2024-11-28,21,New York,PA,Silver,True
+CUST_000714,Emma,Smith,customer714@email.com,+15317992556,2024-12-25,57,San Antonio,IL,Platinum,True
+CUST_000715,Mike,Smith,customer715@email.com,+13493172294,2025-04-29,28,San Diego,PA,Platinum,True
+CUST_000716,Emma,Miller,customer716@email.com,+15903975336,2025-07-12,38,New York,NY,Platinum,False
+CUST_000717,David,Garcia,customer717@email.com,+19273125114,2025-04-18,75,Phoenix,IL,Gold,True
+CUST_000718,Mike,Garcia,customer718@email.com,+15080436698,2024-11-29,72,San Diego,CA,Silver,True
+CUST_000719,Sarah,Williams,customer719@email.com,+15448994487,2025-04-29,28,San Diego,OH,Bronze,False
+CUST_000720,Lisa,Smith,customer720@email.com,+17191279918,2024-09-11,53,San Diego,GA,Platinum,True
+CUST_000721,Mike,Johnson,customer721@email.com,+12501539056,2025-05-28,73,Phoenix,NY,Silver,True
+CUST_000722,David,Brown,customer722@email.com,+15173107724,2024-12-14,67,Chicago,OH,Bronze,True
+CUST_000723,Lisa,Johnson,customer723@email.com,+19106182535,2025-08-27,36,Los Angeles,OH,Gold,True
+CUST_000724,Jane,Garcia,customer724@email.com,+11660460633,2025-07-30,47,San Diego,GA,Gold,True
+CUST_000725,John,Garcia,customer725@email.com,+15165132643,2024-10-09,57,San Diego,PA,Silver,True
+CUST_000726,John,Jones,customer726@email.com,+19828455687,2025-08-04,53,San Antonio,TX,Platinum,True
+CUST_000727,Sarah,Miller,customer727@email.com,+11383060868,2025-05-26,28,San Antonio,OH,Gold,True
+CUST_000728,Mike,Johnson,customer728@email.com,+16577215453,2025-01-31,65,Phoenix,NY,Gold,True
+CUST_000729,Emma,Brown,customer729@email.com,+17397882217,2025-02-23,48,Phoenix,OH,Bronze,True
+CUST_000730,Emma,Williams,customer730@email.com,+12829729510,2025-08-20,50,Philadelphia,GA,Silver,True
+CUST_000731,Mike,Davis,customer731@email.com,+15655616139,2025-01-13,45,Los Angeles,GA,Gold,True
+CUST_000732,Mike,Jones,customer732@email.com,+14614378003,2024-12-16,45,Phoenix,CA,Bronze,False
+CUST_000733,Jane,Miller,customer733@email.com,+12773904836,2025-01-15,60,Phoenix,PA,Gold,True
+CUST_000734,John,Johnson,customer734@email.com,+12988049941,2025-06-08,71,San Antonio,CA,Bronze,True
+CUST_000735,David,Garcia,customer735@email.com,+18173711511,2024-10-25,69,Phoenix,PA,Silver,True
+CUST_000736,Jane,Jones,customer736@email.com,+15751654002,2024-12-10,19,New York,OH,Bronze,True
+CUST_000737,Lisa,Davis,customer737@email.com,+18266252438,2024-10-08,79,San Diego,IL,Gold,True
+CUST_000738,Chris,Jones,customer738@email.com,+11376390042,2025-07-02,18,Houston,TX,Bronze,True
+CUST_000739,Sarah,Smith,customer739@email.com,+16193601081,2024-10-12,27,Houston,OH,Silver,True
+CUST_000740,Lisa,Williams,customer740@email.com,+17330734943,2025-08-29,25,Chicago,NY,Platinum,False
+CUST_000741,Lisa,Smith,customer741@email.com,+18987764913,2024-11-14,33,Houston,IL,Platinum,True
+CUST_000742,John,Johnson,customer742@email.com,+18357677623,2025-02-09,72,San Diego,IL,Bronze,True
+CUST_000743,Lisa,Davis,customer743@email.com,+19850659228,2025-08-31,45,Philadelphia,TX,Gold,False
+CUST_000744,Chris,Davis,customer744@email.com,+15797223937,2024-10-26,78,Philadelphia,GA,Platinum,True
+CUST_000745,David,Brown,customer745@email.com,+17310339622,2025-01-28,32,Houston,PA,Platinum,True
+CUST_000746,David,Miller,customer746@email.com,+19417291377,2024-09-30,59,Philadelphia,GA,Silver,True
+CUST_000747,David,Johnson,customer747@email.com,+18159952959,2025-07-05,29,Houston,NY,Platinum,True
+CUST_000748,Chris,Davis,customer748@email.com,+12304174972,2025-05-25,53,New York,CA,Gold,False
+CUST_000749,Emma,Williams,customer749@email.com,+13162425423,2025-08-08,39,San Antonio,TX,Silver,True
+CUST_000750,Sarah,Davis,customer750@email.com,+13875420006,2024-09-13,21,San Diego,GA,Bronze,False
+CUST_000751,Jane,Smith,customer751@email.com,+13178861531,2025-06-16,58,Los Angeles,FL,Gold,True
+CUST_000752,David,Davis,customer752@email.com,+14738737735,2025-06-23,59,Philadelphia,PA,Silver,True
+CUST_000753,Sarah,Davis,customer753@email.com,+19459525070,2025-09-06,33,San Diego,PA,Gold,True
+CUST_000754,Jane,Jones,customer754@email.com,+18537002793,2025-03-09,58,Houston,NY,Platinum,True
+CUST_000755,Mike,Miller,customer755@email.com,+15422798091,2025-06-27,67,New York,TX,Bronze,True
+CUST_000756,Chris,Williams,customer756@email.com,+12864326250,2025-02-20,66,New York,NY,Bronze,False
+CUST_000757,David,Miller,customer757@email.com,+18484828793,2025-03-17,18,Phoenix,NY,Platinum,True
+CUST_000758,Sarah,Davis,customer758@email.com,+18290582278,2024-10-12,43,Houston,IL,Bronze,True
+CUST_000759,Emma,Miller,customer759@email.com,+12219460880,2025-07-24,50,Phoenix,PA,Silver,True
+CUST_000760,David,Brown,customer760@email.com,+13170137829,2025-08-10,71,Philadelphia,IL,Gold,True
+CUST_000761,Jane,Davis,customer761@email.com,+14164784001,2025-01-20,39,Houston,FL,Gold,True
+CUST_000762,Mike,Miller,customer762@email.com,+12063577070,2025-03-26,51,Houston,PA,Platinum,True
+CUST_000763,Chris,Miller,customer763@email.com,+11351960400,2025-08-09,45,Chicago,GA,Silver,True
+CUST_000764,Emma,Miller,customer764@email.com,+19475140777,2025-06-18,27,Chicago,GA,Platinum,True
+CUST_000765,Jane,Brown,customer765@email.com,+17251034460,2025-08-24,65,Chicago,PA,Bronze,True
+CUST_000766,Chris,Johnson,customer766@email.com,+15814084647,2024-11-21,36,New York,NY,Bronze,True
+CUST_000767,Emma,Jones,customer767@email.com,+16557607354,2025-08-26,68,Chicago,NY,Platinum,True
+CUST_000768,David,Jones,customer768@email.com,+11925915326,2025-01-02,18,Los Angeles,PA,Bronze,False
+CUST_000769,Chris,Davis,customer769@email.com,+17756237356,2024-11-24,46,Philadelphia,OH,Platinum,False
+CUST_000770,Mike,Williams,customer770@email.com,+12928761313,2025-03-27,23,San Antonio,OH,Silver,False
+CUST_000771,Emma,Smith,customer771@email.com,+19117673599,2025-04-20,59,Los Angeles,NY,Bronze,True
+CUST_000772,David,Johnson,customer772@email.com,+11365725210,2024-10-28,52,New York,FL,Platinum,True
+CUST_000773,John,Johnson,customer773@email.com,+13284318901,2025-08-31,35,Houston,FL,Platinum,True
+CUST_000774,Emma,Miller,customer774@email.com,+13529276291,2025-01-01,73,New York,PA,Platinum,True
+CUST_000775,John,Garcia,customer775@email.com,+16935691971,2025-07-25,25,Los Angeles,NY,Gold,True
+CUST_000776,David,Johnson,customer776@email.com,+15957368810,2025-02-13,61,Chicago,CA,Gold,True
+CUST_000777,John,Jones,customer777@email.com,+12674778305,2025-03-30,27,San Antonio,PA,Gold,True
+CUST_000778,Jane,Smith,customer778@email.com,+11869986241,2024-11-08,55,Houston,GA,Platinum,False
+CUST_000779,David,Smith,customer779@email.com,+16662211914,2024-11-30,44,Los Angeles,GA,Bronze,True
+CUST_000780,Sarah,Smith,customer780@email.com,+13899521378,2025-05-06,66,Chicago,IL,Platinum,True
+CUST_000781,Sarah,Williams,customer781@email.com,+15231868728,2025-05-07,52,San Antonio,GA,Bronze,True
+CUST_000782,Lisa,Jones,customer782@email.com,+11718898818,2025-08-10,77,San Diego,IL,Gold,False
+CUST_000783,Chris,Garcia,customer783@email.com,+12208222796,2025-06-19,65,Los Angeles,IL,Bronze,True
+CUST_000784,Jane,Williams,customer784@email.com,+19584871905,2025-01-31,31,Philadelphia,PA,Gold,False
+CUST_000785,Lisa,Jones,customer785@email.com,+19517014405,2025-03-19,31,San Diego,PA,Bronze,False
+CUST_000786,Mike,Smith,customer786@email.com,+17909686474,2025-09-07,75,New York,NY,Platinum,True
+CUST_000787,Lisa,Miller,customer787@email.com,+13311256997,2024-10-12,59,Los Angeles,CA,Platinum,True
+CUST_000788,Emma,Miller,customer788@email.com,+16832418460,2025-06-11,71,New York,TX,Platinum,True
+CUST_000789,Sarah,Davis,customer789@email.com,+11040215075,2025-08-30,66,Phoenix,PA,Silver,True
+CUST_000790,David,Brown,customer790@email.com,+12559069619,2025-04-19,49,Houston,CA,Silver,False
+CUST_000791,Chris,Johnson,customer791@email.com,+19031229072,2024-11-22,50,San Diego,NY,Silver,True
+CUST_000792,Mike,Johnson,customer792@email.com,+13526147677,2025-08-07,26,Phoenix,FL,Gold,True
+CUST_000793,John,Jones,customer793@email.com,+19087861217,2025-09-08,78,San Antonio,CA,Gold,True
+CUST_000794,Chris,Jones,customer794@email.com,+17521028542,2024-12-30,41,New York,FL,Bronze,True
+CUST_000795,Chris,Davis,customer795@email.com,+12358248920,2025-02-21,30,Philadelphia,TX,Bronze,False
+CUST_000796,Sarah,Miller,customer796@email.com,+15113615245,2025-05-05,30,Chicago,PA,Gold,True
+CUST_000797,Jane,Smith,customer797@email.com,+17356407384,2025-08-28,55,Philadelphia,IL,Silver,True
+CUST_000798,Sarah,Garcia,customer798@email.com,+14575635519,2025-03-23,51,Houston,TX,Platinum,True
+CUST_000799,Lisa,Johnson,customer799@email.com,+15438177295,2025-04-02,74,Los Angeles,NY,Bronze,False
+CUST_000800,Lisa,Smith,customer800@email.com,+17984412292,2025-08-07,24,New York,CA,Gold,False
+CUST_000801,Chris,Johnson,customer801@email.com,+12765695439,2024-11-07,68,New York,GA,Platinum,True
+CUST_000802,Chris,Johnson,customer802@email.com,+14362655061,2025-01-20,51,Philadelphia,FL,Bronze,True
+CUST_000803,Jane,Brown,customer803@email.com,+17480667587,2025-03-12,44,San Diego,GA,Silver,True
+CUST_000804,John,Smith,customer804@email.com,+15843351966,2024-11-14,45,Philadelphia,IL,Silver,True
+CUST_000805,David,Garcia,customer805@email.com,+16545077429,2025-09-05,51,Chicago,CA,Silver,True
+CUST_000806,John,Miller,customer806@email.com,+12476678923,2025-05-30,58,Houston,TX,Gold,True
+CUST_000807,Lisa,Davis,customer807@email.com,+19431299488,2024-10-29,37,San Antonio,PA,Silver,True
+CUST_000808,John,Davis,customer808@email.com,+19605813398,2025-05-18,62,Houston,GA,Silver,True
+CUST_000809,Emma,Miller,customer809@email.com,+16176794336,2025-06-07,70,New York,PA,Bronze,True
+CUST_000810,John,Johnson,customer810@email.com,+15906579123,2025-01-27,30,Philadelphia,CA,Bronze,True
+CUST_000811,David,Williams,customer811@email.com,+16043513610,2024-11-30,33,Chicago,FL,Bronze,True
+CUST_000812,David,Johnson,customer812@email.com,+13909635823,2025-02-27,59,Los Angeles,PA,Silver,True
+CUST_000813,Sarah,Garcia,customer813@email.com,+18771690787,2024-10-06,28,San Antonio,TX,Bronze,True
+CUST_000814,Mike,Brown,customer814@email.com,+16902381593,2024-11-07,45,Houston,CA,Silver,False
+CUST_000815,David,Williams,customer815@email.com,+12407377479,2025-08-13,58,Phoenix,NY,Platinum,True
+CUST_000816,Jane,Davis,customer816@email.com,+13640917193,2025-06-16,50,San Antonio,PA,Platinum,True
+CUST_000817,Mike,Garcia,customer817@email.com,+18355075124,2024-12-14,62,San Diego,GA,Platinum,True
+CUST_000818,Chris,Smith,customer818@email.com,+11889915488,2025-05-29,46,Houston,OH,Silver,True
+CUST_000819,Chris,Williams,customer819@email.com,+16901746164,2024-12-02,23,Chicago,TX,Gold,True
+CUST_000820,Emma,Brown,customer820@email.com,+13508098662,2025-01-14,50,Philadelphia,OH,Platinum,True
+CUST_000821,Chris,Garcia,customer821@email.com,+18750287671,2025-03-31,35,San Antonio,CA,Silver,True
+CUST_000822,David,Johnson,customer822@email.com,+15648952124,2024-12-27,50,Los Angeles,IL,Silver,True
+CUST_000823,Jane,Garcia,customer823@email.com,+19754351898,2025-05-30,39,Houston,PA,Gold,True
+CUST_000824,David,Brown,customer824@email.com,+15286358927,2024-12-05,76,Phoenix,CA,Gold,True
+CUST_000825,Emma,Miller,customer825@email.com,+19357211829,2024-11-17,66,New York,GA,Silver,False
+CUST_000826,Sarah,Brown,customer826@email.com,+16196373651,2025-05-13,51,San Diego,GA,Gold,True
+CUST_000827,Emma,Brown,customer827@email.com,+12793955743,2025-01-28,46,New York,PA,Silver,True
+CUST_000828,Mike,Jones,customer828@email.com,+15336547548,2024-10-07,71,Philadelphia,PA,Silver,True
+CUST_000829,Chris,Jones,customer829@email.com,+19689748933,2025-08-24,77,Chicago,NY,Gold,True
+CUST_000830,Chris,Miller,customer830@email.com,+12677769486,2024-12-10,42,Houston,GA,Bronze,True
+CUST_000831,Lisa,Jones,customer831@email.com,+11400469224,2025-07-18,61,Chicago,CA,Platinum,True
+CUST_000832,Sarah,Johnson,customer832@email.com,+16952369916,2025-05-27,32,Phoenix,TX,Platinum,True
+CUST_000833,John,Williams,customer833@email.com,+19202582000,2025-02-21,28,Los Angeles,NY,Platinum,True
+CUST_000834,Jane,Miller,customer834@email.com,+14718151021,2025-07-05,73,Houston,IL,Platinum,False
+CUST_000835,Lisa,Williams,customer835@email.com,+19328604121,2024-11-13,30,San Diego,IL,Silver,True
+CUST_000836,Mike,Davis,customer836@email.com,+14468468836,2024-12-14,39,San Diego,GA,Platinum,True
+CUST_000837,Jane,Jones,customer837@email.com,+19241594992,2025-03-16,62,Phoenix,OH,Silver,True
+CUST_000838,Mike,Miller,customer838@email.com,+17261324224,2024-10-07,29,Los Angeles,OH,Bronze,True
+CUST_000839,Mike,Jones,customer839@email.com,+17604532467,2024-10-03,76,Los Angeles,FL,Platinum,True
+CUST_000840,Jane,Garcia,customer840@email.com,+16695183060,2025-01-22,28,Phoenix,FL,Bronze,True
+CUST_000841,Jane,Davis,customer841@email.com,+16932017991,2025-02-17,72,Houston,OH,Bronze,True
+CUST_000842,Jane,Williams,customer842@email.com,+18510506350,2025-01-04,47,Los Angeles,TX,Silver,True
+CUST_000843,Lisa,Williams,customer843@email.com,+11693063999,2025-08-31,56,Los Angeles,NY,Gold,True
+CUST_000844,Chris,Williams,customer844@email.com,+19923160916,2025-09-04,61,Phoenix,NY,Platinum,True
+CUST_000845,Sarah,Smith,customer845@email.com,+13286205964,2025-01-26,62,New York,TX,Platinum,True
+CUST_000846,Lisa,Smith,customer846@email.com,+13569272442,2025-08-16,67,San Antonio,FL,Silver,True
+CUST_000847,Sarah,Brown,customer847@email.com,+11392501735,2025-02-06,19,New York,PA,Silver,True
+CUST_000848,Jane,Brown,customer848@email.com,+13852325403,2025-06-16,20,San Antonio,TX,Gold,True
+CUST_000849,Sarah,Brown,customer849@email.com,+12837731893,2025-05-14,31,Los Angeles,PA,Gold,True
+CUST_000850,Chris,Garcia,customer850@email.com,+15346426918,2025-05-24,47,Houston,TX,Gold,True
+CUST_000851,Emma,Smith,customer851@email.com,+16233679020,2025-04-08,67,San Diego,TX,Silver,True
+CUST_000852,Jane,Garcia,customer852@email.com,+18285619035,2024-09-27,77,Chicago,PA,Silver,True
+CUST_000853,Emma,Davis,customer853@email.com,+15584935508,2025-08-31,56,San Diego,OH,Silver,True
+CUST_000854,John,Brown,customer854@email.com,+19681045368,2025-07-08,37,Houston,OH,Silver,True
+CUST_000855,John,Williams,customer855@email.com,+16903534019,2025-04-11,30,Chicago,OH,Silver,True
+CUST_000856,Sarah,Davis,customer856@email.com,+12411712184,2025-04-20,38,New York,OH,Gold,True
+CUST_000857,Sarah,Garcia,customer857@email.com,+12472007336,2025-05-27,52,New York,FL,Silver,True
+CUST_000858,Chris,Garcia,customer858@email.com,+16083289100,2024-10-22,18,Los Angeles,GA,Bronze,False
+CUST_000859,John,Williams,customer859@email.com,+15029858402,2025-07-07,23,Chicago,FL,Silver,True
+CUST_000860,Chris,Davis,customer860@email.com,+12337723268,2025-05-31,33,San Antonio,NY,Silver,True
+CUST_000861,Lisa,Brown,customer861@email.com,+18650577678,2025-07-31,78,Philadelphia,OH,Platinum,True
+CUST_000862,Lisa,Miller,customer862@email.com,+18451459487,2025-06-22,70,San Diego,CA,Platinum,True
+CUST_000863,Jane,Jones,customer863@email.com,+14120930408,2025-05-01,42,San Diego,IL,Platinum,True
+CUST_000864,Lisa,Johnson,customer864@email.com,+12431229740,2025-01-12,30,Chicago,FL,Bronze,True
+CUST_000865,Emma,Davis,customer865@email.com,+18482666187,2025-02-25,49,Phoenix,TX,Platinum,False
+CUST_000866,Jane,Miller,customer866@email.com,+11697341120,2025-01-29,79,Phoenix,PA,Platinum,True
+CUST_000867,Emma,Smith,customer867@email.com,+18090588715,2025-02-04,65,Houston,FL,Platinum,True
+CUST_000868,Emma,Smith,customer868@email.com,+13771686437,2025-04-29,56,San Diego,NY,Gold,True
+CUST_000869,Mike,Smith,customer869@email.com,+19986384992,2024-09-10,76,San Antonio,OH,Bronze,True
+CUST_000870,Sarah,Miller,customer870@email.com,+17128366328,2024-09-20,37,San Antonio,IL,Platinum,True
+CUST_000871,Jane,Johnson,customer871@email.com,+15907917027,2025-05-25,77,San Antonio,IL,Bronze,False
+CUST_000872,Lisa,Smith,customer872@email.com,+11416056343,2024-09-18,44,San Antonio,IL,Platinum,True
+CUST_000873,Emma,Williams,customer873@email.com,+14023859695,2025-05-31,49,Chicago,TX,Platinum,True
+CUST_000874,Sarah,Williams,customer874@email.com,+11863034397,2025-06-08,69,Houston,IL,Platinum,True
+CUST_000875,Jane,Williams,customer875@email.com,+15637747791,2025-07-28,42,Los Angeles,IL,Bronze,True
+CUST_000876,Sarah,Davis,customer876@email.com,+14266466941,2025-09-05,21,Phoenix,CA,Bronze,True
+CUST_000877,John,Miller,customer877@email.com,+18565000642,2025-01-04,48,Philadelphia,OH,Gold,True
+CUST_000878,Emma,Garcia,customer878@email.com,+14508331976,2025-03-09,60,San Antonio,OH,Bronze,False
+CUST_000879,Emma,Johnson,customer879@email.com,+15308215823,2024-09-17,43,Chicago,CA,Bronze,False
+CUST_000880,David,Brown,customer880@email.com,+16877361656,2024-10-28,61,San Diego,OH,Silver,True
+CUST_000881,Emma,Smith,customer881@email.com,+18017020095,2025-08-17,80,Philadelphia,GA,Silver,True
+CUST_000882,Chris,Johnson,customer882@email.com,+16791050254,2025-01-09,60,Los Angeles,OH,Gold,True
+CUST_000883,Mike,Smith,customer883@email.com,+15844127642,2025-07-27,37,San Diego,NY,Platinum,False
+CUST_000884,Lisa,Brown,customer884@email.com,+12045206074,2025-06-14,66,Los Angeles,TX,Platinum,False
+CUST_000885,John,Williams,customer885@email.com,+12204127801,2025-05-01,60,San Diego,TX,Silver,False
+CUST_000886,Lisa,Johnson,customer886@email.com,+19867677356,2025-03-18,42,San Antonio,OH,Silver,True
+CUST_000887,Jane,Jones,customer887@email.com,+11376584206,2025-07-26,39,Houston,TX,Gold,True
+CUST_000888,Emma,Miller,customer888@email.com,+15302176368,2025-08-09,55,Houston,OH,Platinum,True
+CUST_000889,Emma,Williams,customer889@email.com,+11954090737,2025-02-19,18,San Diego,PA,Silver,False
+CUST_000890,David,Brown,customer890@email.com,+12957579670,2024-11-06,36,Chicago,CA,Gold,True
+CUST_000891,Jane,Jones,customer891@email.com,+14559184883,2024-12-30,36,San Antonio,CA,Gold,True
+CUST_000892,Sarah,Brown,customer892@email.com,+16977769260,2024-10-07,76,Chicago,CA,Platinum,True
+CUST_000893,Lisa,Garcia,customer893@email.com,+18549324944,2025-02-21,22,Phoenix,IL,Silver,True
+CUST_000894,Chris,Johnson,customer894@email.com,+15857181464,2024-11-16,73,New York,IL,Platinum,True
+CUST_000895,Mike,Davis,customer895@email.com,+18284073512,2025-04-13,75,Chicago,FL,Silver,False
+CUST_000896,Sarah,Smith,customer896@email.com,+14686932034,2025-03-01,78,San Antonio,NY,Bronze,True
+CUST_000897,Lisa,Williams,customer897@email.com,+15059015523,2025-07-11,80,Philadelphia,OH,Silver,True
+CUST_000898,Chris,Brown,customer898@email.com,+11145998097,2025-05-09,43,San Diego,IL,Silver,True
+CUST_000899,Chris,Johnson,customer899@email.com,+18635295696,2024-10-12,42,Phoenix,GA,Gold,True
+CUST_000900,Jane,Johnson,customer900@email.com,+15819174770,2024-10-16,60,Houston,CA,Platinum,True
+CUST_000901,Jane,Williams,customer901@email.com,+16944062423,2024-10-14,62,San Antonio,IL,Silver,True
+CUST_000902,Jane,Williams,customer902@email.com,+14009663602,2025-02-20,53,San Diego,TX,Bronze,True
+CUST_000903,Sarah,Johnson,customer903@email.com,+11772825941,2024-11-29,46,Philadelphia,TX,Bronze,True
+CUST_000904,Sarah,Williams,customer904@email.com,+19967122592,2025-05-01,72,New York,TX,Bronze,True
+CUST_000905,Emma,Williams,customer905@email.com,+11000367517,2025-04-09,20,Phoenix,GA,Silver,True
+CUST_000906,Emma,Garcia,customer906@email.com,+13192968846,2024-09-22,24,New York,FL,Bronze,True
+CUST_000907,David,Brown,customer907@email.com,+15112100178,2024-11-05,53,Houston,PA,Gold,True
+CUST_000908,Chris,Johnson,customer908@email.com,+17656549104,2025-04-29,42,Chicago,OH,Platinum,True
+CUST_000909,David,Miller,customer909@email.com,+11875155003,2024-10-22,64,Phoenix,FL,Gold,True
+CUST_000910,Mike,Miller,customer910@email.com,+14528606855,2025-04-01,68,San Antonio,OH,Bronze,False
+CUST_000911,Sarah,Johnson,customer911@email.com,+12160179042,2024-12-11,25,San Antonio,TX,Gold,True
+CUST_000912,Emma,Garcia,customer912@email.com,+18636756590,2025-06-27,73,Houston,IL,Bronze,True
+CUST_000913,Sarah,Miller,customer913@email.com,+15087876256,2025-07-08,29,Phoenix,GA,Bronze,True
+CUST_000914,David,Jones,customer914@email.com,+13609050672,2025-08-16,28,Philadelphia,OH,Silver,True
+CUST_000915,Chris,Davis,customer915@email.com,+13543952630,2025-04-30,18,Chicago,NY,Silver,True
+CUST_000916,David,Smith,customer916@email.com,+14339458019,2024-09-27,56,San Antonio,GA,Silver,True
+CUST_000917,Emma,Davis,customer917@email.com,+17452025499,2025-04-21,78,San Antonio,FL,Gold,True
+CUST_000918,Jane,Jones,customer918@email.com,+19977085483,2025-07-31,22,Houston,TX,Silver,True
+CUST_000919,Jane,Jones,customer919@email.com,+14755317390,2025-02-04,61,Chicago,GA,Platinum,True
+CUST_000920,Jane,Miller,customer920@email.com,+19649635759,2025-06-04,76,New York,OH,Gold,True
+CUST_000921,John,Davis,customer921@email.com,+15143128978,2024-09-29,77,Houston,NY,Bronze,True
+CUST_000922,Mike,Garcia,customer922@email.com,+15090885943,2025-02-05,49,San Antonio,NY,Gold,False
+CUST_000923,Emma,Brown,customer923@email.com,+14684249425,2025-04-14,37,San Diego,IL,Gold,True
+CUST_000924,Chris,Brown,customer924@email.com,+19259464192,2024-10-15,50,New York,GA,Platinum,True
+CUST_000925,John,Davis,customer925@email.com,+16706086556,2025-03-12,24,New York,PA,Silver,True
+CUST_000926,John,Johnson,customer926@email.com,+17145255596,2025-05-31,23,Chicago,OH,Bronze,False
+CUST_000927,John,Williams,customer927@email.com,+12074320602,2025-01-12,43,Philadelphia,IL,Gold,True
+CUST_000928,Mike,Jones,customer928@email.com,+18899980156,2025-06-19,26,Philadelphia,OH,Bronze,True
+CUST_000929,Sarah,Johnson,customer929@email.com,+16109151668,2025-08-20,26,San Antonio,OH,Gold,False
+CUST_000930,Mike,Brown,customer930@email.com,+19368210526,2024-10-04,80,Phoenix,TX,Platinum,True
+CUST_000931,Lisa,Williams,customer931@email.com,+19082125721,2024-12-27,64,San Antonio,NY,Bronze,False
+CUST_000932,John,Williams,customer932@email.com,+15963015056,2024-12-27,18,Houston,CA,Gold,True
+CUST_000933,John,Miller,customer933@email.com,+17357380596,2025-04-18,49,Los Angeles,OH,Silver,True
+CUST_000934,Mike,Brown,customer934@email.com,+14010582093,2024-10-03,70,San Antonio,FL,Platinum,True
+CUST_000935,Jane,Williams,customer935@email.com,+11638773733,2025-07-10,26,San Antonio,CA,Gold,False
+CUST_000936,Mike,Miller,customer936@email.com,+19665789482,2025-05-30,23,New York,OH,Platinum,True
+CUST_000937,Sarah,Brown,customer937@email.com,+16738840177,2025-01-07,21,San Antonio,CA,Gold,True
+CUST_000938,Emma,Jones,customer938@email.com,+19345116088,2024-09-10,44,Houston,PA,Bronze,True
+CUST_000939,John,Smith,customer939@email.com,+12381431592,2025-04-16,48,Phoenix,TX,Platinum,True
+CUST_000940,Lisa,Garcia,customer940@email.com,+16730698191,2025-07-14,24,New York,NY,Gold,True
+CUST_000941,Emma,Garcia,customer941@email.com,+12185183112,2024-11-14,42,Los Angeles,TX,Silver,True
+CUST_000942,Jane,Smith,customer942@email.com,+11817906089,2024-09-14,46,Los Angeles,TX,Gold,True
+CUST_000943,Lisa,Brown,customer943@email.com,+11660017733,2025-07-06,30,San Antonio,IL,Gold,False
+CUST_000944,Lisa,Johnson,customer944@email.com,+19207034721,2025-08-06,48,San Antonio,CA,Silver,True
+CUST_000945,Mike,Jones,customer945@email.com,+13431702140,2024-09-19,30,San Antonio,GA,Bronze,True
+CUST_000946,Chris,Miller,customer946@email.com,+12166058670,2025-06-07,18,Chicago,FL,Bronze,False
+CUST_000947,Lisa,Jones,customer947@email.com,+16241304621,2024-09-12,35,Los Angeles,NY,Silver,True
+CUST_000948,Sarah,Jones,customer948@email.com,+19757827766,2025-06-26,78,Phoenix,NY,Gold,False
+CUST_000949,John,Brown,customer949@email.com,+11499010108,2024-10-12,40,Philadelphia,PA,Bronze,False
+CUST_000950,David,Williams,customer950@email.com,+17921262641,2025-03-27,21,New York,PA,Silver,True
+CUST_000951,David,Williams,customer951@email.com,+19657101385,2024-10-08,80,Los Angeles,OH,Gold,False
+CUST_000952,Sarah,Davis,customer952@email.com,+16242604762,2025-04-25,31,San Antonio,NY,Platinum,True
+CUST_000953,Chris,Garcia,customer953@email.com,+13057318920,2024-12-30,29,San Diego,NY,Silver,True
+CUST_000954,Lisa,Williams,customer954@email.com,+18076234670,2025-08-30,37,Chicago,NY,Platinum,True
+CUST_000955,Sarah,Johnson,customer955@email.com,+11616423848,2025-02-03,33,San Diego,OH,Bronze,True
+CUST_000956,Mike,Smith,customer956@email.com,+13591125930,2025-02-28,42,New York,TX,Bronze,True
+CUST_000957,John,Williams,customer957@email.com,+15654007427,2025-06-28,78,New York,CA,Bronze,True
+CUST_000958,Emma,Johnson,customer958@email.com,+11868964847,2025-01-07,66,San Diego,NY,Gold,True
+CUST_000959,Mike,Brown,customer959@email.com,+19829918066,2024-09-20,35,Los Angeles,CA,Bronze,True
+CUST_000960,David,Johnson,customer960@email.com,+18887636081,2025-06-29,18,Houston,CA,Silver,True
+CUST_000961,Mike,Garcia,customer961@email.com,+18109736800,2025-05-17,76,San Antonio,TX,Platinum,True
+CUST_000962,Jane,Brown,customer962@email.com,+19400307779,2025-03-11,22,Philadelphia,TX,Gold,False
+CUST_000963,Jane,Smith,customer963@email.com,+13596335142,2025-06-10,45,Philadelphia,NY,Platinum,True
+CUST_000964,David,Jones,customer964@email.com,+15741311316,2024-12-28,60,Philadelphia,IL,Bronze,True
+CUST_000965,Mike,Williams,customer965@email.com,+12375489059,2025-02-22,46,San Diego,TX,Bronze,True
+CUST_000966,David,Williams,customer966@email.com,+15683434276,2025-07-06,29,San Antonio,PA,Gold,True
+CUST_000967,Lisa,Miller,customer967@email.com,+18029161450,2025-07-01,69,Houston,OH,Platinum,True
+CUST_000968,Lisa,Brown,customer968@email.com,+12651961479,2024-11-16,63,San Antonio,FL,Bronze,True
+CUST_000969,John,Brown,customer969@email.com,+15368645970,2024-11-28,48,Chicago,TX,Bronze,False
+CUST_000970,Emma,Williams,customer970@email.com,+16560682527,2025-06-28,71,San Antonio,FL,Silver,False
+CUST_000971,John,Williams,customer971@email.com,+15909476525,2025-08-27,62,San Antonio,PA,Bronze,True
+CUST_000972,Jane,Davis,customer972@email.com,+14738670174,2025-08-25,27,Philadelphia,NY,Bronze,True
+CUST_000973,John,Miller,customer973@email.com,+16078474602,2025-06-30,65,Phoenix,GA,Platinum,True
+CUST_000974,Lisa,Smith,customer974@email.com,+12231663777,2025-06-22,21,New York,NY,Silver,True
+CUST_000975,Chris,Davis,customer975@email.com,+18857720987,2024-11-21,50,Phoenix,FL,Platinum,False
+CUST_000976,David,Johnson,customer976@email.com,+17534797217,2025-07-07,65,Houston,OH,Bronze,True
+CUST_000977,Mike,Johnson,customer977@email.com,+17306885001,2025-04-02,59,San Antonio,OH,Silver,True
+CUST_000978,Emma,Miller,customer978@email.com,+16131328818,2025-07-16,24,Los Angeles,PA,Gold,True
+CUST_000979,David,Williams,customer979@email.com,+13326016489,2025-08-07,31,New York,IL,Silver,True
+CUST_000980,John,Brown,customer980@email.com,+12156067809,2024-11-22,54,New York,GA,Bronze,True
+CUST_000981,Jane,Jones,customer981@email.com,+16131986440,2025-02-21,64,Philadelphia,NY,Bronze,True
+CUST_000982,Jane,Williams,customer982@email.com,+19691662212,2025-02-26,48,New York,IL,Silver,True
+CUST_000983,Lisa,Johnson,customer983@email.com,+14085773843,2025-05-22,69,Chicago,NY,Gold,True
+CUST_000984,Mike,Garcia,customer984@email.com,+16544122414,2024-10-25,72,San Antonio,CA,Platinum,True
+CUST_000985,Jane,Williams,customer985@email.com,+19565902229,2025-07-22,69,New York,NY,Gold,True
+CUST_000986,Jane,Davis,customer986@email.com,+15699183813,2025-04-02,28,Phoenix,NY,Bronze,True
+CUST_000987,Emma,Garcia,customer987@email.com,+11383236692,2025-06-10,63,San Diego,IL,Platinum,False
+CUST_000988,Lisa,Williams,customer988@email.com,+15036536863,2024-11-22,49,New York,PA,Gold,True
+CUST_000989,Mike,Davis,customer989@email.com,+19383969266,2025-03-02,23,San Antonio,GA,Gold,False
+CUST_000990,John,Smith,customer990@email.com,+11034114705,2025-07-18,36,San Antonio,NY,Platinum,False
+CUST_000991,Sarah,Miller,customer991@email.com,+19049451104,2024-10-02,23,Philadelphia,GA,Platinum,True
+CUST_000992,Lisa,Johnson,customer992@email.com,+11368605032,2025-07-16,76,San Antonio,OH,Silver,True
+CUST_000993,Jane,Garcia,customer993@email.com,+17890714185,2025-05-24,62,San Diego,TX,Gold,True
+CUST_000994,Mike,Davis,customer994@email.com,+16211814586,2024-11-23,20,San Antonio,CA,Gold,True
+CUST_000995,Lisa,Brown,customer995@email.com,+11232261179,2025-08-29,78,San Antonio,IL,Gold,True
+CUST_000996,Jane,Williams,customer996@email.com,+15592432662,2025-02-14,23,Phoenix,GA,Platinum,True
+CUST_000997,David,Williams,customer997@email.com,+14567181201,2025-07-24,75,San Antonio,PA,Gold,True
+CUST_000998,Emma,Miller,customer998@email.com,+17363532024,2024-12-09,62,Chicago,OH,Gold,False
+CUST_000999,Chris,Smith,customer999@email.com,+11852808613,2024-10-03,55,Chicago,PA,Gold,True
+CUST_001000,Lisa,Williams,customer1000@email.com,+12358961337,2024-09-29,44,Phoenix,CA,Platinum,False

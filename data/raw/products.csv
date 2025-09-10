@@ -1,0 +1,501 @@
+product_id,name,category,subcategory,price,cost,stock_quantity,supplier,created_date,is_active,weight_kg,dimensions
+PROD_000001,Health & Beauty Product 1,Health & Beauty,Health & Beauty Sub 1,22.26,86.13,228,Supplier 5,2025-04-29,True,8.93,15x47x18 cm
+PROD_000002,Electronics Product 2,Electronics,Electronics Sub 1,55.91,73.63,616,Supplier 1,2024-01-15,True,6.53,44x36x12 cm
+PROD_000003,Sports Product 3,Sports,Sports Sub 5,146.31,261.44,777,Supplier 6,2024-06-05,True,1.64,31x16x7 cm
+PROD_000004,Sports Product 4,Sports,Sports Sub 1,185.9,106.47,270,Supplier 2,2024-04-28,True,9.73,34x15x14 cm
+PROD_000005,Health & Beauty Product 5,Health & Beauty,Health & Beauty Sub 5,443.87,111.68,196,Supplier 3,2025-06-26,True,7.75,15x24x8 cm
+PROD_000006,Sports Product 6,Sports,Sports Sub 3,232.17,251.06,166,Supplier 12,2024-08-13,True,2.74,14x48x10 cm
+PROD_000007,Books Product 7,Books,Books Sub 2,90.07,116.94,947,Supplier 18,2024-12-30,True,8.44,13x24x6 cm
+PROD_000008,Home & Garden Product 8,Home & Garden,Home & Garden Sub 4,141.19,67.24,965,Supplier 19,2024-09-23,True,5.04,39x19x13 cm
+PROD_000009,Clothing Product 9,Clothing,Clothing Sub 2,375.04,164.0,764,Supplier 19,2024-05-30,True,4.05,24x18x20 cm
+PROD_000010,Electronics Product 10,Electronics,Electronics Sub 1,431.94,50.09,163,Supplier 14,2023-12-10,True,3.88,39x43x13 cm
+PROD_000011,Books Product 11,Books,Books Sub 1,343.34,38.79,906,Supplier 18,2024-11-11,True,3.47,28x37x10 cm
+PROD_000012,Sports Product 12,Sports,Sports Sub 1,477.37,263.38,269,Supplier 17,2025-02-10,True,1.15,50x29x11 cm
+PROD_000013,Clothing Product 13,Clothing,Clothing Sub 3,383.63,164.12,797,Supplier 17,2025-08-11,True,4.94,17x33x14 cm
+PROD_000014,Clothing Product 14,Clothing,Clothing Sub 1,128.03,172.37,80,Supplier 3,2024-04-01,True,9.78,44x18x9 cm
+PROD_000015,Health & Beauty Product 15,Health & Beauty,Health & Beauty Sub 4,473.96,53.71,540,Supplier 20,2024-06-04,False,9.3,22x29x17 cm
+PROD_000016,Health & Beauty Product 16,Health & Beauty,Health & Beauty Sub 3,224.67,157.68,123,Supplier 8,2024-12-24,True,0.31,45x24x12 cm
+PROD_000017,Electronics Product 17,Electronics,Electronics Sub 1,356.84,22.37,69,Supplier 2,2024-09-07,True,2.46,41x23x9 cm
+PROD_000018,Health & Beauty Product 18,Health & Beauty,Health & Beauty Sub 5,292.34,76.68,484,Supplier 14,2025-01-29,True,6.62,32x37x18 cm
+PROD_000019,Sports Product 19,Sports,Sports Sub 1,339.95,295.33,100,Supplier 2,2024-06-25,True,8.03,16x25x11 cm
+PROD_000020,Clothing Product 20,Clothing,Clothing Sub 5,229.82,129.46,285,Supplier 15,2024-11-29,True,0.85,45x16x6 cm
+PROD_000021,Health & Beauty Product 21,Health & Beauty,Health & Beauty Sub 5,419.65,290.85,948,Supplier 8,2025-02-22,True,4.87,35x13x10 cm
+PROD_000022,Sports Product 22,Sports,Sports Sub 1,492.8,83.23,802,Supplier 15,2024-10-23,True,9.58,45x41x9 cm
+PROD_000023,Clothing Product 23,Clothing,Clothing Sub 3,116.67,22.25,753,Supplier 18,2025-06-10,True,0.67,47x40x10 cm
+PROD_000024,Electronics Product 24,Electronics,Electronics Sub 5,49.25,59.82,609,Supplier 3,2023-09-20,True,4.1,46x25x6 cm
+PROD_000025,Books Product 25,Books,Books Sub 1,215.42,177.18,535,Supplier 11,2024-11-17,True,7.19,25x26x17 cm
+PROD_000026,Clothing Product 26,Clothing,Clothing Sub 3,234.04,279.06,958,Supplier 3,2025-08-02,True,9.98,16x14x11 cm
+PROD_000027,Books Product 27,Books,Books Sub 3,74.9,107.96,70,Supplier 8,2024-07-29,True,4.44,44x29x5 cm
+PROD_000028,Health & Beauty Product 28,Health & Beauty,Health & Beauty Sub 5,156.7,200.7,961,Supplier 5,2024-11-14,True,1.16,45x19x13 cm
+PROD_000029,Home & Garden Product 29,Home & Garden,Home & Garden Sub 5,113.21,106.15,703,Supplier 9,2024-03-12,True,9.06,13x15x18 cm
+PROD_000030,Home & Garden Product 30,Home & Garden,Home & Garden Sub 1,11.74,232.48,652,Supplier 9,2025-02-27,True,5.56,37x45x5 cm
+PROD_000031,Electronics Product 31,Electronics,Electronics Sub 1,473.07,208.85,152,Supplier 18,2025-07-06,True,5.87,19x37x9 cm
+PROD_000032,Electronics Product 32,Electronics,Electronics Sub 3,188.68,280.26,995,Supplier 2,2024-08-10,True,2.57,16x32x18 cm
+PROD_000033,Books Product 33,Books,Books Sub 2,463.62,74.84,166,Supplier 6,2024-06-15,True,7.39,31x36x12 cm
+PROD_000034,Home & Garden Product 34,Home & Garden,Home & Garden Sub 2,395.81,36.89,893,Supplier 2,2024-04-17,True,8.18,39x32x14 cm
+PROD_000035,Clothing Product 35,Clothing,Clothing Sub 2,21.6,61.97,336,Supplier 9,2025-06-01,False,2.86,42x35x15 cm
+PROD_000036,Electronics Product 36,Electronics,Electronics Sub 1,439.75,82.06,594,Supplier 9,2025-07-03,True,4.4,30x37x8 cm
+PROD_000037,Sports Product 37,Sports,Sports Sub 5,103.14,18.09,446,Supplier 1,2024-02-26,False,5.43,22x33x18 cm
+PROD_000038,Electronics Product 38,Electronics,Electronics Sub 3,315.35,200.7,127,Supplier 10,2024-03-10,True,4.14,35x28x9 cm
+PROD_000039,Clothing Product 39,Clothing,Clothing Sub 4,335.82,116.85,766,Supplier 6,2023-11-20,True,4.12,10x29x14 cm
+PROD_000040,Clothing Product 40,Clothing,Clothing Sub 4,395.02,183.97,329,Supplier 15,2024-05-16,True,2.22,40x20x7 cm
+PROD_000041,Home & Garden Product 41,Home & Garden,Home & Garden Sub 5,335.29,187.68,95,Supplier 8,2023-09-23,True,8.08,19x11x6 cm
+PROD_000042,Clothing Product 42,Clothing,Clothing Sub 4,309.52,231.7,466,Supplier 14,2023-11-06,True,7.21,34x41x17 cm
+PROD_000043,Clothing Product 43,Clothing,Clothing Sub 2,331.47,6.64,768,Supplier 4,2024-06-02,True,8.06,43x39x6 cm
+PROD_000044,Books Product 44,Books,Books Sub 2,459.56,40.8,136,Supplier 15,2023-09-28,True,5.63,30x38x18 cm
+PROD_000045,Books Product 45,Books,Books Sub 4,449.63,224.38,486,Supplier 15,2024-11-19,True,8.41,27x43x20 cm
+PROD_000046,Health & Beauty Product 46,Health & Beauty,Health & Beauty Sub 2,144.55,27.86,292,Supplier 8,2024-11-06,True,8.94,15x18x9 cm
+PROD_000047,Clothing Product 47,Clothing,Clothing Sub 4,350.04,213.39,65,Supplier 14,2024-06-20,True,4.71,13x23x18 cm
+PROD_000048,Sports Product 48,Sports,Sports Sub 5,473.57,10.76,901,Supplier 19,2024-07-18,True,9.43,29x34x18 cm
+PROD_000049,Books Product 49,Books,Books Sub 5,401.94,269.85,499,Supplier 8,2024-11-05,True,0.39,31x35x10 cm
+PROD_000050,Sports Product 50,Sports,Sports Sub 2,490.55,162.57,928,Supplier 13,2023-12-14,True,0.37,37x18x19 cm
+PROD_000051,Clothing Product 51,Clothing,Clothing Sub 1,137.48,101.57,465,Supplier 11,2024-08-31,True,3.85,36x26x7 cm
+PROD_000052,Sports Product 52,Sports,Sports Sub 1,377.02,20.37,974,Supplier 12,2024-12-25,True,7.83,12x11x12 cm
+PROD_000053,Clothing Product 53,Clothing,Clothing Sub 1,314.45,75.37,484,Supplier 4,2024-01-12,False,4.7,26x33x10 cm
+PROD_000054,Books Product 54,Books,Books Sub 5,482.23,216.92,796,Supplier 6,2024-09-27,True,0.35,29x46x17 cm
+PROD_000055,Sports Product 55,Sports,Sports Sub 2,47.24,208.73,642,Supplier 8,2025-04-29,True,3.09,48x17x6 cm
+PROD_000056,Home & Garden Product 56,Home & Garden,Home & Garden Sub 5,219.91,114.32,518,Supplier 11,2025-07-30,True,8.24,16x37x16 cm
+PROD_000057,Health & Beauty Product 57,Health & Beauty,Health & Beauty Sub 4,356.58,133.47,751,Supplier 17,2023-10-15,True,8.1,44x40x19 cm
+PROD_000058,Sports Product 58,Sports,Sports Sub 5,141.51,256.26,850,Supplier 3,2024-10-30,True,2.51,39x46x17 cm
+PROD_000059,Home & Garden Product 59,Home & Garden,Home & Garden Sub 1,252.21,100.88,499,Supplier 7,2024-08-13,True,3.47,48x27x5 cm
+PROD_000060,Books Product 60,Books,Books Sub 2,51.95,217.42,500,Supplier 18,2024-12-08,True,6.49,41x38x5 cm
+PROD_000061,Electronics Product 61,Electronics,Electronics Sub 3,118.58,209.08,313,Supplier 19,2024-07-30,True,5.36,37x45x15 cm
+PROD_000062,Home & Garden Product 62,Home & Garden,Home & Garden Sub 4,142.75,79.16,123,Supplier 7,2024-09-22,True,5.41,21x22x11 cm
+PROD_000063,Health & Beauty Product 63,Health & Beauty,Health & Beauty Sub 4,145.48,178.93,778,Supplier 17,2023-12-09,True,1.1,22x28x12 cm
+PROD_000064,Home & Garden Product 64,Home & Garden,Home & Garden Sub 2,158.11,213.87,129,Supplier 9,2025-06-26,False,5.58,18x50x20 cm
+PROD_000065,Electronics Product 65,Electronics,Electronics Sub 1,291.29,143.47,451,Supplier 11,2025-02-04,False,2.6,40x17x7 cm
+PROD_000066,Sports Product 66,Sports,Sports Sub 4,46.3,190.69,54,Supplier 5,2025-03-12,True,9.5,15x25x8 cm
+PROD_000067,Books Product 67,Books,Books Sub 4,307.1,238.27,231,Supplier 17,2024-07-18,True,4.48,47x37x14 cm
+PROD_000068,Books Product 68,Books,Books Sub 5,39.51,288.23,101,Supplier 7,2023-11-10,True,6.64,20x25x10 cm
+PROD_000069,Books Product 69,Books,Books Sub 1,86.7,125.51,705,Supplier 20,2024-04-17,True,2.39,28x39x7 cm
+PROD_000070,Health & Beauty Product 70,Health & Beauty,Health & Beauty Sub 2,462.72,237.41,640,Supplier 19,2023-10-04,True,2.06,17x44x12 cm
+PROD_000071,Health & Beauty Product 71,Health & Beauty,Health & Beauty Sub 2,455.12,248.86,73,Supplier 2,2025-02-23,True,5.99,46x28x19 cm
+PROD_000072,Electronics Product 72,Electronics,Electronics Sub 4,347.45,211.42,965,Supplier 9,2024-03-17,True,4.43,48x12x18 cm
+PROD_000073,Health & Beauty Product 73,Health & Beauty,Health & Beauty Sub 3,305.82,12.63,234,Supplier 19,2023-12-19,False,10.0,27x46x6 cm
+PROD_000074,Clothing Product 74,Clothing,Clothing Sub 4,264.29,135.46,284,Supplier 6,2023-12-21,True,8.16,15x40x16 cm
+PROD_000075,Sports Product 75,Sports,Sports Sub 3,167.32,35.86,164,Supplier 11,2024-06-16,True,2.95,35x45x6 cm
+PROD_000076,Sports Product 76,Sports,Sports Sub 1,164.11,100.37,993,Supplier 13,2024-03-03,True,0.11,44x39x18 cm
+PROD_000077,Electronics Product 77,Electronics,Electronics Sub 2,264.04,188.68,510,Supplier 15,2025-06-20,True,5.54,28x38x20 cm
+PROD_000078,Electronics Product 78,Electronics,Electronics Sub 1,486.84,184.62,245,Supplier 6,2024-09-27,True,5.57,15x24x8 cm
+PROD_000079,Sports Product 79,Sports,Sports Sub 1,327.38,50.42,955,Supplier 10,2024-03-08,True,4.21,40x40x12 cm
+PROD_000080,Sports Product 80,Sports,Sports Sub 5,80.87,61.23,613,Supplier 17,2025-03-25,True,2.83,36x31x13 cm
+PROD_000081,Electronics Product 81,Electronics,Electronics Sub 3,365.76,252.06,593,Supplier 16,2025-03-12,True,4.89,31x45x17 cm
+PROD_000082,Sports Product 82,Sports,Sports Sub 3,436.1,294.33,244,Supplier 19,2024-07-15,True,7.78,12x30x20 cm
+PROD_000083,Health & Beauty Product 83,Health & Beauty,Health & Beauty Sub 4,199.18,200.79,840,Supplier 5,2024-03-22,False,1.35,47x31x8 cm
+PROD_000084,Sports Product 84,Sports,Sports Sub 1,267.72,139.79,739,Supplier 5,2024-06-18,True,9.7,14x40x13 cm
+PROD_000085,Home & Garden Product 85,Home & Garden,Home & Garden Sub 5,349.43,196.7,872,Supplier 11,2023-09-21,True,3.86,30x50x20 cm
+PROD_000086,Books Product 86,Books,Books Sub 1,312.56,74.26,700,Supplier 10,2024-12-22,True,4.4,16x50x8 cm
+PROD_000087,Sports Product 87,Sports,Sports Sub 2,350.06,271.51,47,Supplier 11,2025-06-15,True,3.81,19x25x18 cm
+PROD_000088,Books Product 88,Books,Books Sub 2,93.29,28.3,891,Supplier 13,2023-11-16,True,5.03,47x19x12 cm
+PROD_000089,Sports Product 89,Sports,Sports Sub 3,235.19,201.72,920,Supplier 15,2024-10-21,True,1.66,38x32x14 cm
+PROD_000090,Health & Beauty Product 90,Health & Beauty,Health & Beauty Sub 4,348.25,139.77,309,Supplier 7,2024-07-14,True,1.16,34x46x16 cm
+PROD_000091,Books Product 91,Books,Books Sub 3,496.42,92.09,849,Supplier 13,2024-11-03,True,8.66,13x48x20 cm
+PROD_000092,Home & Garden Product 92,Home & Garden,Home & Garden Sub 2,307.46,108.93,651,Supplier 7,2023-11-15,True,7.58,18x50x8 cm
+PROD_000093,Health & Beauty Product 93,Health & Beauty,Health & Beauty Sub 1,161.38,135.04,593,Supplier 12,2025-03-30,True,3.02,36x21x11 cm
+PROD_000094,Clothing Product 94,Clothing,Clothing Sub 5,439.47,112.93,513,Supplier 9,2025-02-24,True,8.26,40x28x15 cm
+PROD_000095,Electronics Product 95,Electronics,Electronics Sub 4,481.82,46.52,989,Supplier 8,2023-09-19,True,9.8,45x33x7 cm
+PROD_000096,Sports Product 96,Sports,Sports Sub 1,139.58,41.46,377,Supplier 9,2023-12-22,True,6.42,33x16x12 cm
+PROD_000097,Sports Product 97,Sports,Sports Sub 1,313.58,283.23,335,Supplier 20,2024-12-28,True,6.39,39x29x18 cm
+PROD_000098,Electronics Product 98,Electronics,Electronics Sub 2,32.22,15.98,504,Supplier 4,2025-05-04,True,5.42,34x39x16 cm
+PROD_000099,Health & Beauty Product 99,Health & Beauty,Health & Beauty Sub 5,215.37,223.97,158,Supplier 14,2023-10-11,True,4.94,36x27x6 cm
+PROD_000100,Health & Beauty Product 100,Health & Beauty,Health & Beauty Sub 3,116.46,136.19,241,Supplier 12,2025-05-02,False,3.74,32x13x17 cm
+PROD_000101,Home & Garden Product 101,Home & Garden,Home & Garden Sub 2,484.42,284.96,843,Supplier 15,2025-05-10,True,6.45,48x11x6 cm
+PROD_000102,Home & Garden Product 102,Home & Garden,Home & Garden Sub 2,494.52,237.16,210,Supplier 3,2024-01-22,True,2.24,24x31x9 cm
+PROD_000103,Books Product 103,Books,Books Sub 1,145.86,295.29,133,Supplier 18,2024-11-28,True,1.19,11x18x5 cm
+PROD_000104,Home & Garden Product 104,Home & Garden,Home & Garden Sub 2,298.54,9.66,271,Supplier 2,2025-04-04,True,5.31,14x40x19 cm
+PROD_000105,Home & Garden Product 105,Home & Garden,Home & Garden Sub 5,300.9,138.34,226,Supplier 20,2025-06-28,True,9.1,43x29x19 cm
+PROD_000106,Health & Beauty Product 106,Health & Beauty,Health & Beauty Sub 1,39.8,146.3,411,Supplier 14,2025-04-23,True,9.11,14x15x15 cm
+PROD_000107,Books Product 107,Books,Books Sub 2,42.18,86.13,648,Supplier 19,2024-01-28,True,3.87,48x43x14 cm
+PROD_000108,Sports Product 108,Sports,Sports Sub 5,306.66,34.26,718,Supplier 4,2023-10-11,True,7.71,23x37x19 cm
+PROD_000109,Clothing Product 109,Clothing,Clothing Sub 4,176.08,138.78,425,Supplier 4,2024-09-25,True,6.68,33x19x20 cm
+PROD_000110,Electronics Product 110,Electronics,Electronics Sub 1,417.57,32.5,98,Supplier 12,2025-03-31,True,5.91,45x45x15 cm
+PROD_000111,Health & Beauty Product 111,Health & Beauty,Health & Beauty Sub 1,211.3,262.71,963,Supplier 14,2025-06-20,False,6.04,32x16x11 cm
+PROD_000112,Clothing Product 112,Clothing,Clothing Sub 4,119.88,36.92,865,Supplier 18,2024-07-31,True,2.86,24x37x5 cm
+PROD_000113,Books Product 113,Books,Books Sub 3,24.19,85.61,780,Supplier 10,2024-08-29,True,1.9,19x46x17 cm
+PROD_000114,Electronics Product 114,Electronics,Electronics Sub 2,373.07,291.68,93,Supplier 17,2025-01-03,True,4.59,20x33x14 cm
+PROD_000115,Health & Beauty Product 115,Health & Beauty,Health & Beauty Sub 3,390.65,172.44,86,Supplier 2,2025-03-05,True,6.22,15x27x19 cm
+PROD_000116,Health & Beauty Product 116,Health & Beauty,Health & Beauty Sub 4,247.97,135.4,279,Supplier 7,2024-03-05,True,4.36,28x47x20 cm
+PROD_000117,Books Product 117,Books,Books Sub 3,32.25,121.6,613,Supplier 2,2025-08-04,True,9.46,18x26x14 cm
+PROD_000118,Home & Garden Product 118,Home & Garden,Home & Garden Sub 1,13.79,225.37,179,Supplier 5,2024-07-18,True,2.38,45x32x7 cm
+PROD_000119,Sports Product 119,Sports,Sports Sub 1,223.75,140.63,79,Supplier 11,2023-12-31,True,4.1,50x36x14 cm
+PROD_000120,Electronics Product 120,Electronics,Electronics Sub 4,20.22,100.81,820,Supplier 20,2024-04-27,True,9.21,15x37x8 cm
+PROD_000121,Clothing Product 121,Clothing,Clothing Sub 4,298.55,159.57,405,Supplier 10,2024-08-29,True,7.81,14x42x8 cm
+PROD_000122,Books Product 122,Books,Books Sub 5,105.01,233.99,359,Supplier 5,2024-12-13,True,2.63,21x48x9 cm
+PROD_000123,Health & Beauty Product 123,Health & Beauty,Health & Beauty Sub 1,96.8,232.99,505,Supplier 15,2024-01-12,True,4.54,46x50x15 cm
+PROD_000124,Health & Beauty Product 124,Health & Beauty,Health & Beauty Sub 3,83.97,25.14,452,Supplier 10,2024-11-03,True,3.58,14x29x19 cm
+PROD_000125,Sports Product 125,Sports,Sports Sub 1,37.88,250.35,78,Supplier 3,2023-11-21,True,3.91,47x45x6 cm
+PROD_000126,Sports Product 126,Sports,Sports Sub 5,329.4,99.85,487,Supplier 17,2025-03-10,False,4.56,31x15x10 cm
+PROD_000127,Electronics Product 127,Electronics,Electronics Sub 2,356.73,297.34,536,Supplier 17,2023-11-26,True,3.79,28x34x18 cm
+PROD_000128,Home & Garden Product 128,Home & Garden,Home & Garden Sub 5,35.66,191.11,342,Supplier 3,2024-09-08,True,6.82,28x26x9 cm
+PROD_000129,Home & Garden Product 129,Home & Garden,Home & Garden Sub 1,295.54,46.72,358,Supplier 10,2023-10-10,True,3.98,48x15x14 cm
+PROD_000130,Books Product 130,Books,Books Sub 4,325.31,101.9,130,Supplier 17,2025-05-08,True,4.29,33x11x16 cm
+PROD_000131,Home & Garden Product 131,Home & Garden,Home & Garden Sub 2,476.07,105.81,784,Supplier 16,2025-01-27,True,1.46,14x28x8 cm
+PROD_000132,Books Product 132,Books,Books Sub 5,419.21,265.69,38,Supplier 11,2023-11-18,True,3.83,20x21x10 cm
+PROD_000133,Health & Beauty Product 133,Health & Beauty,Health & Beauty Sub 4,31.41,112.47,736,Supplier 8,2024-05-14,True,7.55,38x24x12 cm
+PROD_000134,Home & Garden Product 134,Home & Garden,Home & Garden Sub 4,452.95,62.23,694,Supplier 19,2024-05-17,True,2.89,34x42x18 cm
+PROD_000135,Clothing Product 135,Clothing,Clothing Sub 2,402.62,45.83,256,Supplier 2,2023-10-25,True,3.77,16x43x8 cm
+PROD_000136,Home & Garden Product 136,Home & Garden,Home & Garden Sub 1,383.93,85.47,927,Supplier 17,2025-03-14,True,1.01,24x38x16 cm
+PROD_000137,Electronics Product 137,Electronics,Electronics Sub 4,36.1,153.09,241,Supplier 13,2025-05-20,True,0.38,16x31x9 cm
+PROD_000138,Clothing Product 138,Clothing,Clothing Sub 1,150.57,249.78,712,Supplier 5,2024-04-18,True,0.15,15x11x13 cm
+PROD_000139,Clothing Product 139,Clothing,Clothing Sub 2,278.91,219.53,540,Supplier 14,2025-04-20,True,2.45,17x13x12 cm
+PROD_000140,Sports Product 140,Sports,Sports Sub 5,233.99,37.7,926,Supplier 16,2023-12-09,True,6.36,46x25x9 cm
+PROD_000141,Home & Garden Product 141,Home & Garden,Home & Garden Sub 4,10.77,109.08,584,Supplier 14,2025-02-01,True,0.95,33x14x5 cm
+PROD_000142,Sports Product 142,Sports,Sports Sub 4,31.33,119.13,382,Supplier 9,2025-07-26,True,0.77,25x50x8 cm
+PROD_000143,Books Product 143,Books,Books Sub 3,75.37,108.93,346,Supplier 6,2024-04-23,False,4.84,21x18x7 cm
+PROD_000144,Health & Beauty Product 144,Health & Beauty,Health & Beauty Sub 4,28.12,64.47,810,Supplier 7,2025-06-30,True,3.17,35x44x20 cm
+PROD_000145,Home & Garden Product 145,Home & Garden,Home & Garden Sub 1,379.11,61.38,365,Supplier 2,2023-10-10,True,1.33,33x37x17 cm
+PROD_000146,Health & Beauty Product 146,Health & Beauty,Health & Beauty Sub 4,448.37,119.06,997,Supplier 6,2024-03-21,True,3.74,43x27x7 cm
+PROD_000147,Health & Beauty Product 147,Health & Beauty,Health & Beauty Sub 4,48.67,182.72,842,Supplier 6,2024-01-31,True,1.12,30x28x14 cm
+PROD_000148,Sports Product 148,Sports,Sports Sub 5,361.65,54.16,454,Supplier 12,2024-05-11,True,8.71,32x49x18 cm
+PROD_000149,Home & Garden Product 149,Home & Garden,Home & Garden Sub 1,46.77,193.07,372,Supplier 17,2023-09-16,True,0.41,48x38x6 cm
+PROD_000150,Clothing Product 150,Clothing,Clothing Sub 1,125.64,195.32,370,Supplier 13,2024-01-09,True,1.62,38x33x16 cm
+PROD_000151,Sports Product 151,Sports,Sports Sub 1,291.22,161.19,407,Supplier 11,2023-10-16,True,9.61,11x21x20 cm
+PROD_000152,Books Product 152,Books,Books Sub 4,457.64,39.74,793,Supplier 9,2024-05-12,True,6.16,41x22x8 cm
+PROD_000153,Clothing Product 153,Clothing,Clothing Sub 1,231.5,270.11,455,Supplier 3,2023-09-13,False,9.87,32x14x14 cm
+PROD_000154,Home & Garden Product 154,Home & Garden,Home & Garden Sub 2,358.79,278.56,653,Supplier 6,2024-08-06,True,1.3,22x18x12 cm
+PROD_000155,Sports Product 155,Sports,Sports Sub 1,186.84,173.82,478,Supplier 18,2025-04-01,True,0.95,29x35x20 cm
+PROD_000156,Books Product 156,Books,Books Sub 4,386.89,247.89,75,Supplier 5,2024-09-21,True,4.55,43x32x9 cm
+PROD_000157,Books Product 157,Books,Books Sub 5,99.16,290.05,443,Supplier 17,2025-06-16,True,5.23,29x20x10 cm
+PROD_000158,Home & Garden Product 158,Home & Garden,Home & Garden Sub 2,179.55,282.57,916,Supplier 10,2025-05-23,True,6.39,45x27x9 cm
+PROD_000159,Health & Beauty Product 159,Health & Beauty,Health & Beauty Sub 3,311.07,32.56,656,Supplier 6,2023-12-14,False,1.63,49x48x15 cm
+PROD_000160,Books Product 160,Books,Books Sub 1,414.37,13.37,46,Supplier 19,2024-11-13,True,7.69,36x49x5 cm
+PROD_000161,Sports Product 161,Sports,Sports Sub 5,151.94,287.21,494,Supplier 8,2024-06-22,True,0.82,13x20x19 cm
+PROD_000162,Sports Product 162,Sports,Sports Sub 4,237.58,105.36,147,Supplier 11,2024-09-19,True,8.62,35x18x16 cm
+PROD_000163,Books Product 163,Books,Books Sub 5,62.03,76.31,125,Supplier 9,2024-05-08,True,1.06,28x34x18 cm
+PROD_000164,Clothing Product 164,Clothing,Clothing Sub 2,408.6,280.46,738,Supplier 11,2025-01-29,True,5.03,42x39x20 cm
+PROD_000165,Home & Garden Product 165,Home & Garden,Home & Garden Sub 4,21.36,283.84,517,Supplier 15,2024-12-08,True,3.59,13x28x20 cm
+PROD_000166,Books Product 166,Books,Books Sub 4,150.02,7.41,110,Supplier 14,2025-03-27,True,7.3,35x33x6 cm
+PROD_000167,Sports Product 167,Sports,Sports Sub 1,289.44,62.42,566,Supplier 10,2025-05-28,True,4.56,45x27x8 cm
+PROD_000168,Clothing Product 168,Clothing,Clothing Sub 1,203.01,239.49,347,Supplier 18,2024-08-02,True,2.07,42x35x6 cm
+PROD_000169,Electronics Product 169,Electronics,Electronics Sub 1,77.15,103.25,485,Supplier 17,2024-05-01,True,8.94,18x30x15 cm
+PROD_000170,Clothing Product 170,Clothing,Clothing Sub 4,495.4,223.1,306,Supplier 19,2024-09-01,True,5.15,41x46x14 cm
+PROD_000171,Sports Product 171,Sports,Sports Sub 1,190.5,203.77,426,Supplier 19,2024-09-30,True,7.28,50x11x20 cm
+PROD_000172,Home & Garden Product 172,Home & Garden,Home & Garden Sub 5,293.04,217.81,597,Supplier 16,2025-02-18,True,7.24,34x19x12 cm
+PROD_000173,Electronics Product 173,Electronics,Electronics Sub 5,474.62,37.42,19,Supplier 15,2024-09-24,True,4.19,23x36x20 cm
+PROD_000174,Health & Beauty Product 174,Health & Beauty,Health & Beauty Sub 1,355.83,158.01,574,Supplier 11,2023-10-03,True,3.83,21x39x15 cm
+PROD_000175,Books Product 175,Books,Books Sub 3,341.18,260.96,697,Supplier 9,2023-11-26,True,9.58,27x45x14 cm
+PROD_000176,Clothing Product 176,Clothing,Clothing Sub 3,387.88,212.95,706,Supplier 16,2024-09-21,True,5.65,27x28x8 cm
+PROD_000177,Books Product 177,Books,Books Sub 5,196.05,294.15,838,Supplier 12,2025-03-15,True,2.95,15x32x19 cm
+PROD_000178,Health & Beauty Product 178,Health & Beauty,Health & Beauty Sub 3,376.2,68.13,847,Supplier 18,2024-11-07,False,6.99,18x16x12 cm
+PROD_000179,Clothing Product 179,Clothing,Clothing Sub 1,338.22,161.66,653,Supplier 8,2025-06-19,True,3.37,40x16x9 cm
+PROD_000180,Electronics Product 180,Electronics,Electronics Sub 5,489.18,51.59,668,Supplier 16,2024-04-10,True,7.58,28x30x14 cm
+PROD_000181,Health & Beauty Product 181,Health & Beauty,Health & Beauty Sub 1,454.89,31.39,587,Supplier 8,2024-02-11,True,8.52,12x21x18 cm
+PROD_000182,Clothing Product 182,Clothing,Clothing Sub 1,498.61,122.11,507,Supplier 6,2024-10-19,True,0.19,46x48x8 cm
+PROD_000183,Home & Garden Product 183,Home & Garden,Home & Garden Sub 3,232.63,194.19,536,Supplier 16,2025-03-27,True,4.73,22x17x15 cm
+PROD_000184,Clothing Product 184,Clothing,Clothing Sub 4,327.66,216.99,14,Supplier 11,2024-10-13,True,7.6,21x49x17 cm
+PROD_000185,Sports Product 185,Sports,Sports Sub 5,170.68,123.25,97,Supplier 6,2025-03-21,True,9.36,10x26x17 cm
+PROD_000186,Clothing Product 186,Clothing,Clothing Sub 4,379.34,286.44,309,Supplier 19,2024-01-03,True,6.57,25x13x8 cm
+PROD_000187,Sports Product 187,Sports,Sports Sub 3,88.26,207.39,945,Supplier 10,2025-04-13,True,9.41,33x49x12 cm
+PROD_000188,Clothing Product 188,Clothing,Clothing Sub 2,244.31,139.22,620,Supplier 12,2024-06-12,True,9.14,44x23x12 cm
+PROD_000189,Health & Beauty Product 189,Health & Beauty,Health & Beauty Sub 5,437.84,29.15,457,Supplier 17,2024-08-06,True,5.69,13x45x11 cm
+PROD_000190,Books Product 190,Books,Books Sub 5,83.43,101.79,532,Supplier 15,2025-04-14,True,7.2,41x15x19 cm
+PROD_000191,Electronics Product 191,Electronics,Electronics Sub 4,74.65,127.55,577,Supplier 2,2024-01-17,True,8.09,11x35x13 cm
+PROD_000192,Electronics Product 192,Electronics,Electronics Sub 2,293.37,18.36,352,Supplier 3,2024-02-04,False,9.35,14x40x6 cm
+PROD_000193,Home & Garden Product 193,Home & Garden,Home & Garden Sub 4,98.19,44.95,656,Supplier 14,2024-07-24,False,3.89,34x34x7 cm
+PROD_000194,Health & Beauty Product 194,Health & Beauty,Health & Beauty Sub 5,75.17,258.78,121,Supplier 6,2024-02-08,True,1.36,24x10x5 cm
+PROD_000195,Home & Garden Product 195,Home & Garden,Home & Garden Sub 4,340.01,165.61,544,Supplier 13,2024-12-19,True,3.53,27x22x8 cm
+PROD_000196,Electronics Product 196,Electronics,Electronics Sub 4,311.31,281.19,910,Supplier 1,2024-12-08,True,1.1,12x38x6 cm
+PROD_000197,Clothing Product 197,Clothing,Clothing Sub 1,207.11,74.13,222,Supplier 2,2025-03-21,True,2.96,46x30x15 cm
+PROD_000198,Clothing Product 198,Clothing,Clothing Sub 3,439.37,295.78,533,Supplier 8,2024-06-14,True,0.7,47x21x18 cm
+PROD_000199,Books Product 199,Books,Books Sub 4,32.97,106.6,658,Supplier 13,2024-02-21,True,4.22,19x29x17 cm
+PROD_000200,Clothing Product 200,Clothing,Clothing Sub 5,242.02,255.56,307,Supplier 5,2024-04-24,False,5.67,36x45x9 cm
+PROD_000201,Sports Product 201,Sports,Sports Sub 2,134.95,102.43,80,Supplier 15,2024-07-28,True,7.27,22x13x13 cm
+PROD_000202,Sports Product 202,Sports,Sports Sub 5,305.43,262.72,192,Supplier 19,2023-09-24,True,4.85,31x29x5 cm
+PROD_000203,Clothing Product 203,Clothing,Clothing Sub 2,481.42,39.61,772,Supplier 16,2024-12-06,True,7.07,35x25x15 cm
+PROD_000204,Home & Garden Product 204,Home & Garden,Home & Garden Sub 4,238.46,196.37,315,Supplier 9,2024-08-08,True,5.02,16x40x15 cm
+PROD_000205,Clothing Product 205,Clothing,Clothing Sub 3,163.33,18.49,884,Supplier 8,2025-03-15,True,5.58,47x47x18 cm
+PROD_000206,Home & Garden Product 206,Home & Garden,Home & Garden Sub 2,106.13,72.86,583,Supplier 8,2024-03-18,True,9.44,31x26x20 cm
+PROD_000207,Health & Beauty Product 207,Health & Beauty,Health & Beauty Sub 4,235.81,221.17,360,Supplier 6,2025-03-21,True,4.93,44x13x6 cm
+PROD_000208,Electronics Product 208,Electronics,Electronics Sub 1,384.53,126.66,862,Supplier 8,2025-06-03,True,0.19,42x39x16 cm
+PROD_000209,Electronics Product 209,Electronics,Electronics Sub 5,322.49,280.5,934,Supplier 16,2023-10-06,True,0.17,45x36x5 cm
+PROD_000210,Electronics Product 210,Electronics,Electronics Sub 5,363.87,163.04,293,Supplier 1,2024-03-15,True,6.77,21x16x8 cm
+PROD_000211,Books Product 211,Books,Books Sub 2,128.07,187.84,258,Supplier 12,2024-11-11,True,0.88,35x39x12 cm
+PROD_000212,Health & Beauty Product 212,Health & Beauty,Health & Beauty Sub 2,156.99,249.28,82,Supplier 2,2025-05-08,True,3.83,40x13x5 cm
+PROD_000213,Health & Beauty Product 213,Health & Beauty,Health & Beauty Sub 2,50.52,254.37,660,Supplier 11,2024-01-10,False,9.74,43x12x12 cm
+PROD_000214,Clothing Product 214,Clothing,Clothing Sub 5,243.0,18.74,76,Supplier 9,2024-02-02,True,0.43,30x11x11 cm
+PROD_000215,Books Product 215,Books,Books Sub 2,378.6,215.25,407,Supplier 3,2024-10-09,True,2.48,34x44x15 cm
+PROD_000216,Sports Product 216,Sports,Sports Sub 2,397.34,208.35,80,Supplier 17,2024-08-22,True,4.43,14x31x17 cm
+PROD_000217,Home & Garden Product 217,Home & Garden,Home & Garden Sub 1,320.72,236.15,461,Supplier 16,2024-12-21,True,9.42,37x21x17 cm
+PROD_000218,Electronics Product 218,Electronics,Electronics Sub 5,154.74,77.7,75,Supplier 3,2024-11-10,True,7.15,50x19x17 cm
+PROD_000219,Home & Garden Product 219,Home & Garden,Home & Garden Sub 3,62.21,6.53,315,Supplier 15,2024-08-08,True,1.11,15x21x18 cm
+PROD_000220,Sports Product 220,Sports,Sports Sub 5,281.82,125.37,26,Supplier 3,2024-08-14,True,6.01,30x34x5 cm
+PROD_000221,Home & Garden Product 221,Home & Garden,Home & Garden Sub 4,200.02,29.99,922,Supplier 18,2024-12-06,True,1.78,34x20x9 cm
+PROD_000222,Home & Garden Product 222,Home & Garden,Home & Garden Sub 3,141.52,48.05,171,Supplier 14,2024-11-02,True,4.89,14x33x13 cm
+PROD_000223,Clothing Product 223,Clothing,Clothing Sub 4,300.97,62.69,109,Supplier 5,2024-10-04,True,4.02,49x34x15 cm
+PROD_000224,Sports Product 224,Sports,Sports Sub 3,221.0,247.94,666,Supplier 20,2025-03-25,True,6.07,22x40x15 cm
+PROD_000225,Clothing Product 225,Clothing,Clothing Sub 4,484.68,90.98,711,Supplier 16,2023-12-31,True,3.33,27x35x16 cm
+PROD_000226,Electronics Product 226,Electronics,Electronics Sub 5,107.9,299.19,184,Supplier 18,2025-07-15,False,4.67,23x38x14 cm
+PROD_000227,Health & Beauty Product 227,Health & Beauty,Health & Beauty Sub 1,411.29,239.72,418,Supplier 16,2025-03-22,True,2.5,19x37x17 cm
+PROD_000228,Electronics Product 228,Electronics,Electronics Sub 4,495.44,146.37,410,Supplier 18,2024-03-11,False,8.71,36x44x6 cm
+PROD_000229,Home & Garden Product 229,Home & Garden,Home & Garden Sub 5,300.97,274.75,111,Supplier 8,2023-10-08,True,1.75,49x12x17 cm
+PROD_000230,Home & Garden Product 230,Home & Garden,Home & Garden Sub 4,61.91,34.09,227,Supplier 17,2024-02-27,True,6.91,24x38x16 cm
+PROD_000231,Sports Product 231,Sports,Sports Sub 4,388.45,178.63,512,Supplier 5,2024-08-23,False,4.88,28x36x7 cm
+PROD_000232,Electronics Product 232,Electronics,Electronics Sub 2,180.68,106.2,803,Supplier 7,2024-02-25,True,4.81,38x38x15 cm
+PROD_000233,Electronics Product 233,Electronics,Electronics Sub 3,31.89,214.68,23,Supplier 11,2023-10-18,True,8.02,25x43x10 cm
+PROD_000234,Books Product 234,Books,Books Sub 2,172.18,130.78,473,Supplier 8,2024-06-23,True,1.95,37x35x5 cm
+PROD_000235,Health & Beauty Product 235,Health & Beauty,Health & Beauty Sub 5,442.72,137.62,439,Supplier 13,2025-08-07,True,2.14,14x46x8 cm
+PROD_000236,Books Product 236,Books,Books Sub 2,189.24,63.14,116,Supplier 9,2023-09-25,True,5.32,50x30x17 cm
+PROD_000237,Books Product 237,Books,Books Sub 4,297.63,107.64,865,Supplier 15,2023-11-18,True,6.77,29x49x7 cm
+PROD_000238,Health & Beauty Product 238,Health & Beauty,Health & Beauty Sub 2,163.46,75.38,119,Supplier 6,2024-07-25,True,5.16,36x48x9 cm
+PROD_000239,Books Product 239,Books,Books Sub 4,217.29,148.57,550,Supplier 6,2024-01-21,True,2.96,21x30x19 cm
+PROD_000240,Books Product 240,Books,Books Sub 1,434.11,285.79,496,Supplier 5,2025-01-24,True,9.64,42x41x18 cm
+PROD_000241,Health & Beauty Product 241,Health & Beauty,Health & Beauty Sub 4,213.66,252.77,500,Supplier 6,2025-05-19,True,7.98,24x28x6 cm
+PROD_000242,Home & Garden Product 242,Home & Garden,Home & Garden Sub 2,273.43,54.62,468,Supplier 19,2024-03-22,True,1.22,17x27x16 cm
+PROD_000243,Books Product 243,Books,Books Sub 1,382.4,135.2,223,Supplier 14,2025-04-29,True,6.57,25x29x6 cm
+PROD_000244,Sports Product 244,Sports,Sports Sub 3,180.8,245.93,449,Supplier 4,2024-12-12,True,7.4,32x49x18 cm
+PROD_000245,Clothing Product 245,Clothing,Clothing Sub 5,78.23,65.95,211,Supplier 2,2024-01-06,True,2.88,44x20x15 cm
+PROD_000246,Health & Beauty Product 246,Health & Beauty,Health & Beauty Sub 3,151.77,83.87,878,Supplier 17,2023-09-16,True,1.44,36x13x13 cm
+PROD_000247,Health & Beauty Product 247,Health & Beauty,Health & Beauty Sub 2,353.7,44.14,149,Supplier 11,2024-12-01,True,6.79,41x19x13 cm
+PROD_000248,Health & Beauty Product 248,Health & Beauty,Health & Beauty Sub 4,193.83,27.28,813,Supplier 3,2024-06-25,True,2.85,33x39x20 cm
+PROD_000249,Home & Garden Product 249,Home & Garden,Home & Garden Sub 5,11.21,233.37,750,Supplier 3,2024-04-29,True,7.0,14x44x17 cm
+PROD_000250,Clothing Product 250,Clothing,Clothing Sub 4,414.18,150.94,330,Supplier 10,2024-08-31,True,1.39,41x31x6 cm
+PROD_000251,Electronics Product 251,Electronics,Electronics Sub 1,316.83,251.83,16,Supplier 4,2025-03-03,True,0.11,37x22x9 cm
+PROD_000252,Health & Beauty Product 252,Health & Beauty,Health & Beauty Sub 3,87.9,280.15,280,Supplier 3,2023-10-11,True,0.92,20x13x17 cm
+PROD_000253,Health & Beauty Product 253,Health & Beauty,Health & Beauty Sub 3,365.73,227.79,439,Supplier 3,2025-05-06,True,4.82,18x47x12 cm
+PROD_000254,Books Product 254,Books,Books Sub 4,14.55,210.2,836,Supplier 4,2024-06-05,True,4.83,24x34x7 cm
+PROD_000255,Health & Beauty Product 255,Health & Beauty,Health & Beauty Sub 1,60.57,113.43,306,Supplier 5,2024-07-16,True,7.56,18x19x7 cm
+PROD_000256,Books Product 256,Books,Books Sub 5,14.15,196.76,450,Supplier 12,2025-01-05,True,1.6,36x49x19 cm
+PROD_000257,Clothing Product 257,Clothing,Clothing Sub 1,449.33,46.3,126,Supplier 19,2024-07-14,True,4.35,18x25x13 cm
+PROD_000258,Health & Beauty Product 258,Health & Beauty,Health & Beauty Sub 1,131.6,182.29,738,Supplier 20,2024-10-24,True,6.94,29x23x11 cm
+PROD_000259,Health & Beauty Product 259,Health & Beauty,Health & Beauty Sub 4,154.82,21.1,919,Supplier 8,2024-03-23,True,2.49,50x48x7 cm
+PROD_000260,Books Product 260,Books,Books Sub 1,493.57,280.51,135,Supplier 13,2024-01-07,True,5.51,21x40x7 cm
+PROD_000261,Electronics Product 261,Electronics,Electronics Sub 5,43.09,82.34,40,Supplier 2,2024-06-30,True,6.32,42x36x18 cm
+PROD_000262,Health & Beauty Product 262,Health & Beauty,Health & Beauty Sub 4,50.39,163.29,630,Supplier 5,2024-10-31,True,0.88,23x19x15 cm
+PROD_000263,Sports Product 263,Sports,Sports Sub 5,320.8,251.19,697,Supplier 3,2024-09-28,True,7.33,25x13x12 cm
+PROD_000264,Electronics Product 264,Electronics,Electronics Sub 4,66.83,185.63,56,Supplier 10,2023-09-29,True,7.43,17x10x9 cm
+PROD_000265,Health & Beauty Product 265,Health & Beauty,Health & Beauty Sub 1,90.28,286.14,535,Supplier 17,2024-11-19,True,1.36,27x17x5 cm
+PROD_000266,Home & Garden Product 266,Home & Garden,Home & Garden Sub 4,143.27,23.84,729,Supplier 19,2023-11-08,True,4.61,33x13x20 cm
+PROD_000267,Books Product 267,Books,Books Sub 2,190.17,80.26,105,Supplier 19,2023-09-21,True,2.36,42x10x6 cm
+PROD_000268,Electronics Product 268,Electronics,Electronics Sub 2,32.53,112.37,942,Supplier 5,2025-02-09,False,8.59,45x36x12 cm
+PROD_000269,Home & Garden Product 269,Home & Garden,Home & Garden Sub 2,213.97,217.48,277,Supplier 3,2024-01-04,True,5.07,13x21x12 cm
+PROD_000270,Books Product 270,Books,Books Sub 1,477.5,25.33,476,Supplier 10,2024-09-27,True,5.58,10x33x11 cm
+PROD_000271,Home & Garden Product 271,Home & Garden,Home & Garden Sub 5,394.41,223.17,248,Supplier 15,2024-07-30,True,4.98,22x44x12 cm
+PROD_000272,Clothing Product 272,Clothing,Clothing Sub 1,466.87,12.05,554,Supplier 12,2023-10-30,True,8.78,31x10x17 cm
+PROD_000273,Health & Beauty Product 273,Health & Beauty,Health & Beauty Sub 3,60.94,161.3,243,Supplier 14,2024-03-26,False,9.73,19x27x7 cm
+PROD_000274,Electronics Product 274,Electronics,Electronics Sub 2,449.67,158.33,717,Supplier 12,2024-04-29,False,0.94,16x42x9 cm
+PROD_000275,Health & Beauty Product 275,Health & Beauty,Health & Beauty Sub 4,46.67,172.51,445,Supplier 5,2024-12-12,True,8.52,35x30x15 cm
+PROD_000276,Sports Product 276,Sports,Sports Sub 3,124.47,283.35,139,Supplier 19,2025-04-22,True,1.73,39x30x18 cm
+PROD_000277,Electronics Product 277,Electronics,Electronics Sub 5,185.56,232.25,462,Supplier 10,2024-04-24,True,1.29,20x29x6 cm
+PROD_000278,Clothing Product 278,Clothing,Clothing Sub 3,82.68,214.79,991,Supplier 12,2024-07-02,True,6.8,26x21x5 cm
+PROD_000279,Sports Product 279,Sports,Sports Sub 4,282.42,167.29,96,Supplier 15,2025-04-29,True,1.48,10x13x12 cm
+PROD_000280,Clothing Product 280,Clothing,Clothing Sub 2,413.6,114.81,645,Supplier 3,2023-12-24,True,9.18,14x11x7 cm
+PROD_000281,Clothing Product 281,Clothing,Clothing Sub 4,406.56,32.13,867,Supplier 11,2025-04-08,True,4.66,20x46x18 cm
+PROD_000282,Health & Beauty Product 282,Health & Beauty,Health & Beauty Sub 4,253.1,117.91,436,Supplier 6,2024-08-14,True,1.95,27x38x9 cm
+PROD_000283,Electronics Product 283,Electronics,Electronics Sub 5,313.4,77.51,302,Supplier 16,2024-06-16,True,4.84,15x27x17 cm
+PROD_000284,Clothing Product 284,Clothing,Clothing Sub 4,107.73,265.97,538,Supplier 8,2023-11-05,False,5.48,11x34x16 cm
+PROD_000285,Sports Product 285,Sports,Sports Sub 5,392.9,106.49,579,Supplier 17,2024-09-16,True,1.88,30x48x12 cm
+PROD_000286,Electronics Product 286,Electronics,Electronics Sub 3,38.71,297.5,542,Supplier 12,2023-12-22,False,9.74,16x25x12 cm
+PROD_000287,Home & Garden Product 287,Home & Garden,Home & Garden Sub 5,409.98,275.59,57,Supplier 8,2023-12-31,True,7.99,32x21x10 cm
+PROD_000288,Clothing Product 288,Clothing,Clothing Sub 5,165.82,222.74,367,Supplier 19,2025-07-14,True,3.58,46x46x9 cm
+PROD_000289,Books Product 289,Books,Books Sub 2,419.98,244.07,993,Supplier 16,2024-02-03,True,4.96,15x13x12 cm
+PROD_000290,Books Product 290,Books,Books Sub 2,19.76,146.01,339,Supplier 20,2025-01-17,True,3.47,21x30x6 cm
+PROD_000291,Electronics Product 291,Electronics,Electronics Sub 2,297.44,275.58,792,Supplier 4,2024-02-20,True,9.61,33x35x8 cm
+PROD_000292,Home & Garden Product 292,Home & Garden,Home & Garden Sub 3,168.08,292.88,749,Supplier 14,2023-10-27,False,6.53,21x45x16 cm
+PROD_000293,Clothing Product 293,Clothing,Clothing Sub 5,409.08,116.62,751,Supplier 10,2025-04-03,True,0.12,46x35x6 cm
+PROD_000294,Clothing Product 294,Clothing,Clothing Sub 5,165.93,243.6,626,Supplier 8,2023-10-27,True,9.37,19x31x7 cm
+PROD_000295,Clothing Product 295,Clothing,Clothing Sub 3,491.37,54.53,906,Supplier 3,2023-09-25,True,8.88,38x10x13 cm
+PROD_000296,Clothing Product 296,Clothing,Clothing Sub 2,349.66,108.39,805,Supplier 4,2025-08-10,True,4.44,36x20x18 cm
+PROD_000297,Sports Product 297,Sports,Sports Sub 4,182.1,115.73,848,Supplier 16,2023-12-29,True,6.9,20x38x7 cm
+PROD_000298,Electronics Product 298,Electronics,Electronics Sub 3,19.84,82.03,107,Supplier 3,2024-08-26,True,3.82,14x45x7 cm
+PROD_000299,Home & Garden Product 299,Home & Garden,Home & Garden Sub 5,492.79,268.5,721,Supplier 1,2024-05-27,False,1.73,37x20x6 cm
+PROD_000300,Electronics Product 300,Electronics,Electronics Sub 3,110.72,61.05,713,Supplier 18,2024-02-05,True,2.89,25x16x6 cm
+PROD_000301,Sports Product 301,Sports,Sports Sub 5,279.33,149.83,55,Supplier 12,2025-08-08,True,3.02,50x48x20 cm
+PROD_000302,Clothing Product 302,Clothing,Clothing Sub 1,22.61,55.4,298,Supplier 3,2024-04-14,True,3.15,35x40x20 cm
+PROD_000303,Health & Beauty Product 303,Health & Beauty,Health & Beauty Sub 3,54.66,165.52,189,Supplier 12,2024-07-17,True,4.51,26x38x19 cm
+PROD_000304,Home & Garden Product 304,Home & Garden,Home & Garden Sub 2,420.17,171.45,154,Supplier 4,2025-05-16,True,8.1,36x47x12 cm
+PROD_000305,Books Product 305,Books,Books Sub 1,421.99,246.43,428,Supplier 18,2024-04-12,True,2.43,29x15x17 cm
+PROD_000306,Health & Beauty Product 306,Health & Beauty,Health & Beauty Sub 1,256.03,270.63,819,Supplier 19,2023-09-18,False,1.56,38x21x10 cm
+PROD_000307,Clothing Product 307,Clothing,Clothing Sub 2,71.83,129.9,699,Supplier 14,2025-01-17,False,6.31,48x26x15 cm
+PROD_000308,Health & Beauty Product 308,Health & Beauty,Health & Beauty Sub 1,52.64,169.13,565,Supplier 11,2024-11-02,True,9.18,10x49x18 cm
+PROD_000309,Electronics Product 309,Electronics,Electronics Sub 4,83.32,172.15,596,Supplier 4,2025-04-25,True,1.1,28x44x16 cm
+PROD_000310,Sports Product 310,Sports,Sports Sub 3,197.69,148.25,623,Supplier 16,2025-07-04,True,4.09,49x48x17 cm
+PROD_000311,Electronics Product 311,Electronics,Electronics Sub 4,445.89,102.79,243,Supplier 2,2024-04-12,False,8.98,11x31x14 cm
+PROD_000312,Home & Garden Product 312,Home & Garden,Home & Garden Sub 3,422.99,258.18,701,Supplier 4,2024-12-21,True,9.74,38x30x13 cm
+PROD_000313,Health & Beauty Product 313,Health & Beauty,Health & Beauty Sub 4,306.44,31.34,452,Supplier 7,2024-06-21,True,7.62,33x13x10 cm
+PROD_000314,Electronics Product 314,Electronics,Electronics Sub 3,357.69,124.0,799,Supplier 17,2024-01-07,True,2.01,22x13x12 cm
+PROD_000315,Electronics Product 315,Electronics,Electronics Sub 4,34.77,111.31,203,Supplier 9,2024-07-30,True,5.1,50x17x5 cm
+PROD_000316,Clothing Product 316,Clothing,Clothing Sub 3,249.51,136.6,983,Supplier 16,2023-12-20,True,3.51,26x15x14 cm
+PROD_000317,Electronics Product 317,Electronics,Electronics Sub 4,34.33,256.88,798,Supplier 7,2024-12-28,True,6.81,27x36x5 cm
+PROD_000318,Health & Beauty Product 318,Health & Beauty,Health & Beauty Sub 1,242.31,44.03,177,Supplier 20,2025-08-03,True,6.12,29x27x18 cm
+PROD_000319,Sports Product 319,Sports,Sports Sub 3,234.91,69.37,309,Supplier 17,2023-11-12,True,1.11,42x33x14 cm
+PROD_000320,Home & Garden Product 320,Home & Garden,Home & Garden Sub 1,246.05,104.2,283,Supplier 11,2024-11-01,True,7.14,29x22x9 cm
+PROD_000321,Books Product 321,Books,Books Sub 2,450.85,242.6,821,Supplier 20,2024-06-24,True,6.84,11x41x14 cm
+PROD_000322,Home & Garden Product 322,Home & Garden,Home & Garden Sub 4,208.25,222.34,597,Supplier 19,2025-01-29,True,7.16,44x50x20 cm
+PROD_000323,Health & Beauty Product 323,Health & Beauty,Health & Beauty Sub 3,258.58,254.4,860,Supplier 18,2025-02-07,True,4.76,26x45x10 cm
+PROD_000324,Health & Beauty Product 324,Health & Beauty,Health & Beauty Sub 3,330.67,70.56,228,Supplier 10,2024-06-07,True,3.38,26x47x14 cm
+PROD_000325,Sports Product 325,Sports,Sports Sub 1,240.56,260.59,597,Supplier 19,2023-11-15,True,8.91,42x17x17 cm
+PROD_000326,Books Product 326,Books,Books Sub 3,212.42,261.9,154,Supplier 5,2025-01-18,True,9.87,39x19x15 cm
+PROD_000327,Health & Beauty Product 327,Health & Beauty,Health & Beauty Sub 2,391.68,148.84,646,Supplier 6,2024-09-25,True,0.15,27x23x10 cm
+PROD_000328,Books Product 328,Books,Books Sub 2,249.89,230.25,90,Supplier 5,2023-11-21,True,4.35,37x40x17 cm
+PROD_000329,Electronics Product 329,Electronics,Electronics Sub 1,271.55,220.54,972,Supplier 1,2024-09-16,True,5.36,11x10x12 cm
+PROD_000330,Clothing Product 330,Clothing,Clothing Sub 3,162.93,35.3,515,Supplier 19,2024-10-02,True,8.26,29x28x19 cm
+PROD_000331,Health & Beauty Product 331,Health & Beauty,Health & Beauty Sub 5,302.22,104.66,909,Supplier 5,2024-08-26,False,4.95,22x20x17 cm
+PROD_000332,Electronics Product 332,Electronics,Electronics Sub 2,119.92,295.54,216,Supplier 1,2023-12-17,True,1.32,12x34x13 cm
+PROD_000333,Books Product 333,Books,Books Sub 5,33.81,298.43,677,Supplier 4,2023-10-12,True,0.58,17x36x19 cm
+PROD_000334,Sports Product 334,Sports,Sports Sub 1,278.17,144.95,156,Supplier 7,2023-11-05,True,4.27,16x43x13 cm
+PROD_000335,Books Product 335,Books,Books Sub 5,353.36,128.55,920,Supplier 4,2024-03-06,True,1.27,17x16x20 cm
+PROD_000336,Clothing Product 336,Clothing,Clothing Sub 5,107.88,82.58,535,Supplier 7,2024-08-10,True,3.02,12x45x20 cm
+PROD_000337,Clothing Product 337,Clothing,Clothing Sub 4,172.0,5.81,687,Supplier 3,2025-04-20,True,6.72,19x15x7 cm
+PROD_000338,Health & Beauty Product 338,Health & Beauty,Health & Beauty Sub 1,453.34,195.08,467,Supplier 10,2024-11-14,True,1.09,21x12x14 cm
+PROD_000339,Home & Garden Product 339,Home & Garden,Home & Garden Sub 3,218.74,39.19,871,Supplier 2,2025-08-02,True,6.67,20x31x16 cm
+PROD_000340,Sports Product 340,Sports,Sports Sub 5,141.47,221.26,381,Supplier 11,2025-02-05,True,4.06,39x27x17 cm
+PROD_000341,Health & Beauty Product 341,Health & Beauty,Health & Beauty Sub 4,401.95,196.41,816,Supplier 6,2025-04-18,True,7.29,20x16x18 cm
+PROD_000342,Books Product 342,Books,Books Sub 4,403.11,205.13,185,Supplier 20,2024-07-19,True,6.15,18x40x20 cm
+PROD_000343,Electronics Product 343,Electronics,Electronics Sub 4,225.94,23.68,670,Supplier 11,2025-07-30,True,6.81,46x46x12 cm
+PROD_000344,Health & Beauty Product 344,Health & Beauty,Health & Beauty Sub 3,264.36,208.03,633,Supplier 4,2024-05-25,True,2.56,32x34x9 cm
+PROD_000345,Books Product 345,Books,Books Sub 5,36.74,194.8,160,Supplier 17,2024-04-18,True,8.71,14x41x15 cm
+PROD_000346,Clothing Product 346,Clothing,Clothing Sub 3,485.37,19.85,228,Supplier 18,2023-10-23,True,8.19,15x39x19 cm
+PROD_000347,Books Product 347,Books,Books Sub 4,53.13,152.04,323,Supplier 4,2024-03-20,True,0.28,35x36x6 cm
+PROD_000348,Books Product 348,Books,Books Sub 5,10.08,31.81,618,Supplier 20,2023-10-29,True,5.13,23x39x15 cm
+PROD_000349,Home & Garden Product 349,Home & Garden,Home & Garden Sub 1,410.13,254.07,339,Supplier 18,2023-11-16,True,7.19,33x38x8 cm
+PROD_000350,Electronics Product 350,Electronics,Electronics Sub 2,11.08,109.77,648,Supplier 10,2024-01-29,True,7.05,12x20x20 cm
+PROD_000351,Clothing Product 351,Clothing,Clothing Sub 4,62.41,185.2,192,Supplier 4,2024-07-05,True,8.26,22x31x8 cm
+PROD_000352,Sports Product 352,Sports,Sports Sub 1,464.05,252.05,602,Supplier 4,2024-05-07,True,5.93,42x18x20 cm
+PROD_000353,Electronics Product 353,Electronics,Electronics Sub 5,370.74,168.2,443,Supplier 19,2024-04-04,False,7.83,21x47x10 cm
+PROD_000354,Health & Beauty Product 354,Health & Beauty,Health & Beauty Sub 2,60.74,198.97,620,Supplier 11,2024-03-13,True,4.24,48x25x13 cm
+PROD_000355,Sports Product 355,Sports,Sports Sub 3,485.54,138.59,136,Supplier 5,2024-06-15,True,8.88,42x29x15 cm
+PROD_000356,Health & Beauty Product 356,Health & Beauty,Health & Beauty Sub 5,319.97,64.26,639,Supplier 10,2024-08-23,False,1.41,21x42x15 cm
+PROD_000357,Health & Beauty Product 357,Health & Beauty,Health & Beauty Sub 1,382.78,170.87,596,Supplier 19,2023-09-28,True,6.78,44x28x18 cm
+PROD_000358,Electronics Product 358,Electronics,Electronics Sub 5,62.17,117.36,54,Supplier 2,2025-01-19,True,7.88,28x26x9 cm
+PROD_000359,Electronics Product 359,Electronics,Electronics Sub 3,109.96,164.65,367,Supplier 15,2025-04-29,True,6.79,45x24x17 cm
+PROD_000360,Clothing Product 360,Clothing,Clothing Sub 5,394.31,240.65,294,Supplier 2,2024-07-17,True,9.57,30x45x6 cm
+PROD_000361,Electronics Product 361,Electronics,Electronics Sub 3,109.51,261.31,881,Supplier 15,2024-12-24,False,7.08,33x47x11 cm
+PROD_000362,Health & Beauty Product 362,Health & Beauty,Health & Beauty Sub 2,154.15,57.34,699,Supplier 3,2025-02-01,False,7.38,17x34x6 cm
+PROD_000363,Sports Product 363,Sports,Sports Sub 3,282.73,43.37,598,Supplier 9,2025-08-06,True,7.13,19x12x9 cm
+PROD_000364,Home & Garden Product 364,Home & Garden,Home & Garden Sub 5,34.92,280.05,630,Supplier 10,2024-03-27,True,5.55,14x30x12 cm
+PROD_000365,Clothing Product 365,Clothing,Clothing Sub 5,43.41,154.02,425,Supplier 18,2024-02-09,True,3.56,23x31x15 cm
+PROD_000366,Home & Garden Product 366,Home & Garden,Home & Garden Sub 3,117.04,227.03,543,Supplier 16,2024-01-15,True,9.81,10x17x16 cm
+PROD_000367,Sports Product 367,Sports,Sports Sub 2,453.2,186.04,636,Supplier 8,2025-07-02,True,3.28,17x34x13 cm
+PROD_000368,Books Product 368,Books,Books Sub 3,22.11,157.48,788,Supplier 12,2024-03-03,True,4.51,12x28x11 cm
+PROD_000369,Home & Garden Product 369,Home & Garden,Home & Garden Sub 5,50.35,33.31,994,Supplier 18,2024-02-12,True,0.75,50x23x18 cm
+PROD_000370,Electronics Product 370,Electronics,Electronics Sub 2,273.5,212.31,999,Supplier 14,2023-10-19,True,0.81,19x11x19 cm
+PROD_000371,Health & Beauty Product 371,Health & Beauty,Health & Beauty Sub 3,28.56,26.61,182,Supplier 9,2024-01-18,True,8.23,26x36x17 cm
+PROD_000372,Sports Product 372,Sports,Sports Sub 4,222.18,9.98,689,Supplier 4,2024-02-11,True,7.23,14x47x6 cm
+PROD_000373,Health & Beauty Product 373,Health & Beauty,Health & Beauty Sub 1,185.27,153.34,296,Supplier 10,2023-11-29,True,7.68,38x34x17 cm
+PROD_000374,Health & Beauty Product 374,Health & Beauty,Health & Beauty Sub 1,242.25,162.37,139,Supplier 13,2024-01-31,True,6.38,29x33x5 cm
+PROD_000375,Books Product 375,Books,Books Sub 5,79.27,17.32,586,Supplier 20,2024-07-04,True,9.48,29x23x16 cm
+PROD_000376,Clothing Product 376,Clothing,Clothing Sub 4,453.76,256.18,145,Supplier 6,2025-02-04,True,8.36,22x17x10 cm
+PROD_000377,Health & Beauty Product 377,Health & Beauty,Health & Beauty Sub 5,427.6,256.16,954,Supplier 18,2024-04-26,True,0.82,14x26x8 cm
+PROD_000378,Clothing Product 378,Clothing,Clothing Sub 5,248.72,102.6,131,Supplier 8,2025-05-01,True,0.79,22x30x20 cm
+PROD_000379,Sports Product 379,Sports,Sports Sub 3,312.01,95.17,598,Supplier 5,2024-01-10,True,8.1,37x20x5 cm
+PROD_000380,Home & Garden Product 380,Home & Garden,Home & Garden Sub 2,394.97,215.1,656,Supplier 14,2024-11-01,True,1.43,31x40x19 cm
+PROD_000381,Sports Product 381,Sports,Sports Sub 3,389.64,148.66,111,Supplier 6,2023-10-20,True,8.43,18x44x11 cm
+PROD_000382,Home & Garden Product 382,Home & Garden,Home & Garden Sub 1,366.44,268.17,869,Supplier 17,2023-11-04,True,5.86,35x47x11 cm
+PROD_000383,Electronics Product 383,Electronics,Electronics Sub 5,137.7,268.73,552,Supplier 16,2023-10-12,True,3.72,24x47x14 cm
+PROD_000384,Clothing Product 384,Clothing,Clothing Sub 4,255.55,31.71,372,Supplier 17,2025-08-01,True,8.5,49x20x9 cm
+PROD_000385,Sports Product 385,Sports,Sports Sub 2,97.78,284.87,675,Supplier 5,2024-04-03,False,0.5,41x24x7 cm
+PROD_000386,Home & Garden Product 386,Home & Garden,Home & Garden Sub 3,124.67,202.23,530,Supplier 12,2024-07-10,True,4.6,12x12x15 cm
+PROD_000387,Electronics Product 387,Electronics,Electronics Sub 5,320.45,85.68,759,Supplier 9,2023-12-28,True,1.82,34x33x7 cm
+PROD_000388,Books Product 388,Books,Books Sub 3,194.4,272.64,528,Supplier 13,2024-08-15,True,3.52,40x48x5 cm
+PROD_000389,Books Product 389,Books,Books Sub 2,225.55,72.85,526,Supplier 9,2025-01-07,True,1.66,48x17x12 cm
+PROD_000390,Sports Product 390,Sports,Sports Sub 3,362.93,147.05,490,Supplier 16,2025-01-08,True,6.51,36x11x12 cm
+PROD_000391,Electronics Product 391,Electronics,Electronics Sub 2,291.01,52.53,644,Supplier 17,2025-07-02,True,1.55,20x26x10 cm
+PROD_000392,Books Product 392,Books,Books Sub 4,303.69,171.26,19,Supplier 10,2025-05-16,True,6.1,40x40x10 cm
+PROD_000393,Clothing Product 393,Clothing,Clothing Sub 4,304.41,239.41,840,Supplier 6,2023-11-12,True,2.72,31x39x7 cm
+PROD_000394,Clothing Product 394,Clothing,Clothing Sub 4,198.88,37.03,207,Supplier 17,2024-03-13,True,8.28,48x16x10 cm
+PROD_000395,Sports Product 395,Sports,Sports Sub 5,303.91,263.94,544,Supplier 17,2025-04-13,True,6.63,48x44x5 cm
+PROD_000396,Health & Beauty Product 396,Health & Beauty,Health & Beauty Sub 4,265.8,114.26,44,Supplier 17,2024-05-29,True,8.04,34x32x8 cm
+PROD_000397,Sports Product 397,Sports,Sports Sub 2,134.71,230.93,931,Supplier 3,2024-10-25,True,5.48,26x22x5 cm
+PROD_000398,Health & Beauty Product 398,Health & Beauty,Health & Beauty Sub 1,293.21,39.76,7,Supplier 13,2023-10-11,True,8.06,36x33x8 cm
+PROD_000399,Clothing Product 399,Clothing,Clothing Sub 4,329.27,79.82,875,Supplier 18,2024-06-04,True,6.16,35x23x18 cm
+PROD_000400,Books Product 400,Books,Books Sub 5,246.41,114.21,568,Supplier 16,2024-11-25,False,5.82,35x18x8 cm
+PROD_000401,Health & Beauty Product 401,Health & Beauty,Health & Beauty Sub 2,228.83,211.3,165,Supplier 4,2025-01-04,True,7.88,45x49x6 cm
+PROD_000402,Clothing Product 402,Clothing,Clothing Sub 4,482.64,6.56,93,Supplier 5,2024-04-16,False,4.41,14x26x12 cm
+PROD_000403,Home & Garden Product 403,Home & Garden,Home & Garden Sub 1,308.42,218.73,953,Supplier 13,2023-11-22,True,2.94,48x13x10 cm
+PROD_000404,Health & Beauty Product 404,Health & Beauty,Health & Beauty Sub 4,225.1,64.5,672,Supplier 17,2024-10-23,True,7.86,42x43x12 cm
+PROD_000405,Books Product 405,Books,Books Sub 2,340.27,111.12,670,Supplier 1,2025-03-03,True,2.83,35x32x17 cm
+PROD_000406,Sports Product 406,Sports,Sports Sub 5,108.15,9.53,720,Supplier 3,2025-05-11,True,7.29,45x47x16 cm
+PROD_000407,Home & Garden Product 407,Home & Garden,Home & Garden Sub 3,120.88,289.1,465,Supplier 13,2024-01-01,True,1.83,42x16x7 cm
+PROD_000408,Books Product 408,Books,Books Sub 3,176.58,39.52,525,Supplier 9,2024-02-08,True,5.79,38x34x20 cm
+PROD_000409,Clothing Product 409,Clothing,Clothing Sub 3,481.01,140.36,471,Supplier 19,2025-07-14,True,2.65,34x50x12 cm
+PROD_000410,Health & Beauty Product 410,Health & Beauty,Health & Beauty Sub 2,402.08,126.67,361,Supplier 17,2024-02-10,True,8.34,25x28x7 cm
+PROD_000411,Sports Product 411,Sports,Sports Sub 3,47.25,279.76,487,Supplier 11,2024-08-14,True,5.78,21x22x20 cm
+PROD_000412,Health & Beauty Product 412,Health & Beauty,Health & Beauty Sub 2,125.08,76.41,271,Supplier 7,2024-12-20,True,2.57,49x32x9 cm
+PROD_000413,Electronics Product 413,Electronics,Electronics Sub 1,460.89,204.36,679,Supplier 16,2023-11-22,True,8.59,12x40x16 cm
+PROD_000414,Books Product 414,Books,Books Sub 3,251.25,295.68,918,Supplier 19,2024-11-03,True,9.85,42x27x17 cm
+PROD_000415,Clothing Product 415,Clothing,Clothing Sub 5,72.84,160.09,433,Supplier 16,2024-02-05,True,3.54,21x39x8 cm
+PROD_000416,Health & Beauty Product 416,Health & Beauty,Health & Beauty Sub 5,235.43,208.32,12,Supplier 7,2024-07-19,True,3.32,49x26x10 cm
+PROD_000417,Books Product 417,Books,Books Sub 3,126.2,144.05,627,Supplier 11,2024-08-02,True,4.3,36x33x16 cm
+PROD_000418,Sports Product 418,Sports,Sports Sub 3,230.86,173.57,589,Supplier 8,2025-05-01,True,8.06,45x37x17 cm
+PROD_000419,Clothing Product 419,Clothing,Clothing Sub 2,402.02,222.87,484,Supplier 1,2025-02-12,True,1.43,50x43x15 cm
+PROD_000420,Sports Product 420,Sports,Sports Sub 3,132.98,258.26,48,Supplier 13,2025-05-02,True,0.69,26x40x8 cm
+PROD_000421,Sports Product 421,Sports,Sports Sub 3,137.29,111.29,570,Supplier 9,2024-08-24,True,1.3,48x22x10 cm
+PROD_000422,Home & Garden Product 422,Home & Garden,Home & Garden Sub 3,169.29,155.58,793,Supplier 15,2025-05-23,True,2.94,50x19x10 cm
+PROD_000423,Health & Beauty Product 423,Health & Beauty,Health & Beauty Sub 3,216.69,185.63,414,Supplier 3,2025-05-22,True,2.36,30x28x13 cm
+PROD_000424,Books Product 424,Books,Books Sub 4,142.91,136.25,883,Supplier 12,2023-12-19,True,4.56,20x21x5 cm
+PROD_000425,Clothing Product 425,Clothing,Clothing Sub 2,334.39,282.43,717,Supplier 3,2025-01-08,True,1.12,14x40x6 cm
+PROD_000426,Electronics Product 426,Electronics,Electronics Sub 4,266.75,298.82,106,Supplier 9,2023-11-18,True,6.58,34x29x12 cm
+PROD_000427,Clothing Product 427,Clothing,Clothing Sub 3,227.15,42.29,539,Supplier 6,2025-07-13,True,3.63,30x40x19 cm
+PROD_000428,Books Product 428,Books,Books Sub 3,278.79,44.86,971,Supplier 18,2025-02-11,True,4.62,50x46x18 cm
+PROD_000429,Books Product 429,Books,Books Sub 5,161.73,107.41,552,Supplier 8,2025-05-12,True,3.72,26x19x14 cm
+PROD_000430,Electronics Product 430,Electronics,Electronics Sub 1,266.42,228.7,139,Supplier 12,2024-10-22,True,0.18,41x40x14 cm
+PROD_000431,Electronics Product 431,Electronics,Electronics Sub 4,401.0,181.12,815,Supplier 1,2024-01-28,True,4.18,45x37x17 cm
+PROD_000432,Clothing Product 432,Clothing,Clothing Sub 2,360.32,195.57,848,Supplier 13,2024-12-29,True,4.28,25x43x13 cm
+PROD_000433,Home & Garden Product 433,Home & Garden,Home & Garden Sub 5,406.32,126.81,873,Supplier 3,2025-02-06,True,1.19,39x49x19 cm
+PROD_000434,Home & Garden Product 434,Home & Garden,Home & Garden Sub 5,251.08,99.59,155,Supplier 2,2024-02-11,True,9.73,28x27x9 cm
+PROD_000435,Health & Beauty Product 435,Health & Beauty,Health & Beauty Sub 4,366.28,73.68,154,Supplier 1,2024-03-24,True,4.26,41x33x19 cm
+PROD_000436,Health & Beauty Product 436,Health & Beauty,Health & Beauty Sub 1,171.82,253.85,974,Supplier 5,2025-06-15,True,3.98,44x40x10 cm
+PROD_000437,Clothing Product 437,Clothing,Clothing Sub 3,410.45,249.33,124,Supplier 8,2024-07-13,True,4.49,12x22x19 cm
+PROD_000438,Health & Beauty Product 438,Health & Beauty,Health & Beauty Sub 1,265.36,294.72,484,Supplier 13,2023-09-14,False,9.37,20x50x6 cm
+PROD_000439,Health & Beauty Product 439,Health & Beauty,Health & Beauty Sub 5,265.25,79.73,653,Supplier 10,2025-01-20,True,0.62,23x17x12 cm
+PROD_000440,Health & Beauty Product 440,Health & Beauty,Health & Beauty Sub 4,169.01,54.37,282,Supplier 19,2025-04-11,True,2.51,12x47x20 cm
+PROD_000441,Health & Beauty Product 441,Health & Beauty,Health & Beauty Sub 5,85.95,232.39,254,Supplier 6,2024-03-18,True,6.22,50x13x6 cm
+PROD_000442,Home & Garden Product 442,Home & Garden,Home & Garden Sub 2,353.65,238.48,128,Supplier 16,2024-12-16,True,5.63,32x38x11 cm
+PROD_000443,Electronics Product 443,Electronics,Electronics Sub 4,185.5,44.75,920,Supplier 2,2024-04-02,True,5.63,44x41x11 cm
+PROD_000444,Books Product 444,Books,Books Sub 2,276.37,100.49,479,Supplier 9,2023-12-07,False,5.59,14x43x9 cm
+PROD_000445,Sports Product 445,Sports,Sports Sub 3,411.52,164.77,464,Supplier 1,2023-10-28,True,7.36,11x49x16 cm
+PROD_000446,Books Product 446,Books,Books Sub 2,167.14,23.69,990,Supplier 18,2024-07-11,True,6.86,45x19x14 cm
+PROD_000447,Home & Garden Product 447,Home & Garden,Home & Garden Sub 4,324.04,37.59,535,Supplier 3,2025-06-28,True,1.38,12x22x8 cm
+PROD_000448,Sports Product 448,Sports,Sports Sub 2,58.39,173.45,856,Supplier 13,2023-10-08,True,6.28,47x26x6 cm
+PROD_000449,Home & Garden Product 449,Home & Garden,Home & Garden Sub 2,306.92,25.91,952,Supplier 7,2023-10-10,True,8.91,15x39x6 cm
+PROD_000450,Home & Garden Product 450,Home & Garden,Home & Garden Sub 5,374.3,267.68,841,Supplier 12,2025-06-13,True,2.73,12x14x14 cm
+PROD_000451,Electronics Product 451,Electronics,Electronics Sub 2,480.69,33.65,742,Supplier 8,2024-02-14,True,2.01,25x46x10 cm
+PROD_000452,Books Product 452,Books,Books Sub 5,213.44,36.13,653,Supplier 19,2024-08-10,True,7.06,37x16x10 cm
+PROD_000453,Clothing Product 453,Clothing,Clothing Sub 5,206.76,104.57,161,Supplier 18,2023-12-06,True,3.59,30x45x15 cm
+PROD_000454,Home & Garden Product 454,Home & Garden,Home & Garden Sub 4,384.45,132.02,743,Supplier 11,2023-11-27,True,5.5,34x45x13 cm
+PROD_000455,Home & Garden Product 455,Home & Garden,Home & Garden Sub 4,229.27,122.14,743,Supplier 2,2024-10-24,True,5.22,29x10x14 cm
+PROD_000456,Clothing Product 456,Clothing,Clothing Sub 2,429.3,11.4,841,Supplier 9,2024-01-23,True,5.75,46x19x8 cm
+PROD_000457,Electronics Product 457,Electronics,Electronics Sub 4,184.27,45.83,375,Supplier 19,2024-11-29,True,8.13,15x46x17 cm
+PROD_000458,Books Product 458,Books,Books Sub 2,369.79,218.46,811,Supplier 16,2025-02-15,True,9.0,46x16x14 cm
+PROD_000459,Electronics Product 459,Electronics,Electronics Sub 5,196.96,235.14,943,Supplier 11,2024-08-20,True,4.4,17x24x5 cm
+PROD_000460,Health & Beauty Product 460,Health & Beauty,Health & Beauty Sub 4,36.52,159.69,326,Supplier 18,2024-01-11,True,5.07,24x19x6 cm
+PROD_000461,Health & Beauty Product 461,Health & Beauty,Health & Beauty Sub 4,485.81,227.09,589,Supplier 17,2025-05-11,True,2.97,35x19x9 cm
+PROD_000462,Home & Garden Product 462,Home & Garden,Home & Garden Sub 1,243.17,224.87,561,Supplier 13,2024-11-16,True,5.07,18x18x20 cm
+PROD_000463,Books Product 463,Books,Books Sub 2,249.05,197.41,200,Supplier 18,2023-11-20,False,5.29,25x14x13 cm
+PROD_000464,Sports Product 464,Sports,Sports Sub 3,345.52,174.93,115,Supplier 14,2024-06-04,True,1.99,32x48x5 cm
+PROD_000465,Home & Garden Product 465,Home & Garden,Home & Garden Sub 2,493.95,186.79,822,Supplier 15,2023-11-12,True,0.54,24x22x16 cm
+PROD_000466,Clothing Product 466,Clothing,Clothing Sub 1,65.06,21.09,971,Supplier 20,2025-03-13,True,8.22,10x31x8 cm
+PROD_000467,Home & Garden Product 467,Home & Garden,Home & Garden Sub 4,240.88,102.9,757,Supplier 18,2025-01-07,True,5.28,26x45x20 cm
+PROD_000468,Books Product 468,Books,Books Sub 2,350.58,202.14,385,Supplier 19,2023-10-02,True,2.63,13x28x11 cm
+PROD_000469,Health & Beauty Product 469,Health & Beauty,Health & Beauty Sub 5,142.93,142.16,967,Supplier 1,2025-06-04,True,2.79,33x16x5 cm
+PROD_000470,Home & Garden Product 470,Home & Garden,Home & Garden Sub 4,123.27,117.31,1000,Supplier 4,2024-09-22,True,6.01,15x21x11 cm
+PROD_000471,Books Product 471,Books,Books Sub 4,284.74,215.18,40,Supplier 8,2024-02-16,True,4.95,20x11x16 cm
+PROD_000472,Health & Beauty Product 472,Health & Beauty,Health & Beauty Sub 3,184.14,94.19,513,Supplier 9,2025-06-09,True,8.8,11x45x13 cm
+PROD_000473,Clothing Product 473,Clothing,Clothing Sub 2,177.48,120.89,140,Supplier 3,2024-07-16,True,6.81,50x24x18 cm
+PROD_000474,Clothing Product 474,Clothing,Clothing Sub 5,84.85,291.31,931,Supplier 20,2024-09-08,True,1.4,18x47x11 cm
+PROD_000475,Clothing Product 475,Clothing,Clothing Sub 3,347.38,270.1,931,Supplier 5,2024-05-28,False,9.76,19x46x10 cm
+PROD_000476,Home & Garden Product 476,Home & Garden,Home & Garden Sub 1,283.1,284.84,121,Supplier 6,2024-09-20,True,1.54,11x30x18 cm
+PROD_000477,Sports Product 477,Sports,Sports Sub 3,227.07,280.46,915,Supplier 9,2025-03-09,True,1.16,21x11x13 cm
+PROD_000478,Books Product 478,Books,Books Sub 5,310.06,180.93,236,Supplier 1,2024-08-09,True,7.82,18x42x20 cm
+PROD_000479,Health & Beauty Product 479,Health & Beauty,Health & Beauty Sub 3,100.15,119.3,485,Supplier 5,2025-02-25,True,0.42,10x27x18 cm
+PROD_000480,Clothing Product 480,Clothing,Clothing Sub 2,381.31,24.51,949,Supplier 15,2023-11-19,True,3.32,39x25x18 cm
+PROD_000481,Sports Product 481,Sports,Sports Sub 1,307.89,248.18,737,Supplier 11,2024-07-04,True,7.45,48x44x6 cm
+PROD_000482,Books Product 482,Books,Books Sub 1,231.29,248.97,43,Supplier 8,2024-02-27,True,9.84,12x45x17 cm
+PROD_000483,Books Product 483,Books,Books Sub 1,103.03,134.67,905,Supplier 10,2024-10-23,True,4.28,49x13x9 cm
+PROD_000484,Sports Product 484,Sports,Sports Sub 4,54.32,152.69,184,Supplier 19,2024-01-30,True,4.19,38x11x10 cm
+PROD_000485,Sports Product 485,Sports,Sports Sub 5,449.34,269.26,903,Supplier 15,2025-05-11,True,6.95,20x17x7 cm
+PROD_000486,Electronics Product 486,Electronics,Electronics Sub 4,320.7,30.17,724,Supplier 13,2024-03-06,True,1.68,45x34x6 cm
+PROD_000487,Clothing Product 487,Clothing,Clothing Sub 3,287.09,199.56,153,Supplier 6,2025-03-16,True,7.15,36x29x14 cm
+PROD_000488,Health & Beauty Product 488,Health & Beauty,Health & Beauty Sub 4,151.5,58.31,920,Supplier 5,2025-01-16,True,7.68,10x39x20 cm
+PROD_000489,Sports Product 489,Sports,Sports Sub 5,405.65,184.36,505,Supplier 8,2025-01-01,True,4.81,36x38x7 cm
+PROD_000490,Books Product 490,Books,Books Sub 5,13.22,265.24,284,Supplier 20,2023-11-07,True,8.27,13x21x9 cm
+PROD_000491,Electronics Product 491,Electronics,Electronics Sub 3,27.99,256.88,683,Supplier 19,2023-12-03,True,9.21,13x16x18 cm
+PROD_000492,Clothing Product 492,Clothing,Clothing Sub 2,339.32,185.27,708,Supplier 20,2024-01-03,True,1.86,39x47x16 cm
+PROD_000493,Electronics Product 493,Electronics,Electronics Sub 1,386.57,100.23,919,Supplier 13,2025-06-03,True,8.45,14x28x20 cm
+PROD_000494,Clothing Product 494,Clothing,Clothing Sub 1,350.36,85.95,539,Supplier 14,2024-02-21,True,2.17,13x16x7 cm
+PROD_000495,Sports Product 495,Sports,Sports Sub 5,467.61,295.95,294,Supplier 14,2023-11-27,True,2.67,46x49x16 cm
+PROD_000496,Clothing Product 496,Clothing,Clothing Sub 5,285.69,158.31,647,Supplier 16,2024-03-25,True,8.85,24x28x11 cm
+PROD_000497,Electronics Product 497,Electronics,Electronics Sub 1,21.75,189.51,120,Supplier 7,2023-11-20,False,4.2,31x32x11 cm
+PROD_000498,Electronics Product 498,Electronics,Electronics Sub 2,348.11,80.05,69,Supplier 10,2024-10-08,True,3.31,10x17x15 cm
+PROD_000499,Home & Garden Product 499,Home & Garden,Home & Garden Sub 4,364.95,186.72,29,Supplier 6,2025-01-25,True,3.45,40x40x6 cm
+PROD_000500,Health & Beauty Product 500,Health & Beauty,Health & Beauty Sub 2,245.93,190.02,913,Supplier 18,2024-09-02,True,8.16,13x43x14 cm

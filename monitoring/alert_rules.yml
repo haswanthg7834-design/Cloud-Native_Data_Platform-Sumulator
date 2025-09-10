@@ -1,0 +1,180 @@
+groups:
+  - name: dataplatform.rules
+    rules:
+      # API Service Health
+      - alert: APIServiceDown
+        expr: up{job="dataplatform-api"} == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Data Platform API service is down"
+          description: "The Data Platform API service has been down for more than 1 minute."
+
+      - alert: APIHighErrorRate
+        expr: rate(api_requests_total{status=~"5.."}[5m]) > 0.1
+        for: 2m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High error rate in API service"
+          description: "API service error rate is {{ $value | humanizePercentage }} for the last 5 minutes."
+
+      - alert: APIHighLatency
+        expr: histogram_quantile(0.95, rate(api_request_duration_seconds_bucket[5m])) > 0.5
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High latency in API service"
+          description: "95th percentile latency is {{ $value | humanizeDuration }} for the last 5 minutes."
+
+      # Database Health
+      - alert: PostgreSQLDown
+        expr: up{job="postgres"} == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "PostgreSQL database is down"
+          description: "PostgreSQL database has been down for more than 1 minute."
+
+      - alert: PostgreSQLConnectionsHigh
+        expr: sum(pg_stat_activity_count) by (instance) / sum(pg_settings_max_connections) by (instance) > 0.8
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High number of PostgreSQL connections"
+          description: "PostgreSQL connection usage is {{ $value | humanizePercentage }} on {{ $labels.instance }}."
+
+      # System Resources
+      - alert: HighCPUUsage
+        expr: 100 - (avg by (instance) (rate(node_cpu_seconds_total{mode="idle"}[2m])) * 100) > 80
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High CPU usage detected"
+          description: "CPU usage is above 80% on {{ $labels.instance }} for more than 5 minutes."
+
+      - alert: HighMemoryUsage
+        expr: (1 - (node_memory_MemAvailable_bytes / node_memory_MemTotal_bytes)) * 100 > 85
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High memory usage detected"
+          description: "Memory usage is above 85% on {{ $labels.instance }} for more than 5 minutes."
+
+      - alert: LowDiskSpace
+        expr: (node_filesystem_avail_bytes / node_filesystem_size_bytes) * 100 < 10
+        for: 5m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Low disk space"
+          description: "Disk space is below 10% on {{ $labels.instance }} mount point {{ $labels.mountpoint }}."
+
+      # Data Pipeline Health
+      - alert: DataIngestionFailure
+        expr: increase(dataplatform_ingestion_errors_total[5m]) > 0
+        for: 1m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Data ingestion failures detected"
+          description: "{{ $value }} data ingestion errors occurred in the last 5 minutes."
+
+      - alert: DataQualityIssues
+        expr: dataplatform_data_quality_score < 0.95
+        for: 10m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Data quality score below threshold"
+          description: "Data quality score is {{ $value }} which is below the 95% threshold."
+
+      - alert: HighDataVolumeAnomaly
+        expr: rate(dataplatform_records_processed_total[5m]) > (avg_over_time(rate(dataplatform_records_processed_total[5m])[1h:5m]) * 2)
+        for: 10m
+        labels:
+          severity: info
+        annotations:
+          summary: "Unusually high data processing volume"
+          description: "Data processing rate is {{ $value | humanize }} records/sec, which is 2x the hourly average."
+
+      # Business Metrics
+      - alert: HighChurnRate
+        expr: dataplatform_customer_churn_rate > 25
+        for: 15m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Customer churn rate is high"
+          description: "Customer churn rate is {{ $value }}% which is above the 25% threshold."
+
+      - alert: RevenueDropAlert
+        expr: (dataplatform_daily_revenue - dataplatform_daily_revenue offset 7d) / dataplatform_daily_revenue offset 7d < -0.2
+        for: 30m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Significant revenue drop detected"
+          description: "Daily revenue has dropped by {{ $value | humanizePercentage }} compared to the same day last week."
+
+      - alert: LargeTransactionAnomaly
+        expr: increase(dataplatform_large_transactions_total[1h]) > 50
+        for: 5m
+        labels:
+          severity: info
+        annotations:
+          summary: "High number of large transactions"
+          description: "{{ $value }} large transactions detected in the last hour, which may indicate unusual activity."
+
+      # Container and Kubernetes Health  
+      - alert: KubernetesPodCrashLooping
+        expr: rate(kube_pod_container_status_restarts_total[15m]) * 60 * 15 > 0
+        for: 5m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Pod is crash looping"
+          description: "Pod {{ $labels.namespace }}/{{ $labels.pod }} is crash looping."
+
+      - alert: KubernetesPodNotReady
+        expr: kube_pod_status_ready{condition="false"} > 0
+        for: 10m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Pod not ready"
+          description: "Pod {{ $labels.namespace }}/{{ $labels.pod }} has been in a non-ready state for more than 10 minutes."
+
+      - alert: KubernetesDeploymentReplicasMismatch
+        expr: kube_deployment_spec_replicas != kube_deployment_status_available_replicas
+        for: 10m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Deployment replicas mismatch"
+          description: "Deployment {{ $labels.namespace }}/{{ $labels.deployment }} has {{ $labels.spec_replicas }} desired but only {{ $labels.available_replicas }} available replicas."
+
+      # Storage and Backup
+      - alert: BackupFailure
+        expr: time() - dataplatform_last_successful_backup_timestamp > 86400
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Backup has not completed successfully in 24 hours"
+          description: "The last successful backup was {{ $value | humanizeDuration }} ago."
+
+      - alert: StorageBucketErrors
+        expr: increase(dataplatform_storage_errors_total[5m]) > 0
+        for: 1m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Storage bucket errors detected"
+          description: "{{ $value }} storage errors occurred in the last 5 minutes."
